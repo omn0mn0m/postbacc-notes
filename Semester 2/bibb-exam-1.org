@@ -879,6 +879,9 @@ Some Other Chemicals That Affect It:
 - Anatomy is simple
 - Motor Unit :: motor neuron + muscle cell it innervates
 
+- Presynaptic motor neuron AP leads to an EPSP large enough to reach threshold for an AP
+- Endplate potential ~50-60 mV
+
 *** Steps
 1. ACh binding to receptor channel molecule
 2. Channel opens
@@ -888,3 +891,53 @@ Some Other Chemicals That Affect It:
 6. Na+ inflow
 7. Depolarisation (which feeds back into step 5
 8. Action potential
+
+** Synaptic Integration
+*** How do neurons generate signals?
+- Presynaptic signals are integrated at the dendrites and soma
+- AP initiation at initial segment and axon hillock
+- Impulse conduction - saltatory conduction in myelinated axons where AP "jumps" from node to node
+- Transmitter secretion when AP reaches axon terminal
+
+**** Decay
+- Subthreshold signals decay with distance
+- V_$\lambda$ = 0.37(V_0)
+- $\lambda$ = length constant (index of how far depolarisation can spread)
+  - Depends on internal resistance (r_i) and membrane resistance (r_m)
+
+- Synapse placement on dendritic tree assigns weights to different synapses
+- Synapses closer to the axon hillock will have a greater weight
+
+*** How do neurons communicate with one another with electrical and chemical synapses?
+**** Synaptic Integration Details
+- Synapses add together in two ways: spatial summation and temporal summation
+
+***** Spatial Summation
+- Several spatially distinct inputs fire simultaneously, causing sufficient depolarisation to reach threshold
+
+****** Inhibition
+- Inhibitory signal can fire and make it harder to reach threshold
+- Presynaptic inhibition :: releases less quanta, specific - aimed at particular excitatory inputs
+- Postsynaptic inhibition :: affects all inputs therefore not specific
+
+- Shunting inhibition :: inhibitory synapse along travel path can drop a decaying signal down to basically zero
+
+***** Temporal Summation
+- Summation of sequential postsynaptic effects of an individual presynaptic input, leading to sufficient depolarisation to reach threshold
+
+*** How do neurons operate in neuronal circuits?
+- All nervous systems evolved to generate behaviour (usually in response to stimuli)
+- Sensory input -> CNS -> Motor output
+- Integration :: Relationship between inputs and outputs
+
+- Example: Knee jerk reflex 
+
+- Divergence :: Most cells send inputs to a large number of other neurons
+		One input -> Many outputs
+- Convergence :: Most cells receive inputs from more than one cell
+		 Many inputs -> one output
+
+** Central Synapse
+- Single presynaptic neuron is unlikely to excite a postsynaptic cell sufficiently to reach threshold
+- EPSPs are smaller (1-2 mV)
+- IPSP are preventing AP firing

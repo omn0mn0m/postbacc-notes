@@ -1,0 +1,102 @@
+Lecture 1, Slide 42
+
+* Overview of Evolution & Causes of Variation
+- In embryological development, structures emerge where they did not before
+- Possible explanation for how evolution arised
+
+- Allometry :: difference in growth rates of different body parts - causes change in body proportionality
+
+** Homeotic Genes
+- Different areas in DNA sequence can result in different anatomical developments
+- Homology group will transcribe for similar anatomical structures
+
+** Environmental Effects and Phenotypic Plasticity
+- Normally, phenotypes would be distributed over a wide range
+- Selection for efficiency can cause phenotype variety to narrow
+
+*** Regulation and Selection
+- Different conditions lead to changes from a previously common trait
+- Example: Sharp-beaked finch that eats mixed diet of seeds/insects evolving into cactus finch that probs cactus flowers/fruit
+
+** Evolution
+- Evolution :: change in a population over time
+- Observed in both living populations and in fossil records
+- Evolutionary Theory :: current understanding of the mechanisms which drive evolution
+- Sources of variation (mutation. recombination) -> physiological/development -> variation
+
+*** Agents of Change
+- Selection
+- Drift
+- Mutation
+- Migration
+- Non-Random Mating
+
+*** Darwin's Contributions to Explaining Evolution
+**** Species change over time
+- Proposed by others, but previously proposed mechanisms weakended general support for the idea
+
+**** Divergent species share a common ancestor and have become divergent gradually over a long time period
+- Inspired by visit to Galapagos Islands in 1835
+- Observed variations between species of finch that arose due to different environmental niches
+- Differences in beak shape, food source, food obtaining
+- Common ancestor from South America arrived at the islands
+- Vertabrate forelimbs arose from a common ancestor that all extant vertebrates share
+
+**** Differences can be explained through natural selection
+- Surviving members of a species will pass down their phenotypes to future generations
+- Surviving members possess a phenotype that is better fit for survivability
+- Example: Green beetles are easier to see, so they die. Brown beetles are left, and create more brown beetles.
+
+*** Mendel and Genetics
+- Darwin was studying evolution while Mendel was studying genetics
+- Information never got to Darwin of Mendel's work
+- Mendellian genetics did not fit exactly with Darwin's theory that evolution is made of gradual changes
+- Genetic variations contributes to phenotypic variations (seen by observing selective breeding)
+
+**** Genetics Terminology
+- Phenotype :: visible or measurable heritable trait
+	       dominant and recessive traits
+- Gene :: hereditary unit consisting of a DNA sequence that occupies a specific location on a chromosome (locus)
+	  order of DNA determines order of monomers in a polypeptide or nucleic acid molecule which a cell/virus may synthesise
+- Allele :: one version of a gne (particular DNA sequence)
+	    genes can have 2 or more alleles which can affect gene function and therefore affect phenotype
+- Genotype :: all of the specific gene alleles which contribute to a phenotype
+- Gene Pool :: sum of all of the alleles of a gene in a population
+	       Example: 30 individuals = 60 alleles 
+	       Allele frequency = # of alleles in pool / total alleles in pool
+- Diploid :: has 2 alleles
+
+* Modes of Selection
+- Selection acts upon mutations already present in a population
+- Random mutation is a source of genetic varaiation in a population
+
+- Random mutation occurs prior to exposure to antibiotic = original colonies and stamped colonies will have matching survivability
+
+* Genetic Drift
+
+
+* Gene Flow & Migration
+
+
+* Applications: Phage Display, Directed Evolution
+
+
+* Molecular Evolution, Variation, & Society
+
+
+* Traits & Understanding Phylogenetic Trees
+
+
+* Classification & Mechanism of Speciation
+
+
+* Major Events & Patterns on Earth
+
+
+* Characteristics & Definition of Life
+
+
+* Microbial Life & Its Origins
+
+
+* Macrobial Life & the 3 Domains
