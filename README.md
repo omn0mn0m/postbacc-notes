@@ -1,4 +1,4 @@
-# notes
+# class-notes
 Notes taken in my post-bacc program
 
 ## Classes From Each Semester
