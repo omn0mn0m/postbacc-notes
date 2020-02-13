@@ -6,7 +6,8 @@ Lecture 6, Slide 7
 ** Galen
 - Greek physician
 - Brain structures: cerebrum, cerebellum, ventricles
-- Ventricles :: Fluids move to and from the ventricles by the nerves for sensation and movement
+- Ventricular Theory of Brain Function:
+  - Ventricles :: Fluids move to and from the ventricles by the nerves for sensation and movement
 
 ** Descartes
 - Mind/Body Distinction :: Human mind is controlled by the soul, which is different than the physical body
@@ -39,7 +40,7 @@ Lecture 6, Slide 7
 - Brain tissue is composed of gray and white matter
 
 - Gray matter :: neurons and glia
-- White matter :: myelinated axons of neurons
+- White matter :: myelinated axons of neurons (also neurons and glia)
 
 ** Division of Nervous System
 *** Central Nervous System (CNS)
@@ -427,6 +428,9 @@ Lecture 6, Slide 7
 - Differences in type and density of membrane ion channels account for characterstic electrical neuron properties
   - Adaptation
   - Rhythmic bursting
+
+- Tetrodotoxin (TTX) :: blocks Na+ currents - positive current with no negative dip
+- Tetraethylammonium (TEA) :: blocks K+ currents - negative current with no recovery
 
 *** Parts of the Action Potential
 - Rising Phase :: action potential going towards 0 mV
