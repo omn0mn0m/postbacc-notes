@@ -1,0 +1,890 @@
+Lecture 6, Slide 7
+
+* Background
+- Early Greek scholars (Hippocrates) thought the brain was involved in sensation and intelligence
+
+** Galen
+- Greek physician
+- Brain structures: cerebrum, cerebellum, ventricles
+- Ventricles :: Fluids move to and from the ventricles by the nerves for sensation and movement
+
+** Descartes
+- Mind/Body Distinction :: Human mind is controlled by the soul, which is different than the physical body
+- Mental and physical health are separate
+- Body ailments were physical
+- Mental ailments were spiritual
+
+** 17th - 18th Century View
+- White matter is continuous with the nerves
+- Brings info to and from gray matter
+
+** 18th Century View
+- Nerves were like wires -> electrical phenomena
+- Bell and Magendie - thought that dorsal and ventral roots carried ions
+
+** Phrenology
+- Bumps on the surface of the skull reflect brain surface and related personality traits
+
+** Brodmann
+- 1868 - 1918
+- Identifies multiple brain areas
+  - Broca's area
+  - Wernicke's area
+  - Primary auditory cortex
+  - Primary visual cortex
+  - Primary motor cortex
+  - Primary somatosensory cortex
+
+* Neurons and Glia
+- Brain tissue is composed of gray and white matter
+
+- Gray matter :: neurons and glia
+- White matter :: myelinated axons of neurons
+
+** Division of Nervous System
+*** Central Nervous System (CNS)
+- Central division
+- Consists of: Brain and spinal cord
+
+**** Brain
+- 4 major lobes named after overlying cranial bones
+  - Frontal lobe - Motor processing
+  - Parietal lobe - Somatic sensory processing
+  - Occipital lobe - Visual processing
+  - Temporal lobe - Auditory processing
+
+- Gyri :: bumps on the brain
+- Sulci :: grooves on the brain
+- Gyri and sulci are similar on individuals
+
+- Cerebral localisation :: Different functions for different lobes and gyri
+
+***** Primary Cortical Areas
+- Each lobe has a primary cortical area
+- Each area receives inputs that are relayed to the cortex through the thalamus
+
+*** Peripheral Nervous System (PNS)
+- Peripheral division
+- Consists of: network of nerves that go throughout the body
+- Conducts electrical signals to and from CNS
+
+- Efferent neuron :: motor function, carries signal to muscles
+- Afferent neuron :: sensory function, carries signal to the brain
+
+** Histology
+- Study of tissue structure
+
+*** NissI Stain
+- Stains nucleic acids, mainly RNA on rough ER (ribosomes)
+- Facilitates study of cytoarchitecture
+- Stains all cell somas
+
+*** Golgi Stain
+- Silver chromate solution stains small percentage of neurons in their entirety
+- Stain shows 2 parts:
+  - Cell body = soma = perikaryon
+  - Neurites = axons and dendrites
+- Reticular theory :: neurites of different cells fused into continuous reticulum (nerve net)
+
+*** Cajal
+- Histologist and artist
+- Used Golgi stain and light microsope to draw neurons and neural circuits
+
+**** Neuron Doctrine
+- Neurons are the fundamental structural/functional unit of the CNS
+- Neurons are discrete cells: connected but not continuous with other cells
+- Neurons composed of 3 parts:
+  - Dendrite
+  - Axon
+  - Cell body
+- Info frlows along neuron in one direction: dendrite -> cell body -> axon
+
+** Glia
+- From the Greek "glue"
+- Insulates, supports, and nourishes neurons (supports neuron functions)
+
+*** Astrocyte
+- Most numerous glia in the brain
+- Regulate contents of extracellular space
+  - Neurotransmitters
+  - K+ spatial buffer
+- Influence neurite growth
+- Blood-brain barrier
+
+*** Myelinating Glia
+- Forms the myelin sheath for insulating axons
+
+- Node of Ranvier :: Region where axonal membrane is exposed
+
+*** Oligodendrocyte
+- Found in CNS
+- One cell can myelinate several axons
+
+*** Schwann Cell
+- Found in PNS
+- One cell myelinates a signal axon
+
+*** Microglia
+- Act as phagocytes - remove debris left by dead or dying neurons/glia
+- They activate following brain tissue injury
+
+*** Ependymal Cell
+- Lines the brains ventricular system
+
+** Neuron
+- Sense environmental changes (external and internal)
+- Process info
+- Communicate changes to other neurons
+- Command the body's response to these sensations
+
+- Neurites = dendrites + axons
+
+*** Dendrite
+- Short, stubby, and often spiny
+- Highly branched tree
+- Very tapered as it goes further from soma
+- Receives signal
+
+**** Structure
+- "Antennae" of neurons
+- Dendritic tree
+- Covered with neurotransmitter receptors
+- Some covered with dendritic spines
+
+*** Axon
+- Long, thin, smooth
+- Fewer branches
+- Diameter more uniform
+- Sends signal
+
+**** Components
+- Axon hillock - initial segment (beginning)
+- Axon proper - middle
+- Axon terminal - end
+- Axon collaterals - branches
+
+***** Axon Terminal
+- Presence of synaptic vesicles
+- Site where axon comes in contact with other neurons or cells
+
+***** Synapse
+- Point of contact
+- Information passed from pre-synaptic cell to post-synaptic cell
+
+- Presynaptic membrane - belongs to the sending neuron (pre-synaptic)
+- Postsynaptic membrane - belongs to the receiving neuron (post-synaptic)
+- Synaptic cleft - area between
+
+**** Axoplasmic Transport
+***** Anterograde
+- Proteins synthesised in the soma and shipped down to the axon terminal
+- Uses Kinesin
+- Slow: 1-10mm/day
+- Fast: 10000mm/day
+
+***** Retrograde
+- Signals to soma about metabolic needs of axon terminal
+- Terminal to soma transport
+- Uses dynein
+
+*** Soma
+- Cell body
+
+- Cytosol :: watery fluid inside the cell
+- Organelles :: membrane-bound structures within the soma
+- Cytoplasm :: contents within a cell membrane
+
+**** Nucleus
+- Chromosomes :: contain DNA
+- Genes :: segments of DNA that code for specific proteins
+- Gene expression :: reading of DNA resulting in synthesis of a protein
+
+- Central dogma :: DNA --- transcription ---> mRNA --- translation ---> protein
+
+**** Endoplasmic Reticulum (ER)
+***** Rough ER
+- Membrane with attached ribosomes
+- Site of protein synthesis
+
+- Free ribosomes :: produce proteins that are released into the cytosol and used within the cell
+- Bound ribosomes :: on rough ER, usually produces proteins that are inserted into the plasma membrane
+
+***** Smooth ER
+- Folds proteins, giving them a 3D structure
+- Regulates internal Ca+2 concentration
+
+**** Golgi Apparatus
+- Packages molecules and sends them to the appropriate destination in the cell
+
+**** Microchrondria
+- Site of cellular respiration - biochemical Kreb's cycle yields ATP, which is used for energy
+
+**** Neuronal Membrane
+- Membrane is a lipid bilayer, like other cells
+- Polar heads on the inside and outside of membrane
+- Nonpolar tails on the inside of membrane
+- Inside of the membrane is non-polar, and charged ions cannot pass through it
+- Protein pores or channels allow things to pass through the membrane
+
+**** Cytoskeleton
+- Internal scaffolding of the neuron
+- Gives neuron shape
+
+***** Components
+****** Microtubule
+- Dynamic (for plasticity)
+- Forms long scaffolds down neurites
+- Alzheimer's Disease - has abnormal tau protein
+
+****** Neurofilaments
+- Most abundant
+- Very stable
+
+****** Microfilaments
+- Actin molecules
+- Dynamic (for plasticity)
+- Near plasma membrane
+
+*** Classification
+**** By Number of Neurites on Soma
+- Single Neurite - unipolar (pseudounipolar) (DRG)
+- Two or more Neurites
+  - bipolar - 2 (retina)
+  - multipolar - more than 2
+
+**** By Dendritic and Somatic Morphologies
+- Stellate cells - star shaped
+- Pyramidal cells - pyramid shaped
+- Spiny or aspinous
+
+**** By Connections within the CNS
+- Sensory neurons
+- Motor neurons
+- Interneurons
+
+**** By Neurotransmitter Type
+- Cholinergyic - acetylcholine at synapse
+- Adrenergic - norepinephrine/epinephrine at synapse
+* Membrane Potential
+- When neuron is not generating signals, it is at rest
+- Cytosol (inside of cell) has a negative charge compared to the outside
+
+- Neurons can receive signals (normally on the dendrite)
+- Neurons can generate signals (axon hillock)
+- Neurons can conduct signals (axon)
+
+** Signal Conduction
+- Cytosol and extracellular fluid are made of water and ions
+- Sphere of hydration :: Water molecules surround ions
+
+*** Semipermeability
+- Lipid bilayer acts as an insulator, preventing charged ions from passing through wihtout a pore
+
+**** Ion channel
+- Pore formed by proteins that are embedded in the membrane
+- Differ in types of ions that they allow to pass through
+- Cation channels - allow + ions, can be specific or not
+- Anion channels - allow - ions
+
+***** Gating
+****** Leak Channel
+- Passive channels
+- Open at all times
+
+****** Gated Channel
+- Active channels that are selectively opened and closed based on changes
+- Possible changes:
+  - Voltage
+  - Ligand
+  - Phosphorylation
+  - Mechanical Force
+  - Light
+
+** Resting Membrane Potential
+- Voltage across a cell membrane for neurons at rest
+- Leak channels contribute to resting potential
+- Membrane is impermeable to large anions inside cell
+- Movement of charged particles across a semipermeable membrane is what gives ries to a resting potential
+
+*** Microelectrode
+- Made by heating glass, which is pulled into the tip form
+
+*** Ions at Resting Potential
+- Excess of negative charge inside the cell, excess of positive charge outside the cell
+- Results in around -70 mV
+
+- Na+ : chemical driving force = in, electrical driving force = in, permeability = low
+- K+ : chemical driving force = out, electrical driving force = in, permeability = high
+
+- At rest, Na+ is leaking in while K+ is leaking out
+
+**** Concentration Gradient
+- One of two forces that govern particle movements across a permeable membrane
+
+- Diffusion :: movement of ions from high concentration to low concentration
+
+**** Electrical Force
+- Charged particles respond to and create electrical force
+- Charges exert an electrostatic force on other charges
+  - Opposite charges attract and like charges repel
+- Separated charges have potential energy
+- Measure of potential energy = voltage
+- Voltage always measured between two points as a potential difference
+
+- Positive ions move towards the negative pole (cathode)
+- Negative ions move towards the positive pole (anode)
+
+- Current :: movement of charged particles
+	     defined as movement of positive charge (opposite direction as negative charge)
+- Conductance :: Movement of ions through channels
+
+***** Ohm's Law
+- Voltage (V) :: electical force exerted on a charged particle (measured in volts V)
+		 difference in charge between anode and cathode
+- Current (I) :: movement of charged particles per unit time (measured in amperes A)
+- Resistance (R) :: difficulty for particles to flow (measured in ohms $\omega$)
+		    inverse of conductance (g), which relates to permeability of ion channels
+
+- Ohms Law :: I = gV or V = IR or I = g(V_m - E_ion)
+	      If conductance = 0, then no current flow
+	      If voltage = 0, then no current flow
+
+**** Equilibrium Potential
+- No net movement
+- Chemical force and electrical force are equal
+
+***** Some Notes
+- Large changes in membrane potential are caused by minuscule changes in ionic concentrations
+- The net difference in electrical charge occurs at the inside and outside surfaces of the membrane
+- Ions are driven across the membrane at a rate proportional to the difference between the membrane potential (Vm) and the equilibrium potential (Eion) for each ion
+  - Ionic driving force = Vm - E_ion
+
+**** Nernst Potential
+- Each ion has its own equilibrium potential. If the concentration difference across the membrane is known for an ion
+  - Nernst Equation to calculate equilibrium potential :: E_x = 2.303 * RT/zF * log X_o/X_i
+       - z = charge of ion
+       - F = Faraday's constant
+       - R = gas constant
+       - T = absolute temperature
+  - Nernst Equation at 37 C :: E_x = 61.5/z * log X_o/X_i
+
+- Membrane voltage that would just balance the ion's concentration gradient so that there is no net ionic current
+- Only accounts for permeability for that one ion
+
+- Nerst potential = membrane potential -> no net current
+- Difference between Nernst and membrane potential is driving force
+
+**** Goldman Equation
+- More than one ion: permeability taken into account, larger conductance will flow more
+- Nernst equation with weighting added for the permeability/conductance
+
+- V_m = 2.303 * RT/zF * log (P_Na * Na_o + P_k * K_o) / (P_Na * Na_i + P_k * K_i)
+  - P_x is the relative permeability of an ion
+
+- At rest, K+ is most permeable and resting membrane potential is closer to E_K than E_Na
+
+***** Rules
+- V_m > E_k -> Ion flows out of cell
+- V_m = E_k -> No net flow
+- V_m < E_k -> Ion flows into cell
+
+*** Active Transport (Na/K pump)
+- Pumps 3 Na+ out, pumps 2 K+ in
+- Requires ATP for activation
+- Maintains concentration gradient -> hyperpolarisation due to net outward flux of + ions
+
+*** K+
+- V_m is particularly sensitive to K+_out
+- Increasing K+_out depolarises neuron
+
+**** Regulation
+- Elevated K+ -> depolarisation -> interferes with normal signaling
+- Na/K pump
+- Blood-brain barrier prevents excess K+ from entering CNS
+- Glial cells (astrocytes) remove excess K+ from extracellular space
+
+** Action Potential
+- Action potential consists of transient change to membrane potential, traveling from the soma down the axon to the terminal
+- Conveys info over distances - can travel a long distance without losing amplitude
+- Moves by the opening and closing of Na+ channels along the axon
+- Transient reversal (changing negative resting charge to more positive charge
+
+- Neural code :: frequency and pattern of APs
+
+- Active membrane properties due to movement of ions through voltage-gated channels
+- Net Current Flow = conductance x driving force
+
+- Hyperpolarisation :: membrane potential < resting potential
+- Depolarisation :: membrane potential > resting potential
+
+- Threshold :: critical level of depolarisation that must be reached to trigger action potential
+
+- Optogenetics :: action potential firing in response to light
+
+- Saltatory Conduction :: action potential semingly jumping node to node
+- Spike-Initiation Zone :: high density of voltage-gated Na+ channels
+
+- Differences in type and density of membrane ion channels account for characterstic electrical neuron properties
+  - Adaptation
+  - Rhythmic bursting
+
+*** Parts of the Action Potential
+- Rising Phase :: action potential going towards 0 mV
+- Overshoot :: when membrane potential is over 0 mV
+- Falling Phase :: action potential going back to resting potential
+- Undershoot :: when membrane potential is lower than resting potential
+
+*** Firing
+- Firing frequency reflects magnitude of depolarising current
+- AP is all or nothing, always the same size
+
+- Ion mechanisms trigger by membrane potential reaching threshold
+
+**** Ion Mechanism
+***** Rising Action
+- Na+ channels open, increasing Na+ conductance to be above K+
+- Na+ voltage-gated ion channels open in response as positive feedback
+- I_Na = net inward movement
+
+***** Falling Action
+- g_Na decreases again
+- g_K increases by opening voltage-gated K+ channels
+- K+ leaves the cell to repolarise it back to V_rest
+- Resets in neuron
+
+*** Experimental Measurement
+**** Voltage Clamp
+- Used to understand what causes changes in conductance that give rise to action potential currents
+
+1. Internal electrode measures V_m and is connected to a voltage clamp amplifier
+2. Amplifier compares membrane potential to desired potential
+3. When V_m is different from reference voltage, amplifier inject current into axon through a second electrode
+   - Causes V_m to be same as reference voltage
+4. Current flowing back into axon/across membrane can be measured
+
+- Outward current (above axis) shows hyperpolarisation
+- Inward current (below axis) shows depolarisation
+
+***** Hodgkin and Huxley
+- Wanted to understand conductance changes (g_ion) during action potential
+- Calculated the shape of an action potential
+- Proposed the existence of gates in the membrane
+
+1. Set V_ref on voltage clamp
+2. Meusre currents necessary to keep V_m at V_ref
+3. Calculate: g_ion = I_ion / (V_m - E_ion)
+   - V_m and E_ion are knowns
+
+- Na+ currents show faster activation
+- Na+ currents inactivate, K+ currents do not
+- Na+ and K+ conductances are voltage-dependent conductances
+
+***** Patch-clamp method - Sakmann and Neher
+- Measures currents through individual ion channels
+- Pipette tip and Gigaohm seal pinch an individual channel and observe the current change
+
+*** Molecular Mechanisms
+**** Ion Selectivity
+- Na channels and K channels
+
+**** Voltage-dependent activation
+- Activation gates
+
+**** Voltage-dependent inactivation
+- Inactivation gates
+
+**** Voltage-gated Na channels
+- Opens when membrane depolarises from -65 mV to -40 mV
+- Twists S4 region to open gate
+
+- Large protein with 4 domains, each has 6 transmembrane alpha helices
+- Domains are connected by intracellular loops
+- S4 is the voltage sensor of the channel
+
+- Loop after S5 is the selectivity filter for Na+
+- Selectivity filter works based on size of partially hydrated Na+ being smaller than partially hydrated K+
+
+***** Mechanism
+- Closed channel, twisted
+- Opens on depolarisation, untwisted (activation gate)
+- Inactivation gate, ball and chain covers the gate
+- Deinactivation, channel twists back up
+
+*** Refactory Period
+- Absolute refractory period :: Na+ channels inactivated until membrane goes negative enough to deinactivate channels
+- Relative refractory period :: Membrane stays hyperpolarised until K+ channel closes, more depolarisation required to reach threshold
+
+*** Changing Propagation Speed
+**** Axon Diameter
+- Increasing the diameter reduces internal resistance
+- Less ions in contact with membrane
+- Little current leaks out
+- More current down the axon
+- Faster propagation
+
+**** Mylenation
+- Increases the membrane resistance
+- Made of specialised glial cells wrapped around the axon
+- Efficient insulator that allows almost no current leak
+
+- Oligodendrocytes in CNS
+- Schwann cells in PNS
+
+- Voltage-gated channels concentrated at nodes of ranvier
+
+*** Clinical Issues
+- Demyelinating Diseases
+  - Multiple sclerosis :: CNS disease
+       Weakness, lack of coordination, impared vision/speech
+       MS attacks myelin sheath in brain, spinal cord, optic nerve
+       Cause poorly understood
+  - Guillain-Barre Syndrome :: PNS disease
+       Immune response against your myelin
+       Attacks myelin of peripheral nerves innervating muscles and skin
+* Synaptic Transmission
+- Synapse :: functional connection between two cells (neuron -> neuron or neuron -> muscle cell)
+- Presynaptic cell :: sends signal
+- Postsynaptic cell :: receives signal
+
+** Signaling Mechanism
+- Axonal conduction of action potential
+- Synaptic transmission
+
+** Debate
+- In 1921, Loewi demonstrated that synaptic transmission is chemical by stimulating a heart with solution
+- In 1950-60s, microelectrode and electron microscope showed that transmission is both electrical and chemical
+
+*** Over Cell Anatomy
+- Reticular theory :: neurites of different cells fused into a continuous reticulum or nerve net
+- Neuron doctrine :: nerve cells are separate units connected at specific junctions (called synapses)
+
+*** Over Physiology/Function
+- Reticular theory :: flow of signals was purely electrical
+     current flow continuous between cells
+     nervous system is viewed as a functional syncitium
+
+- Neuron doctrine :: electrical transmission not possible
+     current flows out into the extracellular space
+     chemical signal (neurotransmitter) is released by cell sending signal and received by another cell
+
+** Synapses
+*** Electrical synapse
+- Ion channels connect cytoplasm of pre- and postsynaptic cell
+- Some current flows through low-resistance, high-conductance channels that bridge cells, depolarising them
+- If depolarisation > threshold, then AP occurs in postsynaptic cell
+- Gap junction :: extracellular space between cells that is very narrow
+		  pair of hemichannels (connexons) in pre and postsynaptic cells
+		  connexon = 6 connexin protein subunits
+
+**** Furshpan and Potter (1957)
+- Observed the presence of electrical synapse by probing pre and postsynaptic elements of a crayfish
+- Observed an action potential at the presynaptic element
+- Observed electrical post synaptic potential at the postsynaptic element
+
+**** Functional Significance
+- Speed - some behaviours are instantaneous
+- Developmental signaling - neighbouring cells can pass chemical and electrical signals through gap junction that coordinates growth/development
+- Circuitry control - example: retina, during starlight, gap junctions couple rods to cone pathways
+- Synchronisation - example: inferior olive neuron provides inputs to cerebellum
+  - Inputs are synchronous for precise timing of motor control for coordination
+
+*** Chemical synapse
+- Neurons are separated by synaptic cleft
+- No current crosses high-resistance of postsynaptic membrane
+- AP leads to release of chemical transmitter that diffuses across synaptic cleft (cells are not connected structurally)
+- Transmitter interacts with receptors on postsynaptic cell, causing either depolarisation or hyperpolarisation
+- Synaptic cleft is larger than extracellular space
+- Presynaptic cell has active zone
+- Postsynaptic cell has densification
+- Synaptic vesicles contain neurotransmitter
+
+**** Henry Dale
+- Dale's Principle :: Believes that a neuron has only one transmitter (false)
+
+***** Actuality
+- Neuropeptide :: held in large, dense core vesicles (secretory granules)
+- Small molecule neurotransmitter :: held in small synaptic vesicles
+
+- Neuron has preference to release small molecule neurotransmitters during low-frequency stimulation
+- Both vesicles release with high frequency stimulation
+
+***** Neuron Classification
+- Cholinergic :: neurons that use acetylcholine
+- Noradrenergic :: neurons that norepinephrine
+
+**** Neurotransmitters
+- Many different molecules can act as neurotransmitters
+- Action of specific chemical messenger is dependent on receptor properties, not on the messenger
+- Each synaptic vesicle stores one quantum of NT, so NT is released in discrete packets
+
+- Does not always use vesicle storage and release
+  - ATP in taste budes released through hemichannels
+  - NA, CO traverse lipid bilayer by diffusion
+
+***** Criteria
+- Molecule must be synthesised and stored in the presynaptic neuron
+- Molecule must be released by the presynaptic axon terminal
+- Molecule must mimic postsynaptic effect of presynaptic stimulation when experimentally applied
+
+***** Types
+****** Amino Acids
+- Synthesis occurs in the axon terminal
+- Stored in synaptic vesicles
+
+******* Examples
+- Glutamate
+- gamma-aminobutyric acid (GABA)
+- Glycine
+
+****** Amines
+- Synthesis occurs in the axon terminal
+- Stored in synaptic vesicles
+
+******* Examples
+- Norepinephrine
+- Epinephrine
+- Dopamine
+- Seratonin
+- Histamine
+
+****** Peptides
+- Large molecules of amino acids strung together by the ribosomes in the rough ER
+- Large precursor peptide is cleaved in the golgi apparatus
+- Active peptide NT is packaged in secretory granules for transport and release
+
+***** Recovery and Degradation
+- Reuptake :: NT re-enter synaptic axon terminal
+- Diffusion :: NT moves away from synapse
+- Enzymatic destruction inside terminal cytosol or syynaptic cleft (AChE cleaves ACh to inactive state - choline and acetic acid)
+  - Nerve gases (sarin) can inhibit AChE, causing prolonged contractions/paralysis
+
+**** Receptors
+***** Major Functions
+- Recognise and bind transmitter
+- Activate effector proteins
+
+***** Reversal Potential
+- Ligand-gated receptors often conduct more than one ion
+- Each ion has its own Nernst potential and its own conductance g_Na and g_K
+  - AChR g_Na > g_K
+- Channel vehaves as if it conducts one ion whose Nernst potential is equal to reversal potential
+- When an ligand-gated channel is activated, it works hard to try to take membrane voltage to reversal potential
+
+***** Direct Gating (Ligand-gated Ion Channels)
+- Several protein subunits form both the transmitter binding site and ion channel
+- Receptor = effector
+- Ionotropic receptor
+- Effect of channel opening depends on ion being conducted
+
+****** Neurotransmitters
+- ACh
+- Amino acids (Glutamate, GABA, Glycine)
+
+****** Examples
+******* AMPA-type Glu receptor
+- Channel permeable to both Na+ and K+
+- V_m = -65 mV
+- E_reversal = 0 mV
+- Net Na+ and K+ current flow brings V_m towards E_reversal (O mV)
+- Channel makes it more likely to fire action potential
+- EPSP :: excitatory post synaptic potential
+
+******* Nicotinic ACh receptor
+- Channel permeable to both Na+ and K+
+
+- E_Na = 55 mV
+- If V_m near E_Na, then large driving force on K+ to flow out, but no drive on Na+
+
+- E_K = -100 mV
+- If V_m near E_K, then large driving force on Na+ to come in, but no drive on K+
+
+- E_reversal = 0 mV
+- No net current
+
+******* GABA-A receptor
+- Channel only conducts Cl-
+- V_m = -60 mV
+- E_Cl = -65 mV
+- Cl- current flows into the cell towards E_Cl, keeping V_m down near -65 mV
+- Channel makes it less likely to fire action potential
+- IPSP :: inhibitory post-synaptic potential
+
+***** Indirect Gating (G-Protein-Coupled Receptors)
+- Receptor protein that binds transmitter is distinct from the ion channel
+- Effects of transmitter binding receptor are coupled to an effector protein by a set of proteins called G-proteins
+- Receptor != effector
+- Metabotropic receptor
+
+- Primary protein is either on ion channel or an enzyme
+- If an ion channel, then GPCR causes ion channel to open
+- If an enzyme, then GPCR causes synthesis of a second messenger
+  - These types of receptors act too slowly to cause an AP
+  - Normally influence the efficacy of direct gating (ionotropic receptors)
+  - Neuromodulatory
+  - NT that bind are often called neuromodulators
+
+- Exerts effects via GTP-binding proteins (G-proteins)
+- Direct action :: effector is ion channel, G-protein activation directly activates channel
+- Indirect action :: effect is enzyme, G-protein activation activates enzyme which creates second messenger which activates channel
+     - beta-NE receptor activates G_s, which activates adenylyl cyclase to produce cAMP
+     - alpha-NE receptor activates G_i, which inhibits adenylyl cyclase to decrease cAMP production
+
+****** Indirect Action Paths
+- NE -> GPCR -> alpha subunit -> adenylyl cyclase -> ATP to cAMP -> protein kinase
+- NT -> GPCR -> alpha subunit -> phospholipase C (PLC) -> PIP_2 to DAG and IP_3 -> DAG stimulates protein kinase C, IP3 stimulates Ca++ release -> Ca++ regulates downstream enzymes
+
+- Many downstream enzymes are protein kinases
+- Protein kinases transfer phosphate from ATP in cytosol to proteins (phosphorylation)
+- Phosphorylation of ion channels causes protein conformation change which detemines whether channel is open or closed
+- Protein phosphatases remove phosphate groups (dephosphorylation)
+- Some big ones:
+  - Protein kinase A (PKA)
+  - Protein kinase C (PKC)
+  - Calcium calmodulin dependent protein kinase - CaMK
+
+****** Neurotransmitters
+- ACh
+- Amino acids (Glutamate, GABA, Glycine)
+- Small molecule neurotransmitters
+- Large peptides
+
+****** G-Protein and Effectors
+- alpha subunit + GDP = inactive trimer complex (alpha, beta, and gamma stay together)
+- alpha subunit + GTP = active trimer subunits (alpha subunit and beta-gamma subunit)
+- Subunits interact with ion channels or enzymes that activate second messenger systems
+- Hydrolysis of GTP by the alpha-subunit reassembles the inactive trimer
+
+**** General Model (Ca++ Example)
+- Voltage-gated Ca++ channels in the nerve terminal
+- Ca++ necessary for vesicle fusion
+
+***** Steps
+1. Transmitter is synthesised and stored in vesicles
+2. Action potential reaches the presynaptic terminal
+3. Depolarisation opens Ca++ channels and causes influx
+4. Ca++ causes vesicles to fuse with membrane
+5. Transmitter is released into synaptic cleft
+6. Transmitter binds to postsynaptic receptors
+7. Opening or closing of postsynaptic channels
+8. Postsynaptic current fires (either excitatory or inhibitory)
+9. Retreival of vesicular membrane from plasma membrane
+
+***** Docking
+- When vesicle is attached to membrane for fusion
+- SNARE proteins :: bring two membranes close together
+
+****** Proteins to Know
+- Synaptobrevin - on synaptic vesicle membrane
+- Syntaxin and SNAP-25 - on plasma membrane
+- Synaptotagmin - on vesicle membrane, binds Ca++ and produces membrane fusion
+
+***** Receptor Examples
+****** Cholinergic Receptor
+- Nicotinic ACh Receptor :: produces excitation at neuromuscular junction
+     - Agonist: Nicotine
+     - Antagonist: Curare
+
+- Muscarinic ACh Receptor :: produces inhibition in heart
+     - Agonist: Muscarine
+     - Antagonist: Atropine
+
+- Agonist :: Mimics action of a neurotransmitter
+- Antagonist :: Blocks action of a neurotransmitter
+
+
+******* Cholinergic Neuron Proteins
+- Choline acytltransferase (ChAT) :: Enzyme manufactured in soma and transported to terminal
+- Vesicular ACh transpoter :: Transports ACh into vesicle
+- Acetylcholinesterase (AChE) :: Manufacted by cholinergic neuron and secreted into synaptic cleft
+- Choline transporter :: Transports choline into the terminal
+
+******* Myesthenia Gravis
+- Autoimmune against AChR
+- Effect: Weakness and fatigability of voluntary muscles
+- Treatment: anticholinesterase
+
+******* Patch Clamping AChR
+- Clamp membrane potential at a number of different holding potentials
+- Apply ACh to bath
+- Measure currents through ACh receptor channel
+
+- Clamping at higher voltage: outward current
+- Clamping at lower voltage: inward current
+
+- Can calculate conductance as g = I/V = -20 mV/ -2 pA = 28.5 
+****** Glutamatergic Receptor (Ionotropic)
+- Activated by glutamate
+- Cause excitatory postsynaptic potential
+
+- AMPA Receptor :: AMPA as agonist
+		   Has Na+ and K+ flow
+- NMDA Receptor :: NMDA as agonist
+		   Has Na+, K+, and Ca++ flow
+- Kainate Receptor :: Kainate as agonist
+
+- Both NMDA and AMPA receptors coexist in the postsynaptic membrane
+
+******* NMDA Receptor (In-Detail)
+- Both a ligand and voltage-gated ion channel
+
+- Ligand gate: glutamate must be bound
+- Voltage gate: at resting V_m, channel is blocked by Mg++
+
+- Mg++ block is removed by depolarisation -> + ion repelled by cell being relatively positive inside
+- Channel opening is activity dependent: AMPA receptor channels mediate initial depolarisation
+  - Why NMDA and AMPA receptors coexist
+
+- Acts as a coincidence detector
+- Opens only when both pre and post synaptic elements are active
+  - Pre: glutamate release
+  - Post: depolarisation from AMPA receptors
+- Na+ and Ca++ enter the postsynaptic cell
+- Increased intracellular Ca++ initiates a cascade of events:
+  1. Activates enzymes
+  2. Regulates opening of ion channels
+  3. Affects gene expression
+  4. Can lead to increased synaptic strength for memory/learning
+
+****** GABAergic Receptor
+- Both GABA_A receptor and glycine receptor gate a Cl- channel
+- Inhibitory Cl- current leads to IPSP
+
+Some Other Chemicals That Affect It:
+- Ethanol
+- Benzodiazepine
+- Barbiturate
+- Neurosteroid
+
+*** Types
+- Axodendritic :: axon -> dendrite
+- Axosomatic :: axon -> cell body
+- Axoaxonic :: axon -> axon -> cell body/dendrite
+
+**** Asymmetrical Membrane Differentiations
+- Gray's Type I
+- Asymmetric
+- Round vesicles
+- Excitatory
+
+**** Symmetrical Membrane Differentiations
+- Gray's Type II
+- Symmetric
+- Flattened vesicles
+- Inhibitory
+
+** Neuromuscular Junction
+- Used to study directly gated synaptic transmission
+- Muscle cells are large
+- Synapse can be visualised with light microscope
+- Anatomy is simple
+- Motor Unit :: motor neuron + muscle cell it innervates
+
+*** Steps
+1. ACh binding to receptor channel molecule
+2. Channel opens
+3. Na+ inflow, K+ outflow
+4. Depolarisation (end-plate potential)\
+5. Opening of voltage-gated Na+ channels
+6. Na+ inflow
+7. Depolarisation (which feeds back into step 5
+8. Action potential

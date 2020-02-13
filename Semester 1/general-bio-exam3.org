@@ -1,0 +1,373 @@
+* Genetics
+** Probability
+- AND: multiplication
+- OR: addition
+
+*** Determining Probabilities
+- Monohybrid cross: probability of two independent events is determined by multiplying the probability of each event
+- Dihybrid cross: probability of allele combinations to form the desired outcome
+
+** Mendelian Genetics
+- MAP for pea plants are simple - 2 possible phenotypes (dominant and recessive) -> 3 genetypes (homozygous dominant, heterozygous, homozygous recessive)
+- Ideal test cross ratio: 1:1:1:1
+- Ideal dihybrid cross ratio: 9:3:3:1
+
+*** Law of Independent Assortment
+- When two or more characteristics are inherited, individual hereditary factors assort independently, giving different traits equal opportunity of occuring
+- Equal opportunity for different arrangements during meiosis, then homologs separate
+- If crossing RrYy x RrYy then create a 4x4 Punett square
+  - Top labels: RY, Ry, rY, ry
+  - Side labels: RY, Ry, rY, ry
+  - Phenotype ratio: 9 dominant dominant, 3 dominant recessive, 3 recessive dominant, 1 recessive recessive
+
+*** Crossing Over
+- As chromatin is condensing in prophase I, homologous chromosomes pair up (synapsis)
+- Pairing up forms tetrad
+- Chiasmata form and indicate the site where genetic exchange between nonsister chromatids takes place (crossing over/recombination)
+
+*** Fertilisation
+- 1 human ovum + 1 human sperm
+- 70 trillion combinations without crossing over
+- Random fertilisation increases offspring variation drastically
+
+*** Allele Domination
+- P gene encodes info to produce a protein -> an enzyme that catalyses a reaction necessary for a dominant phenotype
+- Dominant P allele - transcribed and translated to produce functional enzyme
+- Recessive P allele - does not make a functional enzyme
+
+** Non-Mendelian Genetics
+*** Codominance vs Incomplete Dominance
+- Incomplete dominance :: one allele is only partially dominant to the other, so the heterozygote exhibits an intermediate phenotype (red dominant x white recessive = pink heterozygote)
+     - One copy of either allele is not enough to fully produce the homozygous phenotype
+- Codominance :: both alleles equally dominant, so both allele's corresponding phenotype is visible in the heterozygote (black chicken x white chicken = speckled chicken)
+     - One copy of either allele is enough to fully produce the homozygous phenotype, so both phenotypes can show
+
+*** Homozygous Lethality
+- Causes ratio of progeny to be off
+- Yy x Yy where YY phenotype is lethal would cause 2 Yy progeny and 1 yy progeny
+
+*** Chromosomal Basis of Inheritance
+**** Sex Chromosomes
+- Chromosomes that determine sex
+- Chance of human male vs female: XY x XX = 50% XY and 50% XX
+
+***** Sex Determination
+- Usually one sex is homogametic and the other is heterogametic
+
+- Female: XX (homogametic) and Male: XY (heterogametic)
+- Male: ZZ (homogametic) and Female: ZW (heterogametic)
+- Female: XX (homogametic) and Male: X- (heterogametic)
+
+***** X-Linked Inheritance
+- Y chromosome directs gender: XY = male, XX = female
+  - Y has very little genetic info
+- X-linked recessive traits are more likely in males due to only requiring 1 copy, where females can still be heterozygous
+
+***** Y-Linked Inheritance
+- Y chromosome carries few genes, mainly regarding male-specific features
+
+**** Autosome
+- Any chromosome that does not determine sex
+
+**** Aneuploidy
+- When an abnormal number of chromosomes are present
+
+***** Non-disjunction in meiosis :: when chromosomes are separated unevenly
+- In meiosis I - chromosomes are uneven between diploids going into meiosis II, so 2 gametes have n+1 and 2 gametes have n-1
+- In meiosis II - chromosomes uneven after split into gametes, so 2 gametes normal where non-disjunction doesn't occur, and 1 n+1 gamete and 1 n-1 will exist
+- When fertilisation occurs: egg n+1 and sperm n = 2n + 1 zygote
+
+****** X chromosome non-disjunction
+- XXY - sterile male with potentially some female characteristics
+- XXX - no real stigmata
+- XO - sterile female with short stature, low mental ability, failure to undergo puberty
+- YO - non-viable due to X chromosome genes required for survival/development
+
+***** Barr Body and X Chromosome Inactivation
+- Clump of chromatin of all somatic cells in females
+- Represents one inactivated X chromosome
+- # of barr bodies = number of X chromosomes - 1
+- The inactivated X chromosome is random
+
+- Precursor cell has both X chromosomes active
+- During split, 1 X chromosome in each new cell is inactivated
+- Causes features such as differently coloured patterned fur (tortoiseshell cats)
+
+****** More About the Cats
+- Orange fur = X-linked
+- Black fur = simple dominance
+
+******* Results
+- BY = orange male
+- bY = black male
+
+- bb = black female
+- BB = orange female
+
+- Bb = tortoiseshell female (some areas will have B inactivated, others will have b inactivated
+
+***** Other Methods of Handling XX
+- Hypertranscription: 2 full X chromosomes = 1 double sized X chromosome (drosophila)
+- Hypotranscription: 2 half X chromosomes = 1 full X chromosome
+
+**** Karotyping
+- Examining the number and size of chromosomes
+- Trisomy :: when there are three chromosomes instead of two
+	     - more likely to occur as the maternal age increases (exponential growth in rate)
+- Trisomy 13 :: Patae syndrome
+- Trisomy 21 :: Down's syndrome
+
+*** Polygenetic Inheritance
+- Multiple genes determining a single phenotype
+- Allows for many more phenotype possibilities in a pseudo-gradient
+- Example: skin colour determined by at least 3 genes
+
+*** Pleiotrophy
+- Ability of a gene to affect more than one characteristic
+- Example: PKU gene codes for an enzme that converts phenylalanine to tyrosine, causing retardation, reduced hair, bodily damage due to toxicity
+
+** Gene Interations
+*** Interactions between alleles
+- Complete dominance :: Aa looks like AA if 50% of gene product is sufficient for full function
+- Incomplete dominance :: 50% of gene product not sufficient for full function
+
+**** Human Blood Types
+- Possibilities: A, B, AB, O
+- Example of codominance :: both alleles are expressed in the heterozygote
+- Human blood type determined by three alleles for the gene: I^A, I^B, i
+
+***** Genotypes and Corresponding Phenotypes
+- I^A/I^A, I^A/i = A
+- I^B/I^B, I^B/i = B
+- I^A/I^B = AB
+- i/i = O
+
+*** Interactions When Genes at Multiple Loci Determine Single Phenotype
+- Effects of gene at one locus depends on the presence of genes at other loci
+  - Provides novel phenotypes 
+
+**** Epistasis
+- 2 unlinked loci (genes) interact
+- Mutation in one gene affects phenotype of second gene
+- Mutation in one gene hides the phenotype of the other gene
+- Precursor: occurs when two enzymes in one pathway coded by two different genes -> first in pathway takes precedent
+- Other possibility: two genes on same pathway requiring both genes to be dominant for a phenotype (corn requires both A and B dominant)
+
+***** Example
+- Labradors have B and E to determine fur colour
+- B determines colour, but if ee is present, then that overrides B (yellow)
+
+** Organelle Inheritance
+*** Cytoplasmic Inheritance
+- Phenotype of the mother is the sole determinant of the offspring phenotype - uniparental inheritance
+- Always passed from mother to all children, never through father
+
+**** Heteroplasmy
+- Mitochondria with two different mitochondrial gene types are present in a cell
+- Mitochondria randomly separate during cell division, resulting in random distribution of mitochondrial gene types
+
+** Linkage
+- Two or more genes can be located on same chromosomes
+- Genes that are close together tend to be transmitted as a unit
+
+*** Linked Genes
+- If two genes are located on the same chromosome, alleles can recombine only when there is crossing over during meiosis
+- Probability that crossover occurs is proportional to distance between genes
+- Fewer recombinant gametes than nonrecombinant gametes
+
+- Trans configuration: w + and + m can be written as a B / A b
+- Cis configuration: w m and + + can be written as a b / A B
+
+*** Crossing Over
+- Occurs betwen homologous chromosomes
+- Chromatids cross over at a chiasma, then split into individual chromatids once recombined
+
+*** Recombination Frequency
+- Frequency of recombination: 0.0 to 0.5
+- Percent recombination: 0% to 50%
+- Map distance in map units
+- Map distance in centiMorgans (cM) where 1 map unit = 1 cM
+
+**** Calculation
+- Homozygous dominant and homozygous recessive crossed: AABB x aabb = 100% AaBb
+- Heterzygous and homozygous recessive then crossed: AaBb x aabb = AaBb, Aabb, aaBb, aabb
+- The phenotypes with the least offspring are the recombinant phenotypes
+
+- Recombination frequency (RF) = (# of recombinants / total offspring) * 100%
+- 1% = 1 map unit = 1 cM
+
+***** Determining Cis or Trans of the Heterozygous Parent
+****** Cis
+- Parent: AB, ab
+- Parental gametes: AB, ab
+- Recombinant gametes: Ab, aB
+
+****** Trans
+- Parent: Ab, aB
+- Parental gametes: Ab, aB
+- Recombinant gametes: AB, ab
+
+**** Chi-Square Test to Determine Linkage Probability
+- Deviation from normal 1:1:1:1 ratio can represent change event or linkage
+  - Too many parental types and too few recombinant types = linkage
+- Chi-square test determines goodness of fit between observed and expected results
+
+- Chi-Square = Sum((observed - expected)^2 / expected)
+
+- For a total offspring size of 3236, one would expect 809, 809, 809, 809 for each phenotype
+- If chi-square > critical value, then reject null hypothesis (1:1:1:1 no recombination)
+- If chi-square < critical value, then accept null hypothesis (1:1:1:1 no recombination)
+
+** Gene Expression
+- Genes can be regulated during transcription, during translation, or post-translation
+
+*** Operon
+- Cluster of functionally related genes can be under coordinated control by a single on/off switch (multiple gene products from one mRNA strand)
+- Operator :: regulatory switch segment of DNA positioned within a promotor
+- Operon :: stretch of DNA that includes operator, promotor, and genes under control
+
+- Repressible operon - turned off - Trp operon
+  - Binding of a repressor to the operator shuts off transcription
+  - Repressible enzymes usually function in anabolic pathways: synthesis repressed by high level of end product
+- Inducible operon - turned on - Lac operon
+  - A molecule called an inducer inactivates the repressor and turns on transcription
+  - Inducible enzymes usually function in catabolic pathways: synthesis induced by chemical signal
+
+**** Positive and Negative Regulation
+- Negative control - repressor inhibits transcription
+  - Effector molecule binds to repressor protein, causing it to detach
+- Postive control - activator promotes transcription
+
+**** Trp Operon
+- RNA polymerase moves along, making tryptophan subunits
+- Tryptophan causes conformational change in repressor
+- Repressor binds to operator, blocking polymerase
+
+**** Lac Operon
+- Inducible operon and contains genes that code for enzymes used in the hydrolysis of lactose
+- Lac operon only active if lactose is high (no repressor) and glucose is low (CAP bound)
+
+***** Repressor Binding
+- Lac repressor normally active, switching lac operon off
+- Inducer molecule (lactose in this case) inactivates the repressor to turn the lac operon on
+  - Makes inducer conformational change
+
+- Pi is promoter site to synthesise the repressor (lacI)
+- Plac is promoter site for making lactose degradation enzmes (beta-galactosidase, permease, transacetylase)
+
+***** CAP Binding
+- Glucose represses lac operon
+- Small effector molecule, cAMP, binds to activator protein catabolite activator protein (CAP) or cAMP receptor protein (CRP)
+- Operon turned off when CAP not bound
+- Glucose inhibits production of cAMP and so prevents binding of CAP to DNA
+
+*** Bacteria and Viruses
+- General Process: DNA ---- transcription ----> mRNA ---- translation ----> protein
+
+- Regulation usually at transcription intiation
+- Dependent on DNA binding regulatory proteins
+- Regulatory proteins alwayas present = constitutive expression
+- Regulatory proteins not always capable of binding DNA
+  - Switch to function DNA binding protein, "on" or "off", is dependent on allosteric interactions between signal and regulatory molecules
+
+*** Eukaryotes
+**** General Process
+- In the nucleus: DNA ---- transcription ----> primary RNA transcript -- 5' capping, RNA splicing, 3' poly-adenylation --> mRNA
+- Outside the cell: mRNA in nucleus ----- export ----> mRNA in cytoplasm ---- translation ----> protein
+
+**** Regulation
+- Gene expression can be regulated at any time
+- Organisms must regulate which genes are expressed at any given time
+- Multicellular organisms' gene expression is essential for cell specialisation
+- Almost all cells are genetically identical
+- Difference in gene types due to differential gene expression
+
+***** Transcription Initiation Regulation
+- Chromatin-modifying enzymes provide initial control of gene expression by making region of DNA either more or less able to bind transcription machinery
+
+****** Regulatory Sequence
+- Proximal control elements are located close to promoter
+- Enhancer :: distal control elements may be far from gene
+- Activator :: Protein that binds to enhancer and stimulates gene transcription
+
+****** Transcription Repressors
+- Work to turn off gene expression
+
+******* Methods
+- Competitive DNA binding
+- Masking of activation surface
+- Direction interaction with general transcription factors
+- Recruitment of repressive chromatin remodeling complexes
+- Recruitment of histon deacetylase
+
+***** Post-Transcriptional Regulation
+- Transcription alone does not account for gene expression
+- Allows cell to fine-tune gene expression rapidly in response to environmental changes
+
+**** Transport
+- Exon junction complex composed of a number of proteins
+- mRNA exported through nuclear pore complex (NPC)
+- NPC regulates which molecules enter and exit the nuclear membrane
+
+***** GTP Hydrolysis and G-Proteins
+****** Import
+- Importin docks and causes channel to open to allow things to pass into nucleus
+
+****** Export
+- Exportin docks and causes channel to open to allow cargo to pass into cytoplasm
+
+**** RNA Processing 
+- Alternative RNA splicing :: changing the produced protein based on what is treated as an intron or exon
+- When an mRNA is decayed is dependent in part by sequences in the leader and trailer regions
+- Phosphorylation of an initiation factor globally regulates protein synthesis
+
+** Genomes and Genomics
+
+
+** Epigenetics
+- Changes in phenotype without changing an organism's genome due to environmental factors
+- Mostly due to DNA methylation
+- Chromatin restricts access to DNA
+- More accessible: histone methylation and histone acetylation
+- Less accessible: histone deacetylation and histone demethylation
+
+*** Nucleosome
+- Histone with DNA wrapped around
+- Histone can be modified through acetylation -> promotes loose chromatin structure to permit transcription
+
+*** Epigenetic phenomena
+- Heritable alternative states of gene activity that do not result from altered nucleotide sequence
+- Can be supported by looking at twins that are separated from birth or raised in separated environments
+
+*** X-Inactivation
+- Calico cat coat colour is based on epigenetics
+- X in female is randomly inactivated
+- X chromosome Inactivation Center (XIC) - controls expression of X-inactive-specific transcript (XIST) which produces non-coding RNA molecule, coating a local X-chromosome
+
+*** DNA Methylation
+- Addition of methyl group to certain bases in DNA, assosciated with reduced transcription
+- Can cause long-term inactivation of genes in cellular differentiation
+
+** Genetic Control of Development
+- Certain genes get silenced during development
+- Stem cell :: undifferentiated cell that dividfes and gives rise to cells that differentiate
+	       localised to meristems in plants
+	       cells from young animal embryos are totipotent
+- Totipotent :: able to form all differentiated cells of adult
+- Pluripotent :: able to form more than 1 differentiated cell type
+
+*** Development Factors
+- Cell division
+- Cell movement
+- Cell identity
+- Coordination with other cells
+- Growth
+
+*** Cell Division
+- Cells divide unevenly, ultimately resulting in differences between cell contents
+
+*** Gene Activation
+- Maternal components used first, then zygote will activate specific genes
+
+*** Cell Signaling
+- Cells give off an inductive signal to surrounding cells to lead them towards a specific developmental pathway

@@ -1,0 +1,1736 @@
+# Exam 1
+* Intro to Physiology
+- Physiology: the study of the functions of organisms
+- Organ system: collection of anatomical structures that work together to carry out a specific function
+
+** Body Organisation 
+*** Cell
+- Smallest independent unit that makes up a living organism that are specialised in different functions
+
+**** Major Types of Cells
+- Neurons - Specialised to transmit information in the form of electrical signals
+- Muscle Cells - Specialised to contract, generating mechanical force and movement
+- Epithelial Cells - Continuous, sheetlike layer of cells in combination with a thin underlying layer of noncellular material (basement membrane)
+- Connective Tissue Cells - Any structure whose primary function is to provide physical support for other structures
+
+*** Tissue
+- Collection of similarly functional cells
+
+**** Major Groups of Tissue
+- Nervous tissue
+- Muscle tissue
+- Epithelial tissue
+- Connective tissue
+
+*** Organ
+- When two or more tissues combine to make a structure that performs a particular function
+
+*** Organ System
+- Collection of organs that work together to perform certain functions
+
+** The Body Plan
+*** External Environment
+- Layer of epithelial tissue separates the external environment from the body interior
+- Layer consists of skin, lung lining, GI lining, and kidney tubules
+
+*** Internal Environment
+- Most of body is not able to directly interface with external environment
+- Blood is contained within epithelium-lined blood vessels
+
+*** Body Fluid Compartments
+- Most abundant substance in body is water
+- Total Body Water (TBW) - total volume of fluid enclosed within outer epithelial layer
+  - Intracellular Fluid (ICF) - Fluid inside the cells
+  - Extracellular Fluid (ECF) - Fluid outside the cells
+    - Plasma - liquid in the blood
+    - Interstitial fluid - liquid outside the blood that bathes most of the cells in the body
+
+** Homeostasis
+- Maintenance of relatively constant conditions in the internal environment of the body
+- Example of Homeostasis: glucose maintenance
+
+*** Negative Feedback Control
+- Regulated variable - value that must stay within certain limits
+- Setpoint - normal desired value for the feedback loop
+- If the regulated variable increases, then the feedback works to decrease it and vice versa
+
+*** Positive Feedback Control
+- The system responds in the same direction as the change
+
+* Homeostasis
+- Body's internal composition is constantly challenged by external factors and internal metabolic activities
+- Homeostasis :: the maintenance of extracellular fluids (ECF) to be relatively constant
+		 - Depends on mass balance
+- Homeostasis and an essential feature of complex organisms and a central theme in physiology
+- All organs act on the ECF to maintain homeostasis
+
+- Equilibrium :: equal amount of substance between intracellular plasma  and interstitual fluid
+		 - Gases, water, lipid-soluble substance (steroids, fatty acids) can transport through capillaries
+- Steady State :: constant amount of substance in ECF and ICF compartments (input == output)
+		 - Requires energy to maintain
+
+** Factors Under Homeostatic Control
+- Nutrients
+- Gases
+- Waste products
+- pH
+- Salt and other electrolytes
+- Temperature
+- Volume and pressure
+
+** Control Center
+- Relex :: Response made at a distance from target cell
+- Local Response :: Response made at target cell
+		    - Occurs only in the area of the stimulus, neither nerves nor hormones involved
+
+** Efferent Division
+
+
+** Reflex Arc
+- Involves both nervous and endocrine system
+
+*** Stretch Reflex Arc
+- 1a sensory afferent neuron :: senses stretch and sends info to spinal cord
+- alpha motor neuron :: sends information towards muscle
+- Skeletal muscle fiber :: neuromuscular junction
+
+- Stretch induces depolarisation, as does opening of mechanosensitive channels
+- They combine to make a stronger signal
+
+*** General Components in Order of Pathway
+1. Integrating Center
+2. Efferent Pathway
+3. Effector
+4. Response
+5. Feedback
+6. Stimulus
+7. Receptor
+8. Afferent Pathway
+9. Loops back to integrating center
+
+** +/- Feedback
+- The goal of feedback loops are to maintain a setpoint
+- Hierarchy of importance since not everything can be maintained at setpoint
+
+- Negative Feedback :: Response counteracts the stimulus, shutting off the response loop
+- Positive Feedback :: Response reinforces the stimulus, sending the parameter farther from the setpoint
+
+** Glucose Regulation
+- Negative feedback
+- Setpoint: About 80 mg/100 mL
+- Only liver stores and releases glucose into the blood
+
+*** Glucose High
+1. Stimulus: Rising glucose level (such as from eating carb-rich meal)
+2. Integrating Center: Beta cells in pancreas release insulin into blood
+3. Effector: Liver takes up glucose to store as glycogen, body cells take up more glucose
+4. Response: Blood glucose declines back to setpoint, decreasing insulin release
+
+*** Glucose Low
+1. Stimulus: Dropping glucose level (such as from skipping a meal)
+2. Integrating Center: Alpha cells in pancreas release glucagon into blood
+3. Effector: Liver breaks down glycogen and releases glucose into blood
+4. Response: Blood glucose rises up to setpoint, decreasing glucagon release
+* Endocrine System
+** Transport
+*** Simple Diffusion
+ - Does not require specific protein
+ - Solute transported with gradient (high concentration to low concentration)
+ - No ATP needed
+
+ - Occurs as a result of random thermal motion of molecules (random walk)
+ - Over time, molecules will spread to near evenly fill a compartment
+
+ - Flux :: the amount of material crossing a surface in a unit of time
+	   - Net flux account for both directions combined
+	   Net flux depends on:
+	   - temperature
+	   - molecular mass
+	   - surface area
+	   - medium (water vs air)
+
+
+**** Distance versus Time
+ \begin{equation}
+ x=\sqrt{2Dt}
+ \end{equation}
+
+ where x is distance diffused (cm), D is diffusion constant, t is time (s)
+
+ \begin{equation}
+ D=\frac{KT}{6 \pi r \eta}
+ \end{equation}
+
+ where K is Boltzmann's constant, T is absolute temperature (K), r is molecular radius, n is medium viscosity
+
+ - Note that water is denser than air, so it is easier to diffuse in air (based on D constant)
+
+**** Rate of Diffusion
+ - Fick's Law of Diffusion
+
+ \begin{equation}
+ J=PA(C_A-C_B)
+ \end{equation}
+
+ where J is net flux (mmol/s), P is permeability (cm/s), A is surface area (cm^3), C_A is solution A concentration (mmol/L), C_B is solution C concentration (mmol/L)
+
+**** Permeability
+ \begin{equation}
+ P=\frac{KD}{\Delta x}
+ \end{equation}
+
+ where P is permeability, K is partition coefficient, D is diffusion coefficient, delta x is membrane thickness
+
+ - A higher partition coefficient means a substance will more readily dissolve in a lipid bilayer
+
+***** Diffusion Potential
+ - Potential difference generated across a membrane when a charged solute (ion) diffuses down its concentration gradient
+ - Created by the movement of only a few ions, and does not cause concentraiton change in bulk solution
+
+**** Osmosis
+ - Movement of water through a membrane
+ - Not diffusion because it is driven by osmotic pressure difference, not concentration difference
+
+***** Characteristics
+ - Always passive
+ - Unaffected by membrane potential
+ - Driven by osmotic pressure
+ - Response to solute concentratio gradient
+   - Movement through aquaporins, protein channels
+
+***** Osmolarity
+ - Concentration of osmotically active particles in solution
+
+ \begin{equation}
+ Osm=gC
+ \end{equation}
+
+ where Osm is osmolarity, g is number of particles/mol in solution, C is concentration (mmol/L)
+
+ - Isosmotic :: Two solutions with same calculated osmolarity
+ - Hyperosmotic :: Solution with higher osmolarity
+ - Hyposmotic :: Solution with lower osmolarity
+
+***** Osmotic Pressure
+ - Van't Hoff Equation
+
+ \begin{equation}
+ \pi=gCRT
+ \end{equation}
+
+ where pi is osmotic pressure (atm), g is number of particles/mol in solution, C is concentration (mmol/L), R is gas constant, T is absolute temp (K)
+
+ - Water moves from low osmotic pressure to high osmotic pressure
+
+ - Van't Hoff Equation can be modified to include the extent to which a particular solute crosses a particular membrane (effective osmotic pressure)
+
+ \begin{equation}
+ \pi=gC \sigma RT
+ \end{equation}
+
+ where sigma is reflection coefficient (from 0 to 1)
+
+***** Tonicity
+ - Function of the concentration of nonpermeating solutes outside a cell relative to concentration inside a cell
+
+ - Isotonic :: 300 mOsm
+ - Hypotonic :: Lesser than 300 mOsm, cell swells
+ - Hypertonic :: Greater than 300 mOsm, cell shrinks
+
+*** Facilitated Transport
+ - Requires specific protein
+ - Solute transported with gradient
+ - Does not require ATP
+
+*** Active Transport (Primary)
+ - Requires specific protein
+ - Solute transported against gradient (low concentration to high concentration)
+ - Requires ATP
+
+*** Cotransport (Secondary)
+ - Requires specific protein
+ - Solute transported against gradient
+ - Does not require ATP
+ - Driven by movement of cotransported ion down its gradient
+
+*** Countertransport (Secondary)
+ - Ion and second solute move in opposite directions
+
+*** Carrier-Mediated Transport
+**** Features
+ - Saturation :: Carrier proteins have a limited number of binding sites for the solute
+ - Sterospecificity :: Binding site for solute on the transport proteins are stereospecific
+ - Competition :: Transporter can bind chemically-related solutes
+
+**** Kinetics
+ \begin{equation}
+ v_0=\frac{v_{max}[S]}{K_m+[S]}
+ \end{equation}
+
+ where v_0 is velocity, v_max is maximum velocity, K_m is constant
+
+**** Transporters
+ - Carrier proteins open and allow solute to pass the bilayer when the solute is bound to the protein (example: glucose)
+
+*** Ions
+**** Electrolytes
+ - Chemical and electrical gradients influence ion movement
+ - Chemical driving force goes from high to low gradient
+ - Electrical driving force goes to the side of the membrane of opposite charge
+
+**** Determining Driving Force Direction
+ - If V_m < E_x, electrochemical driving force is going out of cell
+ - If V_m > E_x, electrochemical driving force is going into cell
+
+**** Equilibrium Potential
+ - Membrane voltage for a particular ion at equilibirum (when the electrochemical gradient is 0 and there is not net flow)
+ - Excess anions on the intracellular side, excess cations on the extracellular side
+
+***** Nernst Equation
+ \begin{equation}
+ V=\frac{RT}{zF}ln\frac{C_o}{C_i}
+ \end{equation}
+
+ where V is equilibrium potential (V as internal - external), C are outer and inner ion concentration, R is gas constant, T is absolute temperature (K), F is Faraday's constant, z is ion valence (charge)
+
+ Alternatively, ln can be replaced with 2.303log_10:
+
+ \begin{equation}
+ V=2.303\frac{RT}{zF}log\frac{C_o}{C_i}
+ \end{equation}
+
+ In most cases, z = 1, and $2.303\frac{RT}{F}$ is 61:
+
+ \begin{equation}
+ V=\frac{61}{1}log\frac{C_o}{C_i}
+ \end{equation}
+
+**** Diffusion
+ - Ion diffusion through the membrane is done through protein channels
+
+***** Leaky Ion Channels
+ - Randomly opens and allows ions to move along the concentration gradient (high to low)
+
+***** Gated Ion Channels
+ - Voltage-Gated :: Opens due to voltage change
+ - Ligand-Gated :: Opens when a substance is bound to binding sites on the channel
+ - Mechanically-Gated :: Opens when a conformation change in the membrane, etc occurs, forcing it open
+
+*** Pumps
+**** Sodium Potassium Pump
+ - Sodium-Potassium pump moves 3 Na+ out of the cell and 2 K+ into the cell every time it hydrolyses ATP
+ - Electrogenic :: Drives a net current across the membrane, creating an electrical potential that is often no more than 10% to the membrane potential
+ - Direct role in controlling solute concentration, regulating cytosol osmolarity
+
+*** Membrane-Bound Compartment Transport
+ - Transport of macromolecules
+
+**** Endocytosis
+ - Phagocytosis :: Cell membrane engulfs particle, breaks off into phagosome, matures into lysosome, and breaks down particle
+ - Pinocytosis :: Cell membrane engulfs dissolved molecules, breaks off into endosome, and transports molecules to final destination
+ - Receptor-Mediated :: Receptor protein is bound by molecule, causing coated pit to change conformation and form vesicle
+
+**** Exocytosis
+ - Secretory vesicle fuses to plasma membrane, releasing contents
+
+** Chemical Messengers
+ Mechanisms of Cell Signaling:
+ - Direct contact between cells -through gap junctions
+ - Indirect communication through chemical messengers - messenger is released from secretory cell and received by receptor in target cell
+   - Local:
+     - Paracrine signaling - short distance, transports through diffusion
+       - Autocrine signaling - cell signals to itself
+     - Synaptic signaling - short distance, transports through diffusion
+   - Long Distnace:
+     - Endocrine signaling - long distance, transports through blood
+
+*** Target Response Strength
+ Depends on
+ - Messenger cocnentration
+ - Number of receptors per target cell
+ - Receptor affinity for the messenger
+
+**** Up-regulation
+ - Receptor number increases on target cell
+ - May result from too little messengers
+ - Sensitivity to messenger increases
+
+**** Down-regulation
+ - Receptor number decreases on target cell
+ - May result from excess messengers
+ - Tolerance to messenger develops
+
+*** Transport
+**** Bloodborne
+ - Source and target located at a distance
+ - Lipophobic ligands dissolve in plasma
+ - Lipophilic ligands bind to carrier protein
+
+**** Diffusion through interstitial fluid
+ - Source and target are close
+ - Ligand is quickly degraded
+
+**** Receptors
+ - Nonpolar signals bind to receptor inside cell
+ - Polar signals bind to transmembrane receptors
+
+*** Endocrine System
+ - Crucial for cells from one region to communicate to distant cells to maintain homeostasis
+ - Body uses endocrine system and nervous system for long distance communication
+
+ - Endocrine target secretes a hormone that enters the blood
+ - Blood spans the distance to the target
+
+*** Hormones
+**** Hormone Interactions
+ - Antagonism :: Effect when hormones oppose each other
+ - Additive :: Net effect equals sum of individual effects
+ - Synergistic :: Effect of two homrones favour each other but net effect exceeds sum of individual effect
+ - Permissiveness :: One hormone is needed to exert another's effect
+
+*** Stimuli for Release
+**** Direct Inputs
+ - Ions or nutrients
+ - Neurotransmitters
+ - Hormones
+
+*** Organs that Release Hormones
+**** Primary Organs
+ - Hypothalamus
+   - Multiple hypophysiotropic hormones that trigger other hormone responses
+ - Pineal Gland
+   - Melatonin -> Many organs -> Biological clock
+ - Thyroid Gland
+   - Thyroxine -> Liver -> Metabolic rate
+ - Parathyroid Gland
+ - Anterior Pituitary
+ - Posterior Pituitary
+   - FSH, LH -> ovaries -> Menstrual cycle
+   - ADH -> Kidneys -> Water homeostasis
+   - Growth Hormone -> Many organs -> Stimulates cell division
+   - Oxytocin -> Uterus -> Birth contractions
+   - Prolactin -> Mammary Glands -> Milk production
+ - Thymus Gand
+ - Adrenal Gland
+   - Adrenaline -> Many -> Fight or flight
+   - Cortisol -> Many -> Anti-stress
+ - Pancreas
+ - Gonads (ovaries, testes)
+   - Oestrogen, Progesterone -> Uterus -> Menstrual cycle
+   - Testosterone -> Many -> Male characteristics
+
+**** Secondary Organs
+ - Adipose Tissue - Leptin
+ - Heart - Atrial Natriuretic Peptide
+ - Kidney - Erythropoeitin
+ - Stomach - Gastrin
+ - Intestine - Secretin, Cholecystokinin
+ - Skin - Vitamin D
+
+*** What Kind of Stimuli (Glucose? Ca? Hormones? Neurons?)
+**** Lipophobic Ligands (hydrophilic)
+ - Synthesis is independent of demand
+ - Stored in vesicles of source until needed
+ - Released by exocytosis
+
+**** Lipophilic Ligands (hydrophobic)
+ - Synthesised on demand
+ - Immediate release from source
+ - Release rate depends on synthesis
+
+**** Amino Acids (hydrophilic)
+ - Targets cell receptors on cell membrane
+ - All functino as neurotransmitters
+ - Synthesised within neuron and stored in vesicle until needed
+ - Released by exocytosis
+
+**** Amines (mostly hydrophilic, except thyroid hormones)
+ - Targets receptors on cell membrane
+ - Made or derived from an amino acid and contains an amine group, with the product being determined by enzymes present in the cell
+ - Produced in the cytosol of the source and stored in vesicle until needed
+ - Released by exocytosis
+
+* Nervous System
+- Transmit signals within neurons via long axons
+  - Signal in axon = action potential
+  - Axon action potential spans the distance to target
+- Between cells via the synapse
+
+- Overshoot :: Development of charge reversal
+- Depolarisation :: Ion movement reduces charge imbalance
+- Repolarisation :: Movement back towards resting potential
+- Hyperpolarisation :: Development of even more negative charge within cell
+
+** Ion Movements
+- Inward current (depolarisation) caused when positive ions go inside cell and negative ions go outside cell
+- Outward current (hyperpolarisation) caused when positive ions go outside cell and negative ions go inside cell
+
+- Cl goes the opposite behaviour of Na and K because it is negative
+
+*** Comparing Membrane Potential and Nernst Potential of Ion
+- If (Vm - Eion) = 0, driving force is 0 and there is no net flow/current
+- If (Vm - Eion) > 0, driving force is positive and there is outward current (hyperpolarisation)
+- If (Vm - Eion) < 0, driving force is negative and there is inward current (depolarisation)
+
+** Nervous System Components
+*** Central Nervous System (CNS)
+- Brain
+- Spinal cord
+
+*** Peripheral Nervous System (PNS)
+- Afferent information (input)
+- Efferent information (output)
+
+** Cell Structure
+*** Neuron
+- Excitable cells
+- Made of
+  - Dendrites
+  - Cell body
+  - Initial segment
+  - Axon collateral
+  - Axon
+  - Axon terminal
+
+**** Classes
+- Bipolar
+- Pseudo-unipolar
+- Multipolar
+
+*** Glial Cells
+- Support cells
+- 90% of all cells in nervous system
+
+**** Types
+- Astrocyte
+- Microglia
+- Oligodendrocyte
+- Schwann cell
+
+*** Myelin Sheath
+- Schwann cell forms around axon
+- Insulates it
+- Voltage does not decay as much in myelinated axon
+- Ion channels at areas without myelin
+- Increasing conduction velocity by increasing axon diameter and axon myelination
+
+** Types of Proteins that Localise in Different Parts of Neurons
+
+
+** Produce
+*** Resting Potential
+- Potential when neuron is not active
+- Caused by passive transfer of ions
+- Negative
+
+*** Action Potential
+- Occurs when cell is depolarised
+- Na-K pump is active
+- Must reach threshold
+
+*** IPSP
+
+
+*** EPSP
+
+
+** Synapse
+- Site of communication between two neurons or between neuron and effector organ
+- Neurons communicate using neurotransmitters
+
+** Ion Channels
+- Neuron has both gated and ungated ion channels
+
+*** Leak Channels
+- Always pen
+- Throughout neuron
+- Resting membrane potential
+
+*** Ligand-gated Channels
+- Open or close in response to ligand binding
+- Dendrites and cell body
+- Synaptic potentials
+
+*** Voltage-gated Channels
+- Opens or closes in response to change in membrane potential
+
+**** Sodium and Potassium CHannels
+- Throughout, but more in the axon (especially in the axon hillock)
+- Action potentials
+- Typically more Na+ extracellular and more K intracellular
+- Na channels open fast and close fast
+- K channels open slowly and close slowly
+
+**** Calcium Channels
+- Axon terminal
+- Release of neurotransmitter
+
+** Threshold Potential
+- Potential target for when AP triggers
+- Multiple action potentials above threshold will make a stronger signal
+
+*** Refractory Period
+- Absolute Refractory Period :: No new action potentials can be triggered
+- Relative Refractory Period :: New action potential can be triggered if stimulus is way above threshold
+
+** Calculating Membrane Potential
+- Use Nernst equation
+- Membrane potential is equal to Nernst membrane potential of an ion if membrane is only permeable to that one ion
+- Resting potential is negative because of having many open K+ channels but few open Na+ channels
+
+** Calculating Equilibrium Potential
+Use Goldman-Hodgkin-Katz equation
+
+\begin{equation}
+E_{rev}=\frac{RT}{F}ln\frac{P_k[K]_o + P_{Na}[Na]_o + P_{Cl}[Cl]_i}{P_k[K]_i + P_{Na}[Na]_i + P_{Cl}[Cl]_o}
+\end{equation}
+
+** Autonomic Nervous System* Homeostasis
+
+# Exam 2
+* Sensory Physiology
+** Basics
+*** Central Nervous System
+- Brain
+- Spinal cord
+
+**** Spinal Cord Horns
+- Dorsal horn :: cell bodies of interneurons on which afferent neurons terminate
+- Lateral horn :: cell bodies of autonomic efferent nerve fibers
+- Verntral horn :: cell bodies of somatic efferent neurons
+
+*** Peripheral Nervous System
+- Cranial nerves
+- Ganglia outside the CNS
+- Spinal nerves
+
+**** Divisions
+***** Afferent (Sensory)
+- Sensing external environment
+- Sensing internal environment
+
+***** Efferent (Motor)
+- Autonomic nervous system
+  - Parasympathetic division
+  - Sympathetic division
+- Somatic nervous system
+
+*** Stretch Receptors
+- Stimulation produces a receptor potential/generator potential
+- Receptor potential will trigger a graded potential
+
+**** Adaptation
+- Tonic receptors :: slowly adapting receptors that respond for the duration of the stimulus (action potentials fire less rapidly)
+- Phasic receptors :: rapidly adapts to a constant stimuls and turns off (action potential stops)
+
+** Vision
+*** Iris
+- Controls amount of light entering eye cavities
+- Contraction of radial or smooth muscles permits pupil diameter change
+  - Parasympathetic stimulation of circular muscle causes pupillary constriction (bright light)
+  - Sympathetic stimulation of radial muscle causes pupillary dilation (dim light)
+
+*** Lense
+- Concave surface has focal point in front of lense
+- Convex surface has focal point behind lense
+- Refraction of light causes mirror image
+- Parasympathetic stimulation flattens the lense for distant viewing by relaxing the ciliary muscle to tighten the ciliary zonule
+- Sympathetic stimulation bulges the lense for close vision by contracting the ciliary muscle and loosening the ciliary zonule
+
+*** Retina
+**** Outer Layer
+- Contains retinal pigment epithelium and photoreceptors
+
+***** Photoreceptors
+- Most concentrated by the fovea, and gets less concentrated as you move away
+- Rods :: Distinguishes light (black and white)
+- Cones :: Distinguishes colour (red - L cone, blue - S cone, green - M cone)
+
+**** Middle Layer
+- Contains horizontal cells, bipolar cells, and amacrine cells
+
+**** Inner Layer
+- Contains ganglion cells and optic nerve axons
+
+** Hearing
+
+* Muscular System
+** Structure
+- Attached to bones or to skin (in the case of facial muscles)
+- Single, very long, cylindrical multinucleate cells with obvious striations
+
+- Epimysium -> Perimysium -> Fasicle -> Muscle Fiber -> Sarcomere -> Myofibril -> Protein Filament
+
+*** Muscle Organ
+- Consists of hundreds to thousands of muscles cells, connective tissue wrappings, blood vessels, and nerve fibers
+- Connective tissue covered externally by epimysium
+
+*** Fasicle
+- Discrete bundle of muscle cells, segregated from the rest of the muscle by a connective tissue sheath
+- Connective tissue surrounded by perimysium
+
+*** Muscle Fiber
+- Elongated multinucleate cell with a banded/striated appearance
+- Connective tissue surrounded by endomysium
+
+*** Filament Structure
+https://opentextbc.ca/biology/wp-content/uploads/sites/96/2015/08/Figure_38_04_04-1024x919.jpg
+
+**** TODO Myosin Structure
+
+**** TODO Actin Structure
+
+**** TODO Thick Filament
+
+**** TODO Thin Filament
+
+** Excitation / Contraction
+- Contraction :: Activation of force-generating sites within muscle fibers (cross-bridges)
+- Shortening of filament is based on a sliding theory where thin filaments slide along the thick filament
+- Voluntary (Sensory input -> integration at brain -> motor output)
+
+*** Excitation
+- Controlled by motor neurons
+- Neuromuscular junction between neuron acetylcholine vesicle and muscle cell plasma membrane
+- Excitation triggered by the release of acetylcholine
+
+**** Acetylcholine
+- Released from vesicles in the axon terminal when voltage-gated Ca2+ channels are activated
+- Binds with nicotinic receptor for activating muscle or is metabolised by acetylcholinesterase
+- Binding to receptor causes a Na/K channel to open, allowing Na+ to flow in and K+ to flow out
+
+**** Excitation Steps
+1. Ach is released from the axon terminal due to action potential and binds to receptors in the motor end plate, triggering an action potential in the muscle cell
+2. Action potential propagates along sarcolemma and down the T tubules
+3. Action potential triggers Ca2+ release from sarcoplasmic reticulum
+4. Contraction steps
+
+*** Types of Contraction
+- Isometric :: No lengthening or shortening
+- Concentric :: When muscle is actively shortening
+- Eccentric :: When muscle is actively lengthening
+
+*** Cross-bridge States
+**** Relaxation
+- Regulatory proteins inhibit actin-myosin interactions
+- Few heads are bound to actin
+- Sarcomeres can be stretched passively
+
+**** Contraction
+- Muscle is activated by calcium
+- Thousands of sarcomeres shorten in series causing muscle to shorten
+- ATP is hydrolysed and force is produced
+
+**** Rigor (Dead)
+- ATP depleted
+- Heads are tightly bound to actin
+- Strong actin-myosin interaction prevents stretching
+
+*** Stages of Cross-bridge Cycle
+https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnsb1003-773/MediaObjects/41594_2003_Article_BFnsb1003773_Fig1_HTML.gif
+
+1. Crossbridge binds to actin when energised by ADP + Pi (Calcium influx)
+2. Crossbridge moves and uncocks when ADP + Pi is removed
+3. Crossbridge detaches when ATP binds to myosin
+4. Crossbridge energises and is cocked  when ATP is hydrolysed to ADP + Pi
+
+- Actin acts to accelerate myosin ATPase
+
+*** Role of Ca2+
+- Ca2+ binds to troponin to regulate muscle contraction
+- Causes tropomyosin to move, exposing the myosin-binding site on actin
+
+- Ca2+ is released from the sarcoplasmic reticulum in the muscle fiber
+- Dantrolene inhibits Ca2+ release
+- Small latent period between action potential and muscle fiber shortening occurs
+
+**** Ca2+ Release Steps
+1. Muscle action potential propagation down the T-tubule causes ryanodine receptor to open
+2. Ca2+ released from lateral sac of sarcoplasmic reticulum
+3. Ca2+ binds to troponin, removing the blocking action of tropomyosin
+4. Contraction
+5. Ca2+ reuptake into the sarcoplasmic reticulum
+6. Ca2+ removed from troponin, restoring tropomyosin blocking action
+
+** Force
+- Force in series: force of one sarcomere
+- Force in parallel: sum of the forces of sarcomeres in parallel
+
+- Depends on cross-sectional area of the fiber
+
+*** Factors
+**** Crossbridges in parallel 
+- Force of each bridge is independent
+- Force proportional to number of crossbridges per half-filament
+- Forces on left and right side of thick filament don't sum
+- https://www.researchgate.net/profile/Geoff_Power/publication/233897858/figure/fig2/AS:652207921823745@1532509894408/A-schematic-depicting-the-sarcomere-length-tension-FL-relationship.png
+
+**** Sarcomeres in series
+- Force is same in each sarcomere (links in a chain)
+- Number of sarcomeres is total length / sarcomere length
+
+**** Fibers in parallel in muscle
+- Force generated by each fiber is independent
+- Total force = sum(force / fiber) * # of fibers
+
+** Speed
+- Velocity of fiber shortening = (velocity of shortening of 1 sarcomere) * (number of sarcomeres in series)
+- Longer muscle fibers have larger shortening range and faster shortening rates
+
+* Cardiovascular System
+
+** Absorption and Filtration at the Capillary Bed
+
+
+** Structure - Heart
+*** Cardiac Muscle
+- Located at walls of the heart
+- Brancing chains of cells; uni or binucleate
+- Striations
+
+** Excitation / Contraction
+
+
+** Regulation
+
+
+** Pressure-Volume Loop
+
+
+** Blood Pressure
+
+
+# Exam 3
+* Respiratory System
+** Function of Respiratory System
+- Overall Goal: to get O2 to the mitochondria and remove CO2 from the myoplasm
+
+*** List of Functions
+1. Provides O2
+2. Eliminates CO2
+3. Regulators blood pH in coordination w/ the kidneys
+4. Forms speech sounds (phonation)
+5. Defends against microbes
+6. Influences arterial concentrations of chemical messengers by removing some from pulmonary capillary blood and producing and adding others to this blood
+7. Traps and dissolves blood clots arising from systemic (usually leg) veins
+
+** Design of Respiratory System
+*** Airway Branching
+**** Conducting Zone
+- Trachea = 1 tube
+- Bronchi = 2 tubes -> 4 tubes -> 8 tubes
+- Bronchiole = 16 tubes
+- Terminal bronchiole = 32 tubes -> 6x10^4 tubes
+
+**** Respiratory Zone
+- Respiratory bronchiole = 5x10^5 tubes
+- Aveolar ducts
+- Alveolar sacs = 8x10^6
+
+*** Features
+- Cilia most concentrated at the larynx -> bronchi, then decreases until 0 cilia at the aveolar sacs
+- Goblet cells most at the larynx -> trachea, then less in the bronchi, then less in the bronchioles, then none from the terminal bronchioles -> alveolar sacs
+- Most cartilage at the larynx and decreases until none at the bronchioles on
+  - C-shaped cartilage at the trachea
+  - Rings in the primary bronchi
+  - Plates in the secondary bronchi, tertiary bronchi, and smaller bronchi
+- No smooth muscles in the larynx, then more smooth muscle increasing until the bronchioles and terminal bronchioles, then none in the alveolar sacs
+
+*** Thoracic Cavity
+**** Chest Wall
+- Airtight, protects lungs
+- Consists of rib cage, sternum, thoracic vertebrae, intercostal muscles, and diaphragm
+
+**** Pleura
+- Membrane lining of lungs and chest walls
+- Consists of pleural sac around each lung and intrapleural space filled with intrapleural fluid (15 mL)
+
+*** Steps of Respiration
+1. Ventilation: Exchange of air between atmosphere and alveoli by bulk flow
+2. Exchange of O2 and CO2 between alveolar air and blood in lung capillaries by diffusion
+3. Transport of O2 and CO2 through pulmonary and systemic circulation by bulk flow
+4. Exchange of O2 and CO2 between blood in tissue capillaries and cells in tissues by diffusion
+5. Cellular utilisation of O2 and production of CO2
+
+** Mechanics of Ventilation
+- Inspiration :: Air flows into the alveolar sacs when Palv < Patm
+- Expiration :: Air flows out of the alveolar sacs when Palv > Patm
+
+F=(P_atm - P_alv) / R
+Flow = (P_alv - P_air) * Conductance
+
+*** Pulmonary Pressures
+- Atmospheric Pressure :: P_atm
+     - 760 mmHg at sea level
+     - Decreases as altitude increases
+     - Increases under water
+     - Other lung pressures are given relative to P_atm (set P_atm = 0 mmHg)
+- Intra-alveolar Pressure :: P_alv = pressure of air in alveoli
+     - Given relative to P_atm
+     - Varies with phase of respiration
+     - During inspiration = negative (<P_atm)
+     - During expiration = positive (>P_atm)
+     - Difference between P_alv and P_atm drives ventilation
+- Intrapleural Pressure :: P_ip = Pressure inside pleural sac
+     - Always negative under normal conditions
+     - Always less than P_alv
+     - Varies with phase of respiration (-4 mmHg at rest)
+     - Negative due to elasticity in lungs and chest wall
+       - Lungs recoil inward as chest wall recoils outward
+       - Opposing forces pull on intrapleural space
+       - Surface tension of intrapleural fluid prevents wall and lungs from pulling apart
+- Transpulmonary Pressure :: P_alv - P_ip = Distending pressure across the lung wall
+     - Increase in transpulmonary pressure = increase distending pressure across lungs and causes lungs (alveoli) to expand, increasing volume
+
+*** Pneumothorax
+- When air can enter the pleural sac
+- Causes an increase in P_ip, collapsing the lung
+- Pressure becomes 0 everywhere
+
+*** Breathing Mechanics
+- Inspiratory muscles increase volume of thoracic cavity (diaphragm, external intercostals)
+- Expriatory muscles decrease volume of thoracic cavity (internal intercostals, abdominal muscles)
+
+**** Inspiration Steps
+1. Neural stimulation of inspiratory muscles
+2. Diaphragm contraction causes it to flatten and move downward
+3. Contraction of external intercostals makes ribs pivot upward and outward, expanding chest wall
+4. Collectively, thoracic cavity volume increases
+5. Outward pull on pleura decreases intrapleural pressure, which results in an increase in transpulmonary pressure
+6. Alveoli expand, decreasing alveolar pressure
+7. Air flows into alveoli by bulk flow
+
+**** Expiration Steps
+1. Diaphragm and inspiratory intercostals stop contracting
+2. Chest wall recoils inward
+3. P_ip back toward preinspiration value
+4. Transpulmonary pressure back toward preinspiration value
+5. Lungs recoil toward preinspiration size
+6. Air in alveoli becomes compressed
+7. P_alv becomes greater than P_atm
+8. Air flows out of lungs
+
+** Lung Volumes and Capacities
+- Static volume of lung measured with spirometer
+
+*** Measurements
+- Tidal volume (TV) :: Amount of air inhaled or exhaled in one breath during relaxed, quiet breathing
+- Inspiratory reserve volume (IRV) :: Amount of air in excess of tidal inspiration that can be inhaled with maximum effort
+- Expiratory reserve volume (ERV) :: Amount of air in excess of tidal expiration that can be exhaled with maximum effort
+- Residual volume (RV) :: Amount of air remaining in the lungs after maximum expriation; keeps alveoli inflated between breaths and mixes with fresh air on next inpiration
+
+- Vital Capacity (VC) :: Amount of air that can be exhaled with maximum effort after maximum inspiration (ERV + TV + IRV); used to assess strength of thoracic muscles as well as pulmonary function
+- Inspiratory Capacity (IC) :: Maximum amount of air that can be inhaled after a normal tidal expiration (TV + IRV)
+- Functional Residual Capacity (FRC) :: Amount of air remaining in the lungs after a normal tidal expiration (RV + ERV)
+- Total Lung Capacity (TLC) :: Maximum amount of air the lungs can contain (RV + VC)
+
+
+** Ventilation Rate
+- Ventilation rate = volume of air moved into and out of the lungs per unit time
+- Can be expressed as minute ventilation or alveolar ventilation
+
+- Minute Ventilation :: total rate of air movement into and out of the lungs (V_T x breaths/min)
+- Alveolar Ventilation :: Minute ventilation corrected for physiological dead space
+
+*** Equations
+Minute Ventilation: V_Edot = f x V_T
+Alveolar Ventilation: V_Adot = f x (V_T - V_D)
+Dead Space Ventilation: V_Ddot = f x V_D, V_Edot = V_Adot + V_Ddot
+
+** CO2 and O2 Exchange by Diffusion
+- Fick's Law of Diffusion :: Flux = A * (delta PO2 / delta X) * D
+- Dalton's Law of Partial Pressure :: Partial Pressure (p) = Fraction concentration * Total Pressure
+
+- Diffusion of CO2 and O2 depends on partial pressures
+- Alveoli -> Circulatory system -> Peripheral tissue
+
+** Transport of Gas
+- O2 has low solubility, so it requires hemoglobin to bind to it and carry it through the bloodstream
+
+- Henry's Law :: C_x = P_x * X solubility
+		 - P_x = partial pressure of gas (mmHg)
+		 - Solubulity = solubility of gas in blood (mL gas/100mL blood/mmHg)
+
+- O2 exists in blood as dissolved (2%) or bound (98%)
+  - Dissolved form creates a partial pressure which in turn drives O2 diffusion
+  - Presence of hemoglobin changes the equilibrium
+
+** Control of Respiration
+- Objective: To maintain normal levels of PO2 and PCO2 in arterial blood
+
+*** Components
+**** Sensors
+- Chemoreceptors - Central and peripheral
+- Pulmonary receptors
+- Other Receptors
+
+**** Central Controller
+- Brain stem (pons, medulla oblongata)
+- Cortex
+- Other parts of brain
+
+**** Effectors
+- Respiratory muscles
+  - Diaphragm
+  - Abdominal muscles
+  - Accessory muscles
+
+*** Neural
+**** Voluntary
+- Cerebral Cortex
+
+**** Autonomic
+***** Medullary Centers
+-Breathing rhythm generated by a network of neurons - Pre-Brotzinger complex
+  - Have pacemaker-like activity
+  - Rhythm produced by medulla and modified by inputs from pons
+
+****** Dorsal Respiratory Groups
+- Gives rise to inspiration
+- Firing leads to contraction of inspiratory muscles
+- Cease firing leads to passive expiration
+
+****** Ventral Respiratory Groups
+- Increased firing of dorsal neurons cause excitation of ventral respiratory groups
+- Excites internal intercostals, abdominals, etc -> forceful expiration
+- Do not activate expiratory muscles in normal, quiet breathing
+
+***** Pontine Centers
+****** Pneumotaxic Center (PC)
+- Stimulation terminates inspiration
+- Stimulated when dorsal respiratory neurons fire
+- Inhibits inspiration
+- Apneusis :: Brief expiration and long inspiration caused without PC
+
+****** Apneustic Center
+- Impulses from apneustic centre excites inspiratory area of medulla
+- Prolongs inspiration
+
+***** Effects of Lesions
+- Pons - produces apneustic effect - long, powerful inspirations
+- Above Medulla - irregular but rhythmic breathing
+- Below Medulla - stops breathing since no automated output to respiratory system (death by hanging)
+
+*** Chemical
+- Negative feedback control system
+- Controlled variables: blood gas tensions, especially CO2
+  - CO2 levels affect breathing rate more than O2
+- Chemoreceptor :: senses the value of gas tensions
+
+**** Central Chemoreceptor
+- Situated near surface of medulla of brainstem - rostral medulla (RA) and caudal medulla (CM)
+- Responds to [H+] of cerebrospinal fluid (CSF)
+- CSF spearated from blood by blood-brain barrier (BBB) - relatively impermeable to H+ and HCO3-, but diffuses CO2 readily
+- CSF less protein than blood, less buffered
+
+**** Peripheral Chemoreceptor
+- Extends down to the heart
+
+**** Hyperventilation
+- Low arterial PO2 causes hyperventilation
+
+*** Summary of Factors Influencing Respiration
+- Higher brain centers (cerebral cortex) has voluntary control over breathing (+/- rate)
+- Other receptors (pain and emotional stimuli) act through the hypothalamus (+/- rate)
+- Peripheral chemoreceptors detect drops in O2, rise in CO2, and rise in H+ (+ rate)
+- Central chemoreceptors detect rise in CO2 and rise in H+ (+ rate)
+- Receptors in muscle and joints (+ rate)
+- Repiratory centers (medulla and pons)
+- Stretch receptors in lungs (- rate)
+- Irritant receptors (+ rate)
+
+** Respiration Response
+*** Exercise
+**** Triggers
+- Increase in O2 consumption
+- Decrease in CO2 production
+- Increase in ventilation
+
+**** Effects
+- Arterial Blood: No change in Pa_O2, Pa_CO2, pH
+- Venous Blood: Increase in Pv_CO2
+- Pulmonary Blood Flow: Increase in cardiac ouput and pulmonary blood flow, Vdot/Qdot more even in lungs, Decrease in physiologic dead space
+- O2-Hemoglobin Curve: Increase in 2,3-DPG shifts to the right, Increase in P_50, Decrease in affinity for O2
+
+*** High Altitude
+**** Triggers
+- Decrease in P_atm
+- Decrease in alveolar P_O2
+
+**** Effects
+- Ventilation: Increase in VAdot
+- Arterial Blood: Decrease in PA_O2, Increase in pH
+- Pulmonary Blood Flow: Increase in pulmonary resistance, Increase in pulmonary arterial pressure, hypertrophy of right ventricle
+- O2-Hemoglobin Curve: Increase in 2,3-DPG shifts to the right, Increase in P_50, Decrease in affinity for O2
+
+* Renal System (part 2 slide 19)
+** Renal Functions
+- Regulation of water and inorganic ion balance
+- Removal of metabolic waste products from blood and excretes it into urine
+- Removal of foreign chemicals from blood and excretes it into urine
+- Gluconeogenesis
+- Production of hormones/enzymes
+  - Erythropoietin :: controls erythrocyte production
+  - Renin :: enzyme that ontrols formation of angiotensin and influences BP and Na+ balance
+  - 1,25-dihydroyvitamin D :: influences Ca+2 balance
+
+** Structure
+*** Kidneys
+- Renal pyramid: Nephron -> Collecting duct -> Papilla -> Minor calyx
+  - Renal Cortex (Nephrons)
+  - Renal medulla (Collecting duct, papilla, minor calyx)
+
+*** Urinary System
+- Flow: Kidney -> Ureter -> Bladder -> Urethra
+
+*** Nephron
+- Proximal convoluted tubule mostly reabsorbs NaCl and NaHCO3
+
+*** Tubular Epithelium
+- Tubular lumen is surrounded by tubular epithelial cells
+- Tight junctions between epithelial cells allow for transfer between lumen and peritubular capillary
+- Interstitial fluid outside the lumen
+
+*** Blood Supply
+- Renal arteries enter kidney at hilus
+- Receives 20% of cardiac output at rest
+  - Less than 1% of body weight
+  - 16% of ATP usage
+  - Filters blood
+- Renal veins exit at hilus
+
+** Basic Renal Processes
+*** Components of Renal Function
+1. Glomerular filtration: glomerular capillary to Bowman's space
+2. Tubular secretion: peritubular capilary to tubule
+3. Tubular reabsorption: tubule to peritubular capillary
+
+*** Renal Handling
+- Substance X is filtered and secreted but not reabsorbed (all goes to urine)
+- Substance Y is filtered and some of it is reabsorbed (some goes to urine, some goes to capillaries)
+- Substance Z is filtered and completely reabsorbed (all of it goes to capillaries)
+
+*** Excretion
+- Substance can gain entry to tubule and be excreted in urine by glomerular filtration or tubular secretion or both
+- Amount secreted = amount filtered + amount secreted - amount reabsorbed
+- Excretion rate = V x U_x
+  - Excretion rate = amount of X excreted per minute (mg/min)
+  - V = urine flow rate (mL/min)
+  - U_x = urine concentration of X (mg/mL)
+
+*** Renal Clearance
+- Clearance :: general concept that describes the rate at which substances are removed or cleared from plasma
+- Renal clearance :: the volume of plasma completely cleared of a substance by the kidneys per unit time (mL/min)
+- Substances with highest renal clearances may be completely removed on a single pass of blood through the kidneys
+- Substance with lowest renal clearances are not removed at all
+
+- Renal Plasma Clearance: C_s = GFR + secretion_s - reabsorption_s = (V x [U]_x) / [P]_x
+  - If C_s > GFR, then secretion_S > reabsorption_s and secretion > 0
+  - IF C_s < GFR, then reabsorption_s > secretion_s and reabsorption > 0
+  
+  - V = urine flow rate per min (mL/min)
+  - U = concentration of substance X in urine (mg/mL)
+  - P = concentration of substance X in plasma (mg/mL)
+
+**** Clearance of Some Substances
+- Para-aminohippuric acid (PAH) - both filtered and secreted therefore has the highest clearance
+- Glucose - filtered and completely reabsorbed, renal clearance is zero
+- Urea - filtration greater than excretion (net reabsorption)
+- Penicillin - excretion is greater than filtration (net secretion)
+- Insulin - GFR * Insulin concentration = total insuline filtered = 7.5 L/h * 4 mg/L = 30 mg/h - no reabsorption of insulin, no secretion of insulin
+
+***** Clearance Ratio
+- Clearance ratio of X = C_x / C_in
+
+- C_x / C_insulin = 1.0
+  - Cleance of x = clearance of insulin
+  - Substance must be glomerular marker (filtered, but neither reabsorbed nor secreted)
+- C_x / C_insulin < 1.0
+  - Clearance of x < clearance of insulin
+  - Substance is not filtered or it is filtered and reabsorbed (glucose)
+- C_x / C_insulin > 1.0 
+  - Clearance of x > clearance of insulin
+  - Substane is filtered and secreted (PAH)
+
+*** Renal Blood Flow
+- Kidney receives about 20-25% of cardiac output, amongst the highest of all organ systems
+
+**** Measurement
+- Not all blood delivered to glomeruli is filtered in the glomerular capsule
+  - Most of glomerular blood passes to the efferent arterioules
+  - 20% renal plasma flow filtered - substances are returned back to blood
+- Substances in unfiltered blood must be secreted into tubules to be cleared by active transport (PAH example)
+  - PAH can be used to measure renal plasma flow
+- Filtration and secretion clear only the molecules dissolved in plasma
+  - PAH clearance actually measures renal plasma flow
+
+*** Glomerular Filtration
+**** Glomerular Filtration Pressure
+***** Starling Force
+- Glomerular capillary hydrostatic pressure
+- Bowman's capsule oncotic pressure
+- Bowman's capsule hydrostatic pressure
+- Glomerular oncotic pressure
+
+**** Glomerular Filtration Rate (GFR)
+- Glomerular capillary to Bowman's space
+- Movement of protein-free plasma from glomerulus to Bowman's capsule
+- Must cross 3 barriers to enter Bowman's capsule: capillary endothelial layer, surrounding epithelial layer, basement membrane sandwiched between layers
+
+- If a substance is neither reabsorbed nor secreted by tubule, the amount excreted in urine/min = amount filtered out of the glomeruli/min
+- Rate at which substance is filtered by the glomeruli can be calculated: Quantity filtered = GFR x [P]_insulin where [P] = insulin concentration in plasma
+- Amount filtered = amount excreted
+- GFR = (V x [U]_insulin) / [P]_insulin
+
+- Renal plasma flow = 625 mL/min
+- GFR = 125 mL/min or 180 L/day
+  - V = urine flow rate per min (mL/min)
+  - U = concentration of substance X in urine (mg/mL)
+  - P = concentration of substance X in plasma (mg/mL)
+
+***** Forces
+- Favoring filtration: Glomerular capillary BP (P_GC) = 60 mmHg
+- Opposing filtration: Fluid pressure in Bowman's space (P_BS) = 15 mmHg, Osmotic force due to protein in plasma (pi_GC) = 29 mmHg
+- Net glomerular filtration pressure = (P_GC + pi_BC) - (P_BS + pi_GC) = (60 + 0) - (15 + 29) = 16 mmHg
+
+***** Systemic Capillary Forces
+- Filtration pressure = 2 mmHg
+- Filtration rate = 3 L/day
+
+**** Glomerular Filtration Fraction
+- How much of the renal plasma flow (RPF) gets filtered into the Bowman's space
+- Only 20% of plasma that passes through the glomerulus is filtered, less than 1% of fitlered fluid is excreted
+
+***** Renal plasma flow (RPF)
+- Measurement: use a substance that gets completely secreted but not reabsorbed (PAH)
+  - C_PAH = RPF
+  - Controlled by arteriole dilation or constriction
+
+***** Process
+1. Plasma volume enters afferent arteriole = 100% plasma volume
+2. 20% of volume filters at the Bowman's capsule
+3. >19% of volume is reabsorbed into peritubular capillaries
+4. 99% of plasma entering kidney returns to systemic circulation
+5. <1% of volume is excreted to external environment
+
+***** Calculation
+- 625 mL plasma enters kidneys per minute (Plasma flow rate)
+- 125 mL filtered into Bowman's capsule (GFR)
+- Filtration Fraction = GFR / renal plasma flow = 125 / 625 = 0.20 = 20%
+
+*** Reabsorption and Secretion
+- Filtered load = GFR x [P]_x
+- Excretion rate = V x [U]_x
+- Reabsorption rate = Filtered load - excretion rate
+- Secretion rate = Excretion rate - filtered load
+
+**** Locations
+1. Proximal tubule (cortex): 
+   - Active: NaCl, H+, Nutrients
+   - Passive: HCO3-, H2O, NH2, K+
+2. Descending limb of loop of Henle (outer medulla): 
+   - Passive: H2O
+3. Thin segment of ascending limb (inner medulla): 
+   - Passive: NaCl
+3. Thick segment of ascending limb (outer medulla): 
+   - Active: NaCl
+4. Distal tubule (cortex):
+   - Active: NaCl, K+, H+, HCO3-
+   - Passive: H2O
+5. Collecting duct (Inner medulla):
+   - Passive: Urea, H2O
+
+** Renal Handling
+*** Glucose
+- Glucose is transported from the lumen to the blood through proximal tubule cells
+- Tm is peak of reabsorption
+- Threshold is where excretion begins
+
+**** Glucosuria
+- Excretion of spilling of glucose in urine
+
+***** Causes
+- Uncontrolled diabetes mellitus :: lack of insulin causes plasma concentration of glucose to increase to abnormally high level
+- Pregnancy :: GFR is increased, increasing filtered load of glucose to the extent that it may exceed the reabsorption capacity
+- Congenital abnormalities of Na+-glucose contransporter :: Decreases Tm
+
+*** Na+
+-Daily Intake and Loss: Intake and Output should be equal
+  - Intake: Food = 10.50g
+  - Output: Sweat (0.25g) + Feces (0.25g) + Urine (10.00g) = 10.50g
+- Na+ concentration in ECF determines ECF volume, blood volume, and blood pressure
+- Na+ balance :: the act of the kidneys matching Na+ excretion and intake
+- CHanges in Na+ concentration usually caused by changes in body water content, not Na+ content
+
+**** Effects
+- Excretion < intake :: positive Na+ balance, extra Na+ retained in the body (ECF) -> ECF volume expands, blood volume and arterial pressure increase -> edema
+- Excretion > intake :: negative Na+ balance, excess Na+ lost -> ECF volume contraction, blood volume and arterial pressure decreases
+
+***** Decreased Na+ Intake
+- ECF volume and EABV (effective arterial blood volume) down
+- Sympathetic activity up -> constriction of afferent arterioles, Na+ reabsorption (proximal tubule)
+- ANP down -> Dilation of efferent arterioles, Na+ reabsorption (collecting ducts)
+- pi_c up -> Na+ reabsorption (proximal tubule)
+- Renin-angiotensin-aldosterone up -> Na+ reabsorption (proximal tubule and collecting ducts)
+- End Result: Na+ excretion down
+
+***** Increased Na+ Intake
+- ECF volume and EABV up
+- Sympathetic activity down -> dilation of afferent arterioles, less Na+ reabsorption (proximal tubule)
+- ANP up -> Constriction of efferent arterioles, less Na+ reabsorption (collecting ducts)
+- pi_c down -> less Na+ reabsorption (proximal tubule)
+- Renin-angiotensin-aldosterone down -> less Na+ reabsorption (proximal tubule and collecting ducts)
+- End Result: Na+ excretion up
+
+**** Distribution of Water
+- Total body water (60% body weight) -> ICF (40% body weight or 24 L) and ECF (20% body weight or 12 L)
+- ECF: Interstitial fluid (9 L) or Vascular fluid (3 L)
+- Body weight of 60 kg (water density = 1 g/mL)
+
+**** Handling in the nephron
+- 67% reabsorbed in the proximal convoluted tubules - multiple ion transfers
+- 25% reabsorbed in the thick ascending limb - Na+ is sent through a channel with 2 Cl- and K+ int cell, then a Na-K pump
+- 5% reabsorbed in the distal convoluted tubule - Na+ sent through a channel with Cl-, then a Na-K pump
+- 3% reabsorbed in the late distale convoluted tubule/collecting ducts - Na+ sent through ENaC while K+ is released
+  - In the collection duct, Na+ and K+ are diffused in and out of the cell, then ATP pump sends it out into the ICF
+- <1% excreted
+- Regulated by aldosterone - induces reabsorption by inducing the expression of Sgk1 which increasing ENaC density at the membrane
+
+**** Renin-Angiotensin System
+- Liver secretes angiotensinogen which activates angiotensin I
+- Kidneys secrete renin which activates angiotensin I
+- Converting enzyme turns angiotensin I into angiotension II
+- Angiotensin II causes adrenal cortex to secrete aldosterone
+
+***** Aldosterone Production
+- Produced by adrenal glands, activation of a hormone cascade
+- Stimulated by low BP and low blood volume
+- Targets distal tubules and collecting duct to reabsorb Na+ and water
+- When aldosterone is absent, 3% of filtered Na+ is excreted
+- When aldosterone is high, almost all Na+ is reabsorbed
+- Causes decreased urine volume and increases urine concentration
+
+****** Pathway
+Liver -> Angiotensinogen -> angiotensin I -> angiotensin II -> adrenal gland -> aldosterone -> increased Na+, H2O reabsorption in distal tubules -> BP and volume homeostasis
+Stimulus: Low blood volume or pressure -> kidney -> renin -> angiotensin I -> angiotensin II -> eventual homeostasis
+
+******* Alternate Pathways
+Common start: Plasma volume goes down
+
+Path 1: Renal sympathetic nerve activity goes up -> Renin secretion goes up
+Path 2: Arterial pressure goes down -> Renin secretion goes up
+Path 3: GFR goes down, decreasing flow -> Renin secretion goes up
+
+Common path: Renin secretion goes up -> Plasma renin up -> Plasma angiotensin II up -> adrenal cortex increases aldosterone secretion -> plasma aldosterone up -> cortical collecting ducts increases Na+ and H2O reabsorption -> Na+ and H2O excretion down
+
+***** Hormones
+- Renin: released by JG cells, stimulated by sympathetic neurons, BP ad flow
+- Aldosterone: released from adrenal cortex, stimulated by AngII and [K]
+
+**** Atrial Natriuretic Peptide (ANP)
+- Secreted when abnormal increase in blood volume stretches out the atria
+- ANP promotes vasodilation, increasing GFR, inhibits Na+ reabsorption
+  - Causes increased urine volume as it decreases blood volume
+
+*** Ca+2
+
+
+*** H2O
+- 99% absorbed
+- Intake (food, drink, metabolism) = Output (skin, lungs, urine, faces)
+- AQPs throughout the kidney
+
+- Osmoregulation :: maintaining body fluid osmolarity around 290-300 mOsm/L
+- Small deviations in osmolarity produces hormone changes
+- Control is exterted at the later distal tubule and collecting duct
+
+**** Balance Terms
+- Normovolemia :: normal blood volume
+- Hypervolemia :: high blood volume due to positive water balance
+- Hypovolemia :: low blood volume due to negative water balance
+
+**** Osmolarity Terms
+- Isosmotic :: 300 mOsm/L
+- Hyperosmotic :: > 300 mOsm/L
+- Hyposmotic :: < 300 mOsm/L
+
+**** Osmolarity Changes
+1. Isosmotic fluid leaving proximal tubule becomes progressively more concentrated in descending limb
+2. Solute removal in thick ascending limb creates hyposmotic fluid
+3. Water and solute permeability regulated by hormones in cortex medulla
+4. Urine osmolarity depends on reabsorption in collecting duct
+
+- General trends: Lower osmolarity at proximal tubule, higher at the loop of Henle
+- Countercurrent multiplication: NaCl leaving the ascending tubule causes osmolarity to be higher in the descending tubule
+
+**** Urea
+- Generated by liver
+- Eliminates nitrogen
+- Extremely water soluble
+- Requires urea transporters
+- Transport from filtrate to peritubular fluid accounts for 40% of osmolarity gradient
+
+**** Vasa Recta
+- Prevents diffusion of water and solutes from dissipating the medullary osmotic gradient
+- Descending limb: 300 mOsm, water leaves and solutes enter
+- Ascending limb: 325 mOsm, water enters plasma, solutes move into interstitial fluid, no urea transporters
+
+* GI
+** Function of Intestine
+- Digestion and reabsorption of substances
+- Maintain fluidity
+- Lubrication
+
+*** Villi
+- Filled with capillaries so it can absorb substances
+
+** Digestion of Lipids
+- Trigylcerides: needs lingual, gastric, and pancreatic lipases
+- Cholesterol ester: needs cholesterol ester hydrolase
+- Phospholipid: Needs phospholipase A_2
+
+- Bile salts coat lipids to make emulsions (droplets)
+- Micelles form from bile salts, phospholipids, fatty acids, cholesterol, and glycerides
+- Micelle diffused into epithelial cell and then broken down
+
+** Function of Stomach
+- Mixes and pushes materials
+- Secretes HCl, pepsinogen, mucus, gastrin, histamine
+
+*** Acid production and regulation
+- Pepsinogen secreted from parietal cells
+- Combined with Hcl produces pepsin, which acts as a regulator and breaks down proteins
+- Movement of carbonic acid causes subsequent movement of gastric lumen which results from active transport
+
+- Ach, Gastrin, and Histamine cause release of acid
+
+** Function of Pancreas
+- Excretes insulin and glucagons
+- Secretes pancreatic juices for digesting food in the small intestine
+
+** Hormone regulation
+*** Secretin
+- Stimulated release by acid chyme in stomach
+- Stimulates pancrease to make sodium bicarbonate, neutralising acidic chyme
+- Stimulates liver to produce bile
+
+*** GIP
+- Released when endocrine cells are stimulated by food in the duodenum
+- Opposite of gastrin -> slows digestion
+
+*** Gastrin
+- Released when stretch receptors triggered
+- Taken in by CCK_B receptor
+- Causes release of H+ which then turns into HCl in the stomach
+
+*** CCK
+- Stimulated by presence of food in duodenum
+- Stimulates gallbladder to release bile
+- Stimulates pancrease to produce pancreatic enyzmes
+
+* Immune System
+- Acquired immunity: Making cells
+
+** Possible Slides to Add
+*** TODO Slide 6 and 7 - specific defenses
+
+** Removal of antigens
+- Macrophages and phagocytes take in and destroy antigens
+
+- How B and T cells undergo activation
+- How everything activates each other
+- CD4, CDH, class 1, class 2
+- Primary, secondary response
+
+** Functions of the Immune System
+- Defend animals from the many dangerous pathogens they may encounter in the environment
+- Contend with abnormal body cells that may develop into cancer
+
+** Pathogens
+- Phylogenetically diverse :: highly variant amongst evolutionary branches
+
+*** Examples of Pathogens
+- Poliovirus
+- Parasites
+- Bacterium
+- Nematodes
+
+*** Classes of Pathogens
+- Viruses
+- Bacterium
+- Fungi
+- Parasites
+
+** Animal Immunity
+*** Innate Immunity
+- Recognition of traits shared by broad range of pathogens, using a small set of receptors
+- Rapid response
+
+**** Barrier Defense
+- Skin
+- Mucous Membrane
+- Secretions
+
+**** Internal Defenses
+- Phagocytic cells
+- Antimicrobial proteins
+- Inflammatory response
+- Natural killer cells
+
+**** Human Nonspecific Defenses
+***** Surface Barriers
+- Skin :: Prevents entry of pathogens and foreign substances
+- Acid secretions :: Inhibit bacterial growth on skin
+- Mucus :: Prevents entry of pathogens; produces defensins that kill pathogens
+- Mucous secretions :: Trap bacteria and other pathogens in digestive and respiratory tracts
+- Nasal hairs :: Filter bacteria in nasal passages
+- Cilia :: Move mucus and trapped materials away from respiratory passages
+- Gastric juice :: Concentrated HCL and proteases destroy pathogens in stomach
+- Vaginal Acid :: Limits fungi and bacteria growth in female reproductive tract
+- Tears and saliva :: Lubricate and cleanse, contain lysozyme which destroys bacteria
+
+***** Nonspecific cellular, chemical, and coordinated defenses
+- Normal flora :: Compete with pathogens; may produce substances toxic to pathogens
+- Fever :: Body-wide response inhibits microbial multiplication and speeds body repair processes
+- Coughing and sneezing :: Expels pathogens from upper respiratory tract
+- Inflammatory responses :: Limits spread of pathogens to neighbouring tissues; concentrates defenses; digests pathogens and dead tissue cells; released chemical mediators attract phagocytes and lymphocytes to site
+- Phagocytes (macrophages and neutrophils) :: Engulf and destroy pathogens that enter body
+- Natural killer cells :: Attack and lyse virus-infected or cancerous body cells
+- Antimicrobial proteins
+  - Interferons :: Released by virus-infected cells to product healthy tissue from virus infection; mobilise specific defenses
+  - Complement proteins :: Lyse microorganisms, enhance phagocytosis, and assist in inflammatory and antibody responses
+
+*** Acquired Immunity
+- Recognition of traits specific to particular pathogens, using a vast array of receptors
+- Slower response
+
+**** Initial Steps
+1. First exposure to the antigen
+2. Antigens are engulfed and displayed by dendritic cells
+3. Helper T cells activate a humoral response and cell-mediate response (both happen) by releasing interleukin-2
+
+**** Humoral (Antibody) Response
+- Antibodies defend against infection in body fluids
+- Use of B cells and antibodies with live virus-infected host cells
+
+***** Steps
+1. Helper T cell and intact antigens give rise to B cells
+2. B cells give rise to plasma cells and memory B cells
+3. Plasma cells secrete antibodies that defend against pathogens and toxins in the ECF
+
+**** Cell-mediated Response
+- Cytotoxic lymphocytes defend against infection in body 
+- Use of T cells with dead virus-infect cells
+
+***** Steps
+1. Heper T cells secrete cytokines which activate cytotoxic T cells
+1.5. Antigens displayed by infected cells activate cytotoxic T cells
+2. Cytotoxic T cells give rise to memory cytotoxic T cells and active cytotoxic T cells
+3. Active cytotoxic T cells defend against infected cells, cancer cells, and transplanted tissue
+
+** Inflammation
+- Inflammation :: Series of events causing accumulation of proteins, fluid, and phagocytes in an injured or invaded area
+
+*** Steps
+1. Macrophages engulf debris and foreign matter
+2. Capillaries dilate and become more permeable
+3. Foreign matter is contained
+4. More leukocytes migrate to area
+5. Leukocytes clear infection
+
+** Complement System
+- Plasma proteins that lyse foreign cells, especially bacteria
+- Part of response to antibodies (specific immunity) in addition to nonspecific response
+- Approximately 30 proteins participate in the response cascade, resulting in MAC reaching the bacteria surface
+- MAC pierces the bacterial membrane causing lysis
+
+*** MAC Complex Formation
+**** Pore Formation
+1. Inactive complement protein interacts with bacterial cell
+2. Cascade of proteins activates on the membrane
+3. MAC is formed with a pore
+
+**** Swelling
+1. Fluid rushes in the cell
+
+**** Lysis
+1. Bacterial cell ruptures
+
+*** Other Uses of Complement Proteins
+- Solubilisation
+- Opsonisation
+- Inflammation
+
+** Lymphatic System
+*** Blood
+- Plays important role in acquired defense system
+
+**** Lymphocytes
+***** Life Events
+- Generation of lymphocyte diversity through gene rearragement
+- Testing and removal of self active lymphocytes
+  - Single progenitor cell gives rise to a large number of lymphocytes each with differet specificity
+  - Potentially self-reactive immature lymphocytes are removed through clonal deletion
+- Clonal selection of lymphocytes
+
+***** Antigen Receptor
+- Have antigen receptors that help to detect antigens
+- Each half of the receptor is a heavy chain, bound by disulfide bonds to make one receptor
+- Antigen binding site is also the variable region
+- Constant region is the rest of the lymphocyte, where it attaches to the lymphocyte
+
+***** B Cells
+- Differentiate to form antibody-producing cells and memory cells
+
+****** Receptor
+- Forked/Y shaped antigen receptor
+- Constant region is the membrane antibody
+- Binds to specific, intact antigen
+- Often called membrane antibodies or membrane immunoglobulins
+
+****** Clonal Selection
+- B cells that are bound to an antigen diffentiate in two ways:
+1. Memory B cells
+2. Plasma cells (effector cells) - secrete antibodies
+
+****** Development
+- Half of DNA is encoding the variable region
+- Half of DNA is encoding the constant region
+- Gene splicing causes a unique supergene to be the end result
+
+******* Steps
+1. VDJ joining - V segment, D segment, and J segment are placed next to each other
+2. Transcription - B cell DNA to Primary RNA transcript
+3. Splicing - Introns are getting removed to form the final mRNA
+4. Translation - mRNA becomes heavy chain peptide
+
+***** T Cells
+- Kill virus-infected cells; regulate activities of other white blood cells
+
+****** Receptor
+- Straight antigen receptor
+- Constant region is the T cell receptor (TCR)
+- Consists of two different polypeptide chains
+- Cannot bind to intact antigens directly
+- Bind to small fragments of antigens that are bound to normal cell-surface proteins (MHC molecules)
+
+****** MHC
+- Each individual has 3 genetic loci for MHCI and MHCII- each with as many as 100 alleles
+- A lot of variation in the actual MH protein between person to person
+- No cell to cell variation, so each individual's MHC proteins will be the same
+
+****** Cytotoxic T Cell
+- Class I MHC molecules, found on almost all nucleated cells of the body, display peptide antigens to cytotoxic T cells
+- Surface protein is CD8
+
+******* Steps
+1. Fragment of foreign protein (antigen) inside the cell associates with an MHC molecule and is transported to the cell surface
+2. Combination of MHC molecule and antigen is recognised by T cell, alerting it to infection
+
+****** Helper T Cell
+- Class II MHC molecules, found mostly on dentritic cells, macrophages, and B cells (antigen presenting cells), display antigens to helper T cells
+- Surface protein is CD4
+
+******* Steps
+1. Fragment of foreign protein (antigen) inside the cell associates with an MCH molecule and is transported to the cell surface
+2. Combination of MHC molecule and antigen is recognised by a T cell, alerting it to the infection
+
+***** Natural Killer
+ - Attack and lyse virus-infected or cancerous body cells
+
+*** Lymph Duct
+- Conducts lymph
+
+*** Lymph Node
+- Lymph is filtered in the lymph node
+- White blood cells inspect lymph for pathogens
+
+*** Spleen
+- Acts as a lymph node for circulating blood
+
+*** Bone Marrow
+- Where B cells mature
+- All lymphocytes arise from bone marrow stem cells
+  - Maturation location determines whether the lymphocyte will be a B or T cell
+
+*** Thymus
+- Where T cells mature
+
+** Antigen
+- Antigen receptor has antigen-binding sites that antibodies can recognise and bind to
+- Both B and T cells have antigen receptors all over their membranes
+- The antigen receptors recognise and bind to a small, accessible portion of the antigen called the epitope
+
+*** Disposal
+- Binding of antibodies to antigen inactivates antigen through the following methods:
+  - Viral neutralisation (blocks binding to host) and opsonisation (increases phagocytosis) - Enhances phagocytosis
+  - Agglutinations of antigen-bearing particles such as microbes - Enhances phagocytosis
+  - Precipation of soluble antigens - Enhances phagocytosis
+  - Activation of complement system and pore formation - Causes cell lysis
+
+** Immune Response
+*** Primary Immune Response
+- Occurs on an animal's first exposure to an antigen
+- When native lymphocytes encounter antigen for the first time, some are stimulated to proliferate and differentiate into effectors, elimiinating the specific antigen
+
+*** Secondary Immune Response
+- Individual is exposed to a previously exposed to antigen
+- Memory cells facilitate a faster, more efficient response
+
+*** Graph of Time vs Serum Antibody Concentration
+- After the first exposure, there is a longer delay period, and a slower rise
+- Peak of the first exposure is lower than the second exposure
+- After the second exposure, there is a shorter delay period, followed by a sharp rise
+- Peak of the second exposure is higher than the first exposure
+- In both exposures, the # of antibodies decrease naturally
+- This graph of exposure trends is similar for all antigens
+
+** Antibody Classes
+- Differs in distribution and functions within the body
+
+*** IgM
+**** Features
+- Most the common class of antibody produced in the primary response to antigen
+
+**** Roles
+- Neutralises antigen
+- Agglutinates antigen
+- Activates the complement proteins
+
+*** IgD
+**** Features
+- Important as an antigen receptor on B cells
+
+**** Roles
+- Neutralises antigen
+- Agglutinates antigen
+
+*** IgG
+**** Features
+- Most common class of antibody in blood and major class of antibody produced in secondary responses
+- Crosses placenta, so is important in fetal and newborn immunity
+
+**** Roles
+- Neutralises antigen
+- Agglutinates antigen
+- Activates the complement proteins
+- Opsonises antigen
+- Enhances the Natural Killer cell activity
+
+*** IgE
+**** Features
+- Involved in allergies, such as hay fever
+
+**** Roles
+- Neutralises antigen
+- Agglutinates antigen
+- Binds to mast cells and basophils, causing them to release histamine
+
+*** IgA
+**** Features
+- Cross the epithelial cells, so it is present on mucosal surfaces and in breast millk
+- Important in newborn immunity
+
+**** Roles
+- Neutralises antigens
+- Agglutinates antigens

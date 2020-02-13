@@ -1,0 +1,481 @@
+* Cell Compartmentalisation
+- Cells are made of organelles, which are small membrane-bound units
+- All eukaryotic cells have the same basic set of organelles
+- Cytoplasm contains the cytosol and most cytoplasmic organelles that are suspended in it
+- Half the area of membrane in a cell is in the ER
+- Rough ER has ribosomes bound to it -> used for synthesising proteins
+- Golgi apparatus is made of organised stacks of disc-like compartments (Golgi cisternae)
+- Lysosome has digestive enzymes that degrade defunct intracellular organelles and other molecules from outside via endocytosis
+- Endosomes take in molecules from outside the cell
+- Peroxisomes are vesicular compartments that contain enzymes used in various oxidative reactions
+- Mitochondria and chloroplasts produce most of the ATP that a cell uses
+- Mitochondria used to be its own archaeon until it was absorbed and evolved by a eukaryotic cell
+
+* Membrane Structure
+- Thin film of lipid and protein molecules
+- Held together mainly by noncovalent interactions
+- Dynamic, fluid structures
+- Most molecules move about in the plane of the membrane
+
+** Plasma Membrane
+*** Functions
+- Encloses the cell
+- Defines its boundaries
+- Maintains the essential difference between the cytosol and extracellular environment
+
+** Lipids
+- Arranged in the membrane as a continuous double layer, or bilayer
+- Provides the basic fluid structure of the membrane
+- Relatively impermeable barrier for most water-soluble molecules
+
+- Lipid raft- specialised, segregated domains of the plasma membrane made of lipids through phase partitioning
+
+*** Lipid Bilayer - Basic structure for all cell membranes
+- All lipids in the membrane are amphilic (has both hydrophilic and hydrophobic ends)
+**** Phospholipids are the most abundant in the cell membrane
+- Has polar head containing a phosphate group
+- Has hydrophobic hydrocarbon tail
+
+**** Major Lipids in Cell Membranes
+***** Phosphoglycerides - main phospholipid in most animal cell membranes, built from glycerol
+- Phosphatidylethanolamine
+- Phosphatidylserine
+- Phosphatidylcholine
+
+***** Sphingolipids - built from sphingosine
+- Sphingomyelin
+
+***** Cholesterols - Up to one molecule for every phospholipid molecule
+- A sterol: rigid ring structure attached to a single polar hydroxyl group and short nonpolar hydrocarbon chain
+- Orients in the bilayer with the hydroxyl group close to the polar heads of adjacent phospholipids
+- Mixed with phospholipids, cholesterol enhances the permeability-barrier properties by preventing the polar heads from moving
+- Tightens the packing of lipids without changing fluidity
+
+***** Glycolipids - like sphingolipids
+- Have sugars attached instead of the phosphate-linked head group
+- Almost exclusively found on the outer monolayer (extracellular)
+- Charged glyoclipids are often important
+- Ganglioside - Glycolipid found in neurons
+
+**** Phospholipids form bilayers spontaneously
+- Amphiphilic molecules bury their hydrophobic tails when exposed to aqueous environments
+- More energetically favourable than having unfavourable interactions with water
+- Does this by either forming spherical micelles with their tails inware
+- Or forms a bilayer sheet with the hydrophobic tails shielded by the polar heads layering
+  - The bilayer continues to try to shield itself from water by wrapping in to form a sealed bilayer sphere
+
+**** Bilayer Fluidity
+- The bilayer's fluidity must be regulated precisely
+- Different viscosities can cause transport processes and enzyme activity to cease
+
+***** Phase transition - temp at which a phospholipid goes from its fluid state to its rigid (gel) state
+- Lower temp for phase transition: short chains or double bonds
+- Short chains reduce the tendency for hydrocarbon tails to interact
+- Double bonds make it harder to pack the lipids
+- Some organisms will adjust the fatty acid amounts to change their fluidity
+
+**** Asymmetry
+- Many membranes have different compositions between the inner (cytosol space) and outer (extracellular space) monolayers of the bilayer
+- Often causes a difference in charge based on what is embedded
+
+**** Signalling
+- Specific molecules used for signaling will bind to specific molecules embedded in the plasma membrane
+- Lipid kinases can add phosphate groups at positions on the inositol rings to create binding sites to recruit proteins
+  - Phosphoinositide 3-kinase: activated in response to extracellular signals to recruit specific intracellular signaling proteins
+- Some phospholipids are used to cleave other phospholids to create temporary signaling molecules
+
+*** Lipid Droplet
+- Stored excess lipids that can be retrieved as building blocks for membrane synthesis or food
+- Fat cells (adipocytes) are specialised for storage - giant droplet that takes up most of their cytoplasm
+- Stores neutral lipds (triglycerols, cholesterol esters) - no polar head, exclusively hydrophobic
+- Surrounded by a monolayer of phospholipids containing many proteins
+
+** Proteins
+- Most membrane proteins span the lipid bilayer
+- Lectin: Carbohydrate-bonding proteins used for visualising carbohydrate layer of cells
+- Bacteriorpodopsin: Light-driven proton (H+) pump in some archaeon
+- Membrane proteins can rotated about an axis perpendicular to the plane of the bilayer, as well as move laterally
+- Cells can confine proteins and lipids to specific domains in a membrane using a tight junction to separate areas
+
+*** Relationship with the Plasma Membrane
+- Some proteins only span one side of the membrane
+- Some proteins are attached to the membrane via lipid connectors
+- Membrane associated protein - does not extend into hydrophobic layer, but bound to membrane proteins
+
+**** Transmembrane Protein - protein that extends through the lipid bilayer, with part of their mass on either side
+- Crosses the lipid bilayer in an alpha-helical conformation
+- Single-pass transmembrane protein: polypeptide chain only crosses once through the membrane
+- Multi-pass transmembrane protein: polypeptide chain crosses through multiple times
+  - Entire polypeptide sequence will go transmembrane, bends at other regions to maintain number of covalent bonds
+  - Newly synthesised multipass proteins will be spaced apart, and then tightened up together once it is fully folded
+
+***** Beta-Barrel Proteins
+- Some multi-pass proteins are arranged as beta-barrels instead of alpha-helixes, making them more rigid and crystalline
+- Abundant in bacteria, mitochondria, chloroplasts
+- Some will form pores and are water-filled channels to allow small hydrophilic molecules to cross (porins)
+  - Loops of polypeptides can protrude into the lumen to narrow the channel for selectivity
+- Some are filled with amino acid side chains to act as a receptor/enzyme
+
+***** Glycosylated Proteins
+- Sugar residue added to a transmembrane protein, often the extracellular side
+- This causes eukaryotic cells to have their surface coated in carbohydrates
+- Carbohydrate layer is also comprised of glycoproteins and proteoglycans
+- The layer protects cells from mechanical and chemical damage, as well as preventing unwanted cell-cell interactions
+
+*** Detergents
+- Small amphiphilic molecule that can destroy the cell membrane and make proteins solubilised
+- Proteins can be reconstructed as a nanodisc - small patch of membranes surrounded by a coat of proteins to cover the bilayer tails
+
+*** Fluorescence Recovery after Photobleaching (FRAP)
+- Method to measure lateral diffusion rates using a fluorescent ligand that binds to the protein or with recombinant DNA
+- The fluorescent group is bleached and observed
+- Only good for measuring large areas of membrane's diffusion, not individual proteins
+
+*** Protein Transportation
+**** Gated Transport
+- Proteins and RNA move between cytosol and nucleus via nuclear pore complexes in the nuclear envelope
+
+**** Protein Translocation
+- Transmembrane protein translocators directly transport specific proteins across the membrane from a cytosol into a distant space
+- Integral membrane proteins often use the same translocators but only translocate partially
+
+**** Vesicular Transport
+- Membrane enclosed transport intermediates ferry proteins from one equivalent compartment to another
+
+*** Protein Sorting
+**** Signal Sequences
+- Signal sequences are amino acid sequences used to sort a protein, found often at the N-terminus
+- Each signal sequence specifies a specificd destination in a cell
+- Signal peptidase removes the signal sequence from the amino acid chain
+- Signal patches are used 3D arrangements of amino acids used for nuclear transport and in vesicular transport
+
+
+*** Protein Synthesis in the ER
+
+
+*** Protein Degradation
+**** Antibiotics
+- Prokaryotic/bacterial protein synthesis inhibitors make a good antibiotic - often from fungi
+- Some will exploit the structural and functional difference between prokaryotic and eukaryotic cells to not harm humans
+- Some will lodge in ribosomal RNA to prevent smooth ribosome operation or block specific channels
+
+**** Quality Control to Prevent Damaged mRNA Translation
+- Happens when incorrectly processed mRNA is sent to the cytosol or normal mRNA is damaged in the cytosol
+- Nonsense-Mediated mRNA Decay - eliminates defective mRNA before they move away from the nucleus when a stop codon is in the wrong place
+  - A ribosome begins to translate the mRNA as the 5' end leaves the nuclear pore
+  - Exon junction complexes at splice sites are displaced, with the stop codon within in the last exon
+  - For Normal: No more EJCs when ribosome reaches stop codon
+  - For Irregular: EJCs left on mRNA when stop codon reached; mRNA gets rapidly degraded
+
+*** Protein Folding
+- Proteins must fold into their 3D shape to reach full function
+- Folding determined by amino acids
+- Most hydrophobic residues bury themselves into an interior core
+
+**** Molecule Chaperones
+- Assists proteins in correctly folding if they do not fold currently in synthesis
+- Chaperones recognise incorrectly folded proteins by their hydrophobic surface exposure
+- The chaperone binds to the surface often using its own hydrophobic surfaces
+
+***** hsp60 and hsp70
+- Chaperones found in the mitochondria, cytosol, and ER (called BIP)
+- Work with a small set of associated proteins
+- Attracted to hydrophobic patches on proteins
+- hsp70 binds to several hydrophobic amino acids, and allows the protein to refold upon binding to ATP
+- hsp60 forms a barrel-like chamber for protein to refold in, with a cap to shield and ATP for energy
+
+**** Proteasome
+- Compartmentalised protease with sequestered active sites
+- Destroys aberrant proteins
+- Keeps the substrate (the bad protein) bond until it is all turned into single peptides
+- Ubiquitin marks proteins for destruction
+
+** Transport between Nucleus to Cytosol
+- Nuclear envelope encloses DNA and defines nuclear compartment
+  - Inner nuclear membrane contains proteins that act as binding sites for chromosomes and nuclear lamina (structural support)
+  - Outer nuclear membrane is continuous with the ER membrane - studded with ribosomes
+- Traffic is bidrectional
+
+*** Proteins that function in the nucleus from the cytosol: 
+- Histones
+- Polymerase
+- Transcriptional regulators
+- RNA-processing proteins
+
+*** Proteins that are synthesised in nucleus and go to cytosol: 
+- mRNA
+- rRNA
+- tRNA
+- miRNA
+- snRNA
+
+- Ribosomal proteins are made in the cytosol, sent to the nucleus, get assembled with rRNA, then sent back to cytosol to be turned into ribosomes
+
+*** Nuclear Pore Complex(NPC)
+- Perforates the nuclear envelope
+- Made of 30 different proteins (nucleoporins)
+  - Some proteins are structurally related to vesicle coat protein complexes: clathrin and COPII coatomer
+  - Similarities suggest a common evolutionary origin for NPCs and vesicle coats
+- Contains aqueous passages for water-soluble molecules to diffuse passively through
+  - Small proteins diffuse so fast the membrane is considered permeable
+  - Large proteins diffuse slowly, and very large proteins are unable to enter passively
+- The size restriction requires that some cell proteins function in either the nucleus or cytosol, depending on if it can diffuse
+
+*** Nuclear Localisation Signal (NLS)
+- Responsible for selectivity in active nuclear transport
+- Defined using recombinant DNA for numerous nuclear proteins
+- Can be visualised by coating gold particles with NLS and following their path from the cytosol using electron microscopy
+
+*** Nuclear Import Receptor (importins)
+- Recognises NLS for import initiation
+- Most importins are encoded by the same family of genes
+- Receptor-cargo complex moves along transport path by repeatedly binding, dissociating, and rebinding
+- Once inside the nucleus, it dissociates from cargo and returns to the cytosol
+
+*** Nuclear Export works like nuclear import in reverse
+- Uses nuclear export signals and nuclear export receptors (exportins)
+- Structurally related to nuclear import receptors, and encoded by the same family of genes
+
+*** Ran GTPase
+- Ran GTPase imposes directionality on transport through the NPC
+- GTPase-activating protein (GAP) triggers GTP hydrolysis to convert Ran-GTP to Ran-GDP
+- Guanine exchange factor (GEF) promotes the exchange for GDP to GTP to convert Ran-GDP to Ran-GTP
+- Cytosol has mostly Ran-GDP = causes export
+- Nucleus has most Ran-GTP = causes import
+
+** Transport Between Cytosol and Mitochondria/Chloroplasts
+- They can create their own proteins, but most of their proteins are encoded in the the nucleus
+- Inner membrane - encloses matrix space and forms extensive invaginations (cristae)
+- Outer membrane - in contact with the cytosol
+- Grown using fission of existing mitochondria/chloroplasts - dependent on cytosol protein transport
+- Protein translocation - movement of protein across membranes
+
+*** Mitochondria
+- Compartments of the mitochondria: matrix space and intermembrane space (continuous with cristae space)
+
+**** Translocation
+- Mitochondrial proteins are fully synthesied as mitochondrial precursor proteins in the cytol and translocated by a post-translational mechanism
+- Signal sequences direct the precursor proteins to their correct subcompartments (often found in N-terminus)
+- Protein translocator - multisubunit protein complaxes that mediate protein movement across mitochondrial membrane
+- ATP Hydrolysis drives protein import into the matrix space
+- Translocation can occure via several routes
+
+***** Complexes
+- TOM complex - transfers proteins across outer membrane
+- TIM complex (TIM23 and TIM22) - transfers proteins across the inner membrane
+- Contain components that act as receptors for mitochondrial precursor prtoeins and others receptors that form the translocation channel
+- After the TOM complex initiates transport, beta-barrel proteins are passed to the SAM complex to fold the outer membrane
+- TIM23 then transports soluble proteins into the matrix space and inserts transmembrane proteins into the inner membrane
+- OXA complex mediates the insertion of inner membrane proteins that are synthesised within the mitochondria
+
+***** Precursor Protein Unfolding
+- Precursor proteins must be unfolded
+- Chaperones will unfold some proteins, while others wil bind directly through their signal sequence to TOM complex
+- TOM complex will feed in the unfolded polypeptide chain to the translocation channel
+- The chain will then either translocate to the matrix space or is inserted into the inner membrane
+
+***** Influence of ATP Hydrolysis
+- Fuels import from outside the mitochondria and from inside the matrix space
+- Requires membrane potential across the inner mitochondrial membrane to function
+  - First occurs at the initial stage of the translocation process
+  - Pumping of H+ fuels both translocation and the ATP hydrolysis
+- Mitochondrial hsp70 uses ATP to bind to unfolded polypeptide chains for chaperoning
+
+*** Chloroplast
+- Have stoma - equivalent to the mitochondria matrix
+
+**** Translocation
+- Resembles the process for mitochondrial translocation
+- Both use energy, amphilic N-terminal signal squences, and are post-translational
+- Uses GTP and ATP hydrolysis to power import due to thylakoid membrane already having an H+ gradient
+
+** The Endoplasmic Reticulum
+- ER membrane constitutes over half the total membrane of an average animal cell
+- Netlike labyrinth of branching tubules and flattened sacs that extend throughout the cytosol
+- ER and nuclear membrane form a continuos sheet called the ER lumen/ER cisternal space
+- Plays central role in lipid/protein biosynthesis, and serves as intracellular Ca2+ store
+- ER import is co-translational - occurs before complete synthesis
+- Import into mitochondria, chloroplast, nuclei, peroxisome - post-translational
+- Rough ER - has membrane-bound ribosomes
+- Smooth ER - has no ribosomes
+- Proteins are directed by ER signal sequences which initiate translocation by a common mech
+
+*** ER captured proteins from the cytosol
+- Transmembrane protein - partly translocated across the ER membrane and are embedded into it
+- Water-soluble porteins - fully translocated across the ER membrane and released into the ER lumen
+
+*** ER Signaling
+- Signal sequence guided to the ER membrane by two components
+  - Signal-Recognition particle (SRP) - cycles between ER membrane and cytosol and binds to the sequence
+  - SRP receptor
+- SRP is rodlike, with one end binding to the ER signal sequence and the other blocking the elongation factor binding site between ribosomal subunits
+- The binding brings the SRP-ribosome complex to an unoccupied translocator, then released
+- This creates two spatially separate populations of ribosomes
+  - Membrane-bound ribosome - attached to the cytosolic side of the ER, engaged in synthesis of proteins that are being translocated into the ER
+  - Free ribosome - unattached to any membrane, synthesises all other proteins encoded by the nuclear genome
+- Many ribosomes can bind to a single mRNA, creating a polyribosome
+  - mRNA with an ER signal sequence attaches the polyribosome to the ER membrane
+
+*** Polypeptide Chain Passes Through Water
+- Polypeptides are transferred across the ER membrane through a water-filled translocator channel
+- Sec61 complex - core of translocator built from 3 subunits, suggesting alpha-helices surround a central aqueous channel
+  - Channel is gated by a short alpha-helix to only allow a polypeptide chain through
+  - Is also able to open along its side seam, which is shown to be possible in practice
+  - Forms a large translocator assembly in eukaryotic cells, as visualised after detergent solvent - called a translocon
+
+*** Single-Pass Transmembrane Proteins
+- A single ER signal sequence remains in the lipid bilayer to act as a membrane-spanning alpha-helix
+- The signal sequence opens the Sec61 pore
+- The signal sequence binds to a site within the pore once it is released from a SRP and the chain has reached length
+  - Means the signal sequence is recognised twice: once by a SRP in the cytosol and again by the binding site (start-transfer signal to open the pore)
+  - Dual recognition ensures only the correct proteins can pass
+
+**** Methods of Insertion
+- N-terminal signal sequence initiates translocation, and acts as a stop-transfer signal to anchor the protein in the membrane once the start-transfer signal is cleaved
+- An internal isngal sequence is bount to SRP and is brought to the ER, with the SR signal sequence acting as the start-transfer signal
+
+*** Multipass Transmembrane Proteins
+- Chain passes back and forth repeatedly across the bilayer as hydrophobic alpha-helices
+- Uses an internal signal sequence for the start-transfer signal
+- Passes through until a stop-transfer signal is encountered
+- For more passes, another start-transfer signal then starts the chain again until it reaches another stop-transfer signal
+- Start-transfer signal is always cytosolic, so the proteins will make an asymmetric membrane
+
+*** ER Tail-anchored Proteins
+- C-terminal anchored transmembrane protein
+- Have a large number of SNARE protein subunits that guide vesicular traffic
+- Only a few amino acids go through the membrane, while most stay in the cytosol
+- The position of the alpha-helices cause it to terminate, allowing peptides to stay outside the membrane
+
+*** Rough ER Folding and Assembly of Proteins
+- Many proteins in the ER lumin are in transit, but some stay within the lumen (ER resident proteins)
+- ER resident proteins contain an ER retention signal of 4 amino acids at the C-terminus
+
+**** Protein Disulfide Isomerase (PDI)
+- Catalyses oxidation of free sulfhydryl (SH) groups on cysteines to form disulfide bonds
+- Cysteines in protein domains that are exposed to the extracellular space or lumen are disulfide bonded
+
+**** BiP
+- Chaperone protein
+- Pulls proteins post-translationally into the ER through the Sec61 translocator
+- Can recognise incorrectly folded proteins, as well as unassembled protein subunits
+- Prevents bad proteins from leaving the ER, and keeps them inside with it
+
+**** Glycosylation
+- Many proteins coming from the rough ER are turned into glycoproteins
+- Precursor oligosaccharide is formed and tarnsferred to proteins, catalysed by oligosaccharyl transferase on the luminal side
+- Dolichol - special lipid that anchors the precursor oligosaccharyl
+- Oligosaccharides are used as tags to mark protein folding state
+- ER enzyme will continuously add glucose so protein maintains affinity to calnexin and calreticulin until it's fully folded
+
+*** Degradation of Improperly Folded Proteins
+- Improperly folded proteins will be degraded in the cytosol
+- Requires chaperones to keep them fully unfolded for translocation into the cytosol
+- N-linked oligosaccharides serve as timers to determine if a protein has been in the ER for too long
+- Accumulation of misfolded proteins in the ER will trigger an unfolded protein response - increased transcription for proteins that retrotranslocate and degrade proteins in the cytosol
+
+**** Signaling Pathways
+- Misfolded protein activates a transmembrane protein kinase (IRE1) which phosphorylates itself, activating an mRNA cleavage for proteins to mediate response
+- Misfolded protein activates transmembrane protein kinase (PERK) which inhibits initiation factor through phosphorylation, which shifts balance to protein mediators
+- Transmembrane ER protein (ATF6) is transported to Golgi, is cleaved by protease, and migrates back to nucleus to transcribe mediator proteins
+
+*** GPI Anchor
+- ER enzymes catalyse the covalent attachment of GPI anchors to the C-terminus of membrane proteins
+- GPI anchored proteins can be used to direct plasma membrane proteins into lipid rafts to segregate themselves
+
+** Lysosomes
+- Membrane-enclosed organelles filled with soluble hydrolytic digestion enzymes
+- Each enzyme is an acid hydrolase, which means it works best at acidic pH
+- Highly glycosylated to protect from itself
+- Some lysosomes will be exocytosised into the bloodstream
+
+*** Pathways
+- One route to deliver enzymes to lysosome from ER via Golgi apparatus
+- Multiple paths to feed substances for digestion
+- Phagocytosis: engulfment of substances into the cell
+
+*** Autophagy
+- Self-eating of obsolete cell parts
+
+**** Steps
+1. Induction by activation of signaling molecules
+2. Nucleation and extension of a delimiting membrane into a crescent-shaped cup
+3. Closure of the membrane cup around the target to form a sealed autophagosome
+4. Fusion of the autophagosome with lysosomes, catalysed by SNAREs
+5. Digestion of the inner membrane and the luminal contents of autophagosome
+
+*** Mannose-6-Phosphate (M6P)
+- Sorts lysosomal hydrolase in the trans-Golgi network
+- M6P receptor proteins recognise M6P groups and bind to them and to adapter proteins in assembling clathrin coats
+
+**** Defects
+- Defect in GlcNAc Phosphotransferance can cause a lysosomal storage disease
+
+
+* Intracellular Membrane Transport
+- Transport Vesicle - membrane containers formed from a donor compartment containing stuff to transport
+  - Must be selectively budded from its donor compartment (ER proteins stay in the ER, etc)
+- Cargo - molecules that are being transported by the transport vesicle
+
+** Vesicular Transport
+- Vesicular transport mediates a continuous exchange of components between membrane-enclosed compartments
+
+*** Rab Proteins
+- Guides transport vesicles to target membrane - important for specificity
+- Monomeric GTPases
+- Cycles between a membrane and cytosol, regulating the reversible assembly of protein complexes on the membrane
+- When GDP-bound: inactive and bound to anther protein to keep them soluble in the cytosol (GDI)
+- When GTP-bound: active and tightly associated with a membrane
+
+*** Exocytosis
+- Molecular markers on the cytosolic membrane surface act as guidance cues for incoming traffic
+- Most transport vesicles are coated vesicles with a distinctive protein cage
+  - Inner coat layer concentrates specific membrane proteins in a specialised patch
+  - Outer coat layer assembles into a curved basketlike lattice to shape the vesicle
+
+**** Types of Coated Membranes
+***** Clathrin-Coated
+- Mediates transport from Golgi and from plasma membrane
+- Main protein component is clathrin, which forms the outer layer of the coat
+- Clathrin subunit: 3 large and 3 small polypeptide chains that form a 3-legged structure (triskelion)
+- Triskelion forms a basketlike framework to form coated pits (buds) on the cytosolic membrane surface
+- Cytosolic proteins regulate the pinching off and uncoating of clathrin-coated vesicles, such as dynamin
+  - Process brings two leaflets of the membrane into close proximity and fuses them, sealing off the forming vesicle
+  - Clathrin-coat dissolves once vesicle is released
+
+****** Adapter Proteins
+- Forms a discrete inner layer of the coat, positioned between the clathrin cage and membrane
+- Binds the clathrin coat to the membrane and traps various transmembrane proteins, including cargo receptors to capture cargo
+
+***** COPI-Coated
+- Mediates transport from the Golgi cisternae to the ER
+
+***** COPII-Coated
+- Mediates transport from the ER to the Golgi cisternae
+
+**** Phosphoinositides (PIPs)
+- Marks organelles and membrane domains
+- Determines the steady-state distribution of PIP species
+- Many proteins contain domains that bind to specificd PIPs
+- Bound proteins help to deform the membrane during vesicle formation
+
+**** Monomeric GTPase Control Coat Assembly
+- Used to balance vesicle traffic to and from a compartment
+- Coat recruitment GTPase - family of GTPase that is responsible for assembling coats for vesicles
+  - Found in high concentration in cytosol, in an inactive GDP-bound state
+  - Also used in coat disassembly due to conformational changes in GTPase when GTP is hydrolysed
+
+*** Endocytosis
+**** SNAREs
+- Protein that mediates membrane fusion
+- v-SNARE - found in vesicle membranes
+  - Single polypeptide chain
+- t-SNARE - found on target membrane
+  - 3 proteins
+- trans-SNARE complex - when a v and t SNARE lock together, locking the membranes together as well
+  - Uses energy freed when locking to catalyse membrane fusion
+- Rab proteins releases specific inhibitory proteins from the t-SNARE, allowing the complex to form as a check
+
+**** Resetting
+- SNARE complex must be pried apart before they can function again
+- NSF protein cycles between membrane and cytosol to catalyse disassembly process

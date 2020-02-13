@@ -1,0 +1,234 @@
+* Basic Info
+** Cell Theory
+- All organisms are made of cells
+- All living cells are produced by other living cells
+- The cell is the most basic unit of life
+
+** Cell Characteristics
+- Membrane-bound
+- Filled with cytoplasm
+- Have DNA
+- Have ribosomes
+
+** Eukaryotic Cells
+- Have a nucleus and membrane-bound organelles
+
+** Prokaryotic Cells
+- Does not have nucleus and most do not have membrane-bound organelles
+
+** Atoms
+- Life uses ~25 elements
+- Atoms are the smallest unit with properties of an element
+
+** Chemical Bonds
+- Bonds require differebt energies to break
+
+*** Covalent Bond
+- Sharing of electron pairs
+
+**** Forming and Breaking
+- Dehydration :: Removing a water and adding a bond
+- Hydrolysis :: Adding water and removing a bond
+
+*** Ionic Attraction
+- Attraction of opposite charges
+
+*** Hydrogen Bond
+- Electrical attraction between covalently bonded H and electronegative atom
+
+*** Hydrophobic Interaction
+- Interaction of nonpolar substances in the presence of polar substances (esp water)
+- Non-polar groups move away from water or adopt conformations to shield from water
+- Often found in hydrocarbons
+- Amphiphilic molecules have both hydrophobic and hydrophilic regions
+- Hydrophobic interactions are a major driving force controlling self-assembly
+
+*** Van der Waals Interaction
+- Interaction of electrons of nonpolar substances
+- Occurs between all substances, but most important between nonpolar substances, especially if substances are close to each other
+
+** Properties of Water Molecules
+- Cohesion of water molecules
+- High specific heat
+- Solid (ice) is less denese than liquid (water)
+- Known as universal solvent
+
+** Functional Groups
+*** Negatively charged groups
+- Carboxyl
+- Phosphate
+
+*** Postively charged groups
+- Amino
+
+*** Neutral polar groups
+- Hydroxyl
+- Sulfhydryl
+- Carbonyl
+- Aldehyde
+
+*** Neutral uncharged groups
+- Made of hydrogens and carbons
+
+** Macromolecules
+*** Lipids
+- Triglycerides composed of fatty acids and glycerol
+
+- Unifying feature of lipids is that they have no (or little) affinity to water
+- Fats, phospholipids, steroids
+
+*** Carbohydrates (sugars)
+- Polysaccharides contain disaccharides composed of two monosaccharides
+
+- Has an aldehyde or ketone group plus two or more hydroxyl groups
+- Tends to form into a ring in aqueous solution
+
+- Isomer :: monosaccharides that only differ in spatial arrangements, making minor changes in chemical properties but changing their recognition
+
+*** Nucleic Acids
+- RNA composed of nucleotides
+- DNA composed of nucleotides
+
+- Consists of monomers called nucleotides composed of three parts: nitrogenous base, 5-carbon sugar, 1+ phosphate groups
+- Ribose in RNA, deoxyribose in DNA
+- Purines in adenine and guanine, pyrimidines in cytosine and thymine/uracil
+
+- Dehydration reaction creates phosphodiester linkage with the phosphate at the 5' carbon and hydroxyl at the 3' carbon
+
+**** DNA Bases
+- Adenine (A)
+- Thymine (T)
+- Guanine (G)
+- Cytosine (C)
+
+*** Proteins
+- Peptides composed of amino acids
+
+- Unbranched polyers constructed from a set of 20 amino acids
+- Formed by a peptide bond to make a polypeptide
+
+**** Directionality
+- Carboxy (C) group of one amino acid joins to the amino (N) group of another amino acid
+- C-terminus and N-terminus
+
+* DNA
+- Double helix with a sugar/phosphate backbone
+- Nucleic acid bases are inside the double helix
+  - Must be purine + pyrimidine
+  - A & T, C & G
+- Runs antiparallel - 3' -> 5' on one side, 5' -> 3' on the other side
+
+* Central Dogma
+** Replication - DNA to DNA
+- Copying of DNA before cell division
+- Semiconservative :: complementary base pair rule means that one old strand can be a template for a new strand in double helix
+
+*** Origin of Replication
+- Specific sites on DNA strand are origin points for replication
+- Marked by a short, specific nucleotide sequence for replication proteins to recognise for binding
+
+- Bacteria have 1 origin of replication
+- Eukaryotes have many (100s-1000s) of origins
+
+- Has a replication bubble where the DNA is being unwound by proteins at a replication fork
+- 2 replication forks per origin of replication
+
+**** Proteins that Initiate Replication
+- Helicases :: Untwists the double helix at the fork and separates the parent strands
+- Single-strand binding proteins :: Binds to unwound DNA single-strand to prevent it from forming hydrogen bonds
+- Topoisomerase :: Relieves twisting strain ahead of replication fork by breaking, swiveling, and rejoining DNA strands
+- Primase :: Makes RNA primer
+- RNA Primer :: 5-10 complementary RNA nucleotides to serve as a foundation to which DNA nucleotides can be added
+		Essential for DNA to form
+
+**** Synthesising a New Strand
+- DNA polymerase III :: Adds DNA nucleotides to a pre-existing chain
+     Requires: RNA primer, DNA template (parent) strand
+     Attaches 5' phosphate group of unbound nucleotide to free 3' OH group of strand, extending via the 3' end
+
+- New stand can only be synthesised in the 5' -> 3' direction
+- Template strand is antiparallel, being read in the 3' -> 5' direction
+
+***** Leading Stand
+- Opening in 3' -> 5' direction
+- Can get continuous 5' -> 3' replication
+- Only 1 primer needed
+- Fork continues to open as synthesis progresses
+
+***** Lagging strand
+- Other strand is opening in 5' -> 3' direction
+- DNA polymerase must work in the direction away from the fork
+- Synthesised discontinuously as a series of fragments (Okazaki fragments)
+- Each Okazaki fragment needs its own primer
+
+- DNA Polymerase I :: Replaces RNA nucleotides in primer with DNA nucleotides in the 5' -> 3' direction
+- DNA Ligase :: Joins together neighbouring nucleotides in DNA segments
+
+** Transcription - DNA to RNA
+- RNA is usually single stranded, while DNA is double stranded
+- RNA has uracil, while DNA has thymine
+
+- RNA Polymerase :: Creates mRNA from DNA
+		    - Unwinds DNA
+		    - Creates RNA at the active site
+		    - Rewinds DNA
+
+- RNA polymerase binds to the promotor as teh start point, using the 3' -> 5' as the template strand
+
+*** Signals
+- Initiation :: Promotor sequence in DNA at -35 sequence and -10 sequence
+- Termination :: Terminator sequence in DNA
+
+*** Steps
+1. Initiation
+2. Elongation
+3. Termination
+
+*** In Prokaryotes
+- RNA polymerase binds to promotor at -35 sequence, with sigma factor also binding to the polymerase
+- RNA polymerase binds more tightly at -10 sequence, also starting to untwist the DNA
+- Sigma factor leaves after 8-9 nucleotides have been polymerised
+- Terminates when C-G stem loop forms or Rho protein moves along
+
+*** In Eukaryotes
+- Transcription factor (TF) IID and TFIIB bind to promoters (TATA), then RNA polymerase II is recruited with other TFII factors
+- TFIIH is a helicase and opens the DNA helix using ATP
+- C-terminal domain of RNA polymerase interacts with RNA to cap, splice, and add the poly-A tail at termination
+
+**** Splicing
+- Introns are removed, exons are spliced
+- Done by snRNA/protein complexes
+- Forms into a spliceosome, creates a loop with the intron, and excises it
+
+**** Termination
+- AAUAAA is recognised, followed by 10-30 nucleotides and ending in CA
+- Cleaved after CA and capped with an OH group
+- poly-A tail attached
+
+** Translation - RNA to protein
+- Translation done by ribosomes
+- Ribosomes are created in the nucleolus
+- 61 sense codons per 20 amino acids
+
+*** Ribosomes
+- Contain two subunits
+  - Small subunit :: holds mRNA in place during translation
+  - Large subunit :: where peptide bonds form
+- Active site is ribosomal RNA which catalyses peptide formation
+
+*** Signals
+- Initiation :: AUG start codon in mRNA
+- Termination :: UAA, UAG, or UGA stop codon in mRNA
+
+*** In Prokaryotes
+- Translation is tightly coupled with transcription
+
+*** In Eukaryotes
+- Translation is done separately in the cytoplasm
+- GTP-bound initiation factors bind to 5' cap with small ribosomal subunit
+- It finds AUG (start codon) and the initiation factors leave so large ribosomal subunit can bind
+
+*** Process
+- Ribosomal subunits clamp the mRNA with an attached tRNA carrying the first amino acid
+- tRNA continues entering the ribosome and adding more peptides to grow the chain
+- Stop codon is recognised by protein release factor, and the apparatus comes apart

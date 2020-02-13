@@ -1,0 +1,545 @@
+* Microtubules
+- Microtubule :: polymers of the protein tubulin
+
+** Tubulin
+- Tubulin :: a heterodimer formed from two closely related globular proteins, alpha-tubulin and beta-tubulin, tightly bound together by noncovalent bonds
+
+- Each tubulin subunit has one GTP binding site
+- Alpha-tubulin GTP is trapped at the dimer interface - is a part of the tubulin heterodimer structure
+- Beta-tubulin GTP can be hydrolysed and exchangeable within the soluble tubulin dimer
+
+** Protofilament
+- Composed of alpha/beta-tubulin heterodimers stacked head-to-tail and then folded into a tube
+- Makes up a microtubule
+- Multiple contact points causes a staggered assembly, making the microtubule stiff and hard to bend
+- Each subunit in a protofilament points in the same direction, which the protofilaments aligned in parallel
+
+** Dynamic Instability
+- Microtubule dynamics influenced by binding and hydrolysis of GTP, with hydrolysis only occuring on beta-tubulin subunits
+
+- If the rate of subunit addition is high, then the tip of the polymer stays in the T form, forming a GTP cap (grows)
+- If the rate of subunit addition is low, then the tip will become the D form (shrinks)
+
+- Dynamic instability :: the rapid interconversion between growing and shrinking states
+
+- Growth -> shrinkage = catastrophe
+- Shrinkage -> growth = rescue
+
+- Drugs taht affect polymer stabilisation or destabilisation will cause cell death in dividing cells due to the spindles not working
+
+*** 2 Forms
+- T Form :: GTP bound microtubule structure - straight, strong, lateral structure
+- D Form :: GDP bound microtubule structure - curved
+
+- Energy released from hydrolysis is stored as elastic strain in the polymer lattice
+- D form dissociation free energy change is more negative than T form dissociation free energy change
+- K_off/K_on for GDP tubulin > K_off/K_on for GTP tubulin
+
+** Gamma-Tubulin
+- Gamma-tubulin :: present in smaller amounts than alpha or beta, involved in nucleation of microtubule growth
+- High concentration at the microtubule-organising center (MTOC) where nucleation occurs
+- Gamma-tubulin ring complex (gamma-TuRC) :: Complex where two accessory proteins bind directly to tubulin, serving as a template for nucleation
+
+** Centrosome
+- Centrosome :: Single, well defined MTOC located near the nucleus where microtubules are nucleated at their minus ends, so the plus ends point outward and continuously grow to probe the entire 3D cell volume
+- Recruits more than 50 copies of gamma-TuRC
+- Not completely required for nucleation, as seen through the use of laser pulse destruction
+
+*** Centriole
+- Centriole :: Pair of cylindrical structures arranged at right angles to each other in an L-shaped config
+- Arranged into a barrel shape with striking ninefold symmetry
+- Pericentriolar material :: organised group of centrioles where microtubule nucleation takes place
+
+*** Yeast
+- Microtubules are nucleated at an MTOC embedded in the nuclear enveloped, called the spindle pole body
+- This system is found in plant cells and other fungi as well
+
+*** Animal Cells
+- Aster-like microtubule config has dynamic outward-pointing plus ends that survey outlying cell regions and centers the centrosome
+- Useful as a coordinate system, which helps to position multiple organelles within the cell
+
+** More Dynamics
+- Microtubules in cell exhibit a much higher polymerization rate, a greater catastrophe frequency, and extended growth pauses
+- This is because of governing proteins that bind tubulin dimers
+
+- Microtubule-associated proteins (MAPs) :: proteins that bind to microtubules
+- MAPs can stabilise microtubules gainst disassembly
+- Can also mediate microtubule-cell interactions
+- Protein kinases can target MAPs, which can control activity and localisation
+
+*** Protein Effects
+- Proteins can bind to the ends of microtubules to affect stability and dynamics
+
+- gamma-TuRC - nucleates assembly and remains associated with the minus end
+- +TIPs - remains associated with the growing plus-ends and can link to other structures
+- XMAP215 - stabilises plus ends and accelerates assembly
+- MAPs - stabilises microtubles by binding along the sides
+- Plectin - links to intermediate filaments
+- MAP2 - filament binding and cross-linking
+- Katanin - severs microtubules
+- Kinesin-13 - induces catastrophe and disassembly
+- Stathmin - Binds subunits, prevents assembly
+
+** Motor Proteins
+- Transports cargo and performs other functions
+- Kinesins :: motor proteins that walk towards the plus end, away from the cell center
+- Dynein :: motor proteins that walk towards the minus end, towards the cell center
+
+- Kinesin-1 :: carries organelles away from the cell body towards the axon terminal by walking towards the plus end
+- Axonemal dynein :: has second branch and includes monomers, heterodimers, and heterotrimers with 1, 2, or 3 omotor-containing heavy chains
+     - Designed for rapid and efficient sliding movements of microtubules that drive the beating of cilia/flagella
+
+- Dynactin :: a large protein complex used to assist dynein with translocating organelles effectively
+	      - Contains an actin-like filament formed from Arp1
+
+- Cell can regulate motor protein activity to change either organelle positioning or whole-cell movement
+- Jerky movements is caused by opposing motor proteins tugging, causing a tug-of-war where the stronger protein will cause the overall movement
+- cAMP level decrease inactivates kinesin, which allows dynein to work freely
+
+** Cilia and Flagella
+- Flagella :: Motility machine used to enable cell movement through a medium by undulating itself
+- Cilia :: Beats to propel a single cell through fluid or move fluid over a cell surface
+
+- Axoneme :: core of a cilia or flagella, whose bending produces the movement
+	     - Composed of microtubules arranged in a distinctive, regular pattern
+	     - Axonemal dynein form bridges between neighbouring microtubule doublets
+             - Movement of a doublet causes bending due to linkages that lock the microtubules to a range of motion
+
+*** Primary Cilia
+- Many cells have them
+- Forms at the basal body of the cell membrane
+- Centriole at the core of the basal body
+- Moves cargo in both directions depending on kinesin-2 and dynein-2
+
+* Intermediate Filaments
+- Forms cytoplasmic filament only in some metazoans (vertebrates, nematodes, mollusks)
+- Prominent in cell cytoplasms that are subject to mechanical stress, not found in animals with rigid exoskeletons
+- Phosphorylation most likely regulates disassembly
+
+** Structure
+- Depends on lateral bundling and twisting of coiled-coils
+- Elongated proteins with a conserved central alpha-helical domain contianing 40 or so heptad repeat motifs
+- Forms an extended coiled-coil structure with another monomer
+- Pair of parallel dimers associate the coils in an antiparallel fashion to form a staggered tetramer
+- No polarity, hydrophobic
+- Tetramers pack together to form a filament consisting of 8 parallel protofilaments made of tetramers
+- Individual intermediate filament consists of 32 alpha-helical coils
+
+** Types of Intermediate Filament Proteins
+*** Nuclear Lamin
+- Nuclear (Lamins A, B, C) - Found in nuclear lamina (inner lining of nuclear envelope)
+
+- Found in many eukaryotes but missing from unicellular organisms
+- Forms a meshwork lining the inner nuclear envelope membrane, providing anchorage sites for chromosomes and nuclear pores
+- A type lamins are scaffolds of proteins that control many cellular processes such as transcription, chromatin organisation, and signal transduction
+
+*** Vimentin-Like
+- Vimentin - Found in many mesenchymal cells
+- Desmin - Found in muscle cells
+- Glial fibrillary acidic protein - Found in glial cells (astrocytes and some Schwann cells)
+- Peripherin - Found in some neurons
+
+- Expressed in muscles, forming a scaffold around the Z-disc
+- Used to stabilise muscle fibres
+
+*** Epithelial
+- Type I Keratins (acidic) and Type II Keratins (neutral/basic) - Found in epithelial cells and their derivatives (eg hair and nails)
+
+- Most diverse intermediate filament family - 54 distinct keratins in human genome
+- Each filament consists entirely of either type I or type II proteins, forming a heterodimer filament subunit
+- Cross-linked keratin networks are heald together by disulfide bonds
+- Epithelial cells can produce multiple types of keratins, forming a network
+- Binds to desmosomes, sites of cell-cell contact, to provide mechanical strength
+
+*** Axonal
+- Neurofilament proteins (NF-L, NF-M, NF-H) - Found in neurons
+
+- Found in high concentrations along the axons of vertebrate neurons
+- All three types coassemble in vivo to form heteropolymers
+- NF-H and NF-M have lengthy C-terminal tail domains that bind to neighbouring filaments to generate aligned arrays with uniformed spacing
+- New subunits get added along the axon in a a dynamic process along the filament length and ends
+
+** Plakins
+- Family of proteins that links intermediate filaments to the rest of the cytoskeleton
+- Large and modular, containing multiple domains that connect cytoskeletal filaments to each other and to junctional complexes
+- Plectin :: bundles intermediate filaments and links them to microtubules, actin bundles, and myosin II filaments
+	     helps intermediate filament bundles attach to adhesive plasma membrane structures
+
+** SUN and KASH proteins
+- SUN :: protein found in inner nuclear membrane
+	 binds to nuclear lamina or chromosomes inside the nucleus
+
+- KASH :: protein found in outer nuclear membrane
+	  binds directly to actin and indirectly to microtubules
+
+- They bind to each other within the nuclear envelope lumen, forming a bridge
+
+** Septin
+- Serves as additional filament system in all eukaryotes except terrestrial plants
+- Used for "pinching off" action in cells
+- Assemble into nonpolar filaments that form rings and cagelike structures, acting as scaffolds
+- Recruits actin-myosin machinery that forms contractile ring for cytokinesis
+
+* Cell-Cell Junctions (pg1043)
+** Anchoring Junction
+- Holds cells to each other
+
+*** Cell-Cell
+**** Adheren junction
+- Anchorage sites for actin filaments
+- Linked to contractile bundle of actin filaments and non-muscle myosin II
+- Subject to pulling forces of the actin, as well as the generated force of attached cells
+- Adheren junctions link cells in a way that they can coordinate movements
+
+**** Desmosome
+- Anchorage sites for intermediate filaments
+- Gives epithelia mechanical strength
+- Like adheren, but has special cadherins to link to intermediate filaments instead
+- Looks like buttonlike spots of adhesion, riveting cells together
+- Intermediates connected to desmosomes: keratin and desmin filaments
+
+*** Cell-Matrix
+- Actin-linked cell matrix junction :: anchors actin filaments to the matrix
+- Hemidesmosome :: anchors intermediate filaments to matrix
+
+** Other Cell-Cell Junctions
+- Tight junction :: holds cells closely together near the apex to seal the gap between cells and preventing leakage
+- Gap junction :: creates passageways linking cytoplasms of adjacent cells
+
+** Transmembrane Adhesion Proteins
+- Span the plasma membrane, with one end linking to the cell cytoskeleton and the other linking to an extracellular structure
+- Within the two superfamilies, there is specialisation as to which will form what
+
+*** Cadherin
+- Superfamily of transmembrane adhesion protein that mediates attachment of cell to cell
+- Depends on Ca2+; removing Ca2+ will cause caherin-mediated adhesion to come apart
+
+**** Classical Cadherin
+- Closely related cadherins to the first three cadherins discovered
+
+- E-cadherin :: present in epithelial cells
+- N-cadherin :: present on nerve, muscle, and lens tissue
+- P-cadherin :: present in cells in the placenta and epidermis
+
+- Binding between cadherins are normally homophilic
+- Each cadherin has multiple extracellular cadherin (EC) domain in an extracellular portion
+- Homophilic binding occurs at the N-terminal tips, which lies furthest from the membrane
+- Each domain is rigid, connected by a hinge to the next domain
+- Ca+2 prevents the hinge from flexing, so removing Ca+2 allows the structure to become floppy
+- Receptor binding is usually low affinity, with strength coming from multiple bonds
+- The multiple bonds means that the unbinding can be easiest achived by separating sequentially
+
+***** Catenin
+- Links classical cadherin to actin cytoskeleton
+- Cadherin tail binds to beta-catenin and p120-catenin
+- alpha-catenin then binds with beta-catenin and actin filaments
+
+- Intermediate filaments bind through the use of plakoglobin, which is related to beta-catenin
+- In mature form, adheren junctions are enormous protein complexes packed into dense, regular arrays
+- On the cytosolic side, they form a complex network of catenins, actin regulators, and contractile actin bundles
+
+**** Nonclassical Cadherin
+- Closely related to each other but not to classical cadherin in sequence
+- More than 50 found in the brain
+
+- Includes proteins with known adhesive function
+- Protocadherin :: found in the brain
+- Desmocollins and desmogleins :: forms desmosomes
+
+**** Tissue Organisation
+- Specific cadherins allow for selective recognition, so similar cells can group together
+- Cadherins will disappear and appear during development, allowing for new tissue structures to form
+- Depending on what is being formed, the cell will switch on and off formation of specific cadherins
+
+*** Integrin
+- Superfamily of transmembrane adhesion protein that mediates attachment of cell to matrix
+
+* Extracellular Matrix
+** Integrin
+- COOH domain in cytosol
+- Cysteine rich extracellular domain
+- Extensive extracellular domain head region for matrix binding
+- Matrix head binds to anything with RGD sequence (most ECM proteins)
+
+- Does not bind directly to cytoskeleton -> has adaptor proteins vinculin and talin for that
+
+- Used to control cell proliferation and survival
+
+*** Outside -> Inside Events
+- When integrin binds to ECM, cytosolic domain binds to cytoskeleton, allowing force to be applied to point of activation
+- Activation through ligand binding controls cell motility and gene expression through CTK, GTPases, and MAP kinase
+
+- Starts inactive in the extracellular domain
+- Goes to open conformation with strong ligand binding
+- Causes alpha and beta integrins to separate and begin active
+
+*** Inside -> Outside Events
+- Signals from cytoplasm, often through talin, causes integrins to reach out and bind to ECM, engaging attachment
+- Stimulation of signal pathways increases affinity for ligands
+
+- Strong talin binding occurs
+- Beta integrin is separated from alpha integrin
+
+** Fibronectin
+- Cell attachment and guidance
+- Interacts with integrins and ECM molecules
+- C domain has disulfide bond pair
+
+** Collagen
+- Insoluble, high tensile strength
+- 30% of total body protein
+- Synthesised by fibroblasts, osteoblasts, and cartilage cells
+- Made of a series of triplet Gly-X-Y sequences where X and Y are any amino acid
+- Left-handed helix
+- Cross links form within colllagen fibril
+
+** Lamin
+- 3 different polypeptides
+- Links plasma membrane receptors (integrins and dystroglycans)
+
+* Cell Cycle
+** Regulation
+*** Cdk/Cyclin
+- Goes up and down periodically
+  - Up = transcription/translation
+  - Down = protein degradation
+
+**** Inhibitory Pi and Stimulatory Pi groups
+
+
+**** Cdc20
+- Activated around M-phase to combine with APC/C for activation
+
+**** APC/C
+- Anaphase-promoting complex
+- A ubiquitin ligase responsible for M-CDK degradation
+- Adds polyqbiquitin chain to M-CDK to mark for degradation by proteasome
+
+**** Cohesin
+- Used to keep sister chromatids connected during metaphase
+- Facilitates spindle attachment onto chromosomes
+- Facilitates DNA repair through recombination
+- Responsible for transcription regulation
+
+**** Condensin
+- Protein complex that plays a role in chromosome assembly and segregation
+- Has SMC proteins (structural maintenance of chromosomes), a kleisin regulatory subunit, and HEAT-repeat subunits
+
+- Condensin II is in the cell nucleus during interphase
+- Condensin I is outside the nucleus and can only access chromosomes after the nuclear envelope breaks down
+
+- Both condensins contribute to chromosome assembly, staying associated with the chromosomes after separation
+
+** Markers
+- Centrosome duplication: G1/S
+- Thymidine or BrdU incorporation: S
+
+- Chromatin condensation: G2/M
+- Nuclear envelope breakdown: G2/M
+- Spindle assembly/morphology: M
+- Chromosome alignment/segregation: M
+
+- Spindle disassembly: M/G1
+- Chromatin decondensation: M/G1
+- Nuclear envelope reformation: M/G1
+- Cytokinesis: M/G1
+
+** Mitosis
+- Follows S phase and G2 phase
+- Part of M phase
+
+*** 5 Stages
+- Prophase - chromosomes condense
+- Prometaphase - chromosomes begine to move to center
+- Metaphase - chromosomes are aligned by microtubules
+- Anaphase - chromosomes separate
+- Telophase - chromosomes reform into nuclei and cell begins to pinch (actin activity)
+
+*** Two Major Parts
+**** Early Mitosis
+- Abrupt increase in M-Cdk activity at the G2/M transition
+- Prophase, prometaphase, metaphase
+- M-Cdk and other mitotic protein kinases phosphorylate variety of proteins leading to the mitotic spindle assembly and attachment to sister chromatid pairs
+
+**** Second Part
+- APC/C at metaphase-anaphase transition
+- Triggers destruction of securin, liberating protease that cleaves cohesin and initiates separation of sister chromatids
+- Triggers destruction of cyclins, leading to Cdk inactivation and Cdk target dephosphorylation which causes the rest of the M phase events
+
+*** Role of M-Cdk
+**** Driving Entry
+- M-Cdk brings about all the cell rearragements in early mitosis
+- Most effects are caused by M-Cdk phosphorylating various mystery proteins
+
+- Induces assembly of hte mitotic spindle and ensures attachment to sister chromatid
+- Triggers chromosome condensation - large-scale reorganisation of intertwined sister chromatids into compact rods
+- Eukaryotes: breaks down nuclear envelope and rearranges actin cytoskeletion and Golgi apparatus
+
+**** Helpers
+- Polo-like kinase Plk :: required for normal assembly of a bipolar mitotic spindle
+- Aurora kinase A :: controls proteins that govern spindle assembly and stability
+- Aurora kinase B :: controls sister chromatid attachment to the spindle
+
+**** Depolarisation Activates M-Cdk
+
+*** Role of S-CDK
+- Triggers the formation of E2F protein and DNA replication
+
+*** Checkpoints
+- G1 Checkpoint (between G1 and S): Checks for proper cell size, growth factor availability, and DNA damage
+  - Cell arrest if not passed by Rb
+- S-phase Checkpoint (during S): Checks for DNA replication errors or damage
+- G2 Checkpoint (between G2 and M): Checks for DNA replication errors or damage
+- Mitosis Checkpoint (during M): Checks for chromosome attachment to microtubules
+
+* Apoptosis
+- Programmed cell death that occurs in multicellular organisms
+
+** Features
+- Cell shrinks and condenses
+- Cytoskeleton collapse
+- Nuclear envelope dissassembles
+- Chromatins consdense and break up
+- Cell surface blebs
+- Ready to be engulfed
+
+** Markers
+- Fragmented DNA ladder in gel -> apoptosis enzymes cleave proteins and DNA
+- Phosphotidylserine at outer leaflet of the plasma membrane (labelled with annexin V protein) - eat me signal
+- Cytochrome C release -> lost membrane potential in mitochondria
+- Labelled DNA ends by TUNEL technique -> labels blunt ends of DNA breaks
+- UV treated cytochrome-c-GFP
+
+** Major Killers
+*** Caspase
+- A protease :: Enzyme that degrades proteins
+- Procaspase :: Inactive form with NH2 prodomains
+- Prodomains are cleaved and subunits are reformed to make active caspase with a large and small subunit
+- One initiator caspase activates many executioner caspases
+- Executioner caspases cleave cytosolic proteins and nuclear lamin
+
+** Extrinsic Pathway
+- Triggered by signals from other cells
+- Caspase dependent
+- Death receptors -> TNF receptor, Fas (CD95) receptor, TRAIL
+
+- Generic pathway: Ligand -> death receptor -> death adaptor -> Caspase-8 (initiator) -> Caspase-3, 6, or 7 (effector)
+
+*** Fas-Fas Ligand Mediated
+1. Killer lymphocyte with Fas ligands binds to Fas death receptors on target cell
+2. Fas death receptor death domain recruits FADD adapter protein's death domain
+3. Death effector domain on FADD then recruits death effector domain on procaspase 8 or 10, forming the DISC complex
+4. Caspase 8 or 10 released from DISC, activating executioner/effector caspases, causing apoptosis
+
+*** Regulation
+- FLIP :: protein similar to pro-caspase 8 but lacks a proteolytic cleavage site, blocking actual procaspase 8 from binding and cleaving
+- NF-kB :: transcription factor induced by death receptor signalling that protects from apoptosis
+
+** Intrinsic Pathway
+- Triggered by cell stress or weak external signals
+- Caspase dependent
+- Mitochondrial pathway
+- Endoplasmic Reticulum pathway
+
+- Generic pathway: Pro-apoptotic stimuli reaches organelle -> cytochrome C + Apaf-1 + ATP + Caspase-9 -> Apoptosome -> Caspase-9 -> Caspase-3 or 7
+
+*** Apoptosome Formation
+1. Cytochrome-c is released
+2. Cytochrome-c activates Apaf-1 and bound dATP is hydrolysed to dADP
+3. Exposed CARD domain on the Apaf-1 complex assembled (triggered by release of dADP for dATP)
+4. CARD domain on procaspase-9 is bound, recruiting and activating procaspase-9
+5. Caspase-9 is cleaved in the apoptosome
+6. Executioner procaspases (3,6,7) are cleaved by caspase-9 to caspases and cleave cell components 
+
+*** Regulators
+- Anti-apoptotic Bcl2 proteins :: Bcl2, Bcl-X_L -> inactivates the intrinsic pathway
+- Pro-apoptotic BH123 proteins :: Bax, Bak -> mediates the release of cytochrome c
+- Pro-apoptotic BH3-only proteins :: Bad, Bim, Bid, Puma, Noxa -> inactivates Bcl2 proteins
+
+- IAPs :: regulates caspases by blocking them
+- Anti-IAPs :: neutralises IAPs
+
+* Cancer Cell Biology
+- Continuous uncontrolled cell growth
+- Benign tumour :: confined to original location
+- Malignant tumour :: capable of invading surrounding tissue or rest of body
+
+** Major Types
+- Carcinoma :: epithelial cell cancer
+- Sarcoma :: connective tissue cancer
+- Leukemia/lymphoma :: "liquid" tumours -> blood forming cells or immune system
+
+** Genes for Instability
+- Genes that control survival and cell cycle
+- Genes that provide life support
+- Genes taht control adhesion and migration
+
+*** Proto-Oncogenes
+- Promotes cell survival or proliferation
+- Gain of function mutation allows unregulated cell proliferation/survival (genetically dominant)
+  - Point mutation, chromosomal translocation, amplification
+
+**** Oncogene
+- Mutation that causes overactivity
+- Mutation caused abnormal/hyperactive protein (point mutation, DNA rearrangement)
+- Mutation caused excess normal protein (gene amplifcation or chromosomal translocation)
+
+*** Tumour Suppresor Genes
+- Inhibits cell survival or proliferation
+- Loss of function mutation allows unregulated proliferation and survival (genetically recessive)
+  - Arise by deletion, point mutation, methylation
+
+*** DNA Repair Genes
+- Repairs or prevents DNA damage
+- Loss of function mutation allows mutations to accumulate (genetically recessive)
+  - Deletion, point mutation, methylation
+
+*** Telomerase
+- Telomeres are constantly shortening per replication
+- When they are too short, no more replication of that cell
+- Mutated telomerase means telomeres will no longer get shortened, and can replicate forever
+
+** Major Genes
+*** p53
+- Tumour suppressor
+- Responsible for DNA damage response
+- Responds to hyperproliferative signals, DNA damage, telomere shortening, hypoxia
+- Causes cell cycle arrest/DNA repair, senescence, and apoptosis
+- usually sequestered by Mdm2, but when phosphorylated, Mdm2 cannot bind and p53 can bind to the p21 gene
+
+*** Ras
+- Proto-oncogene
+- Plasma membrane GTP-binding protein
+- Turned in oncogene through point mutation
+- Remember: RAS -> MAPKKK (Raf) -> MAPKK (Mek) -> MAPK (Erk)
+
+*** Myc
+- Proto-oncogene
+- Transcription Factor
+- Turned into oncogene through translocation
+
+*** p16
+- Inhibits CDK4
+- Removal activates CDK4
+
+*** CDK4
+- Proto-oncogene
+- Cell cycle/cell death regulator
+- Turned into oncogene through amplification
+- Activated by removal of p16
+- Phosphorylates Rb
+
+*** Rb
+- Tumour suppressor gene
+- Responsible for restriction point control
+- Homozygous gene mutation gives rise to tumours in retina
+- Frees E2F when phosphorylated by CDK4
+
+*** E2F
+- Transcription factor for proteins needed for DNA synthesis
+- Freed from Rb to then activate transcription for cell cycle proteins
+
+** Philadelphia Chromosome
+- q section of chromosome 22 removed, leaving 22q- (Philadelphia chromosome)
+- 9 becomes 9q+
+- Causes constitutively active tyrosine kinase

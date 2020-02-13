@@ -1,0 +1,231 @@
+* Sensory Physiology
+** Basics
+*** Central Nervous System
+
+- Brain
+- Spinal cord
+
+**** Spinal Cord Horns
+
+- Dorsal horn :: cell bodies of interneurons on which afferent neurons terminate
+- Lateral horn :: cell bodies of autonomic efferent nerve fibers
+- Verntral horn :: cell bodies of somatic efferent neurons
+
+*** Peripheral Nervous System
+
+- Cranial nerves
+- Ganglia outside the CNS
+- Spinal nerves
+
+**** Divisions
+***** Afferent (Sensory)
+
+- Sensing external environment
+- Sensing internal environment
+
+***** Efferent (Motor)
+
+- Autonomic nervous system
+  - Parasympathetic division
+  - Sympathetic division
+- Somatic nervous system
+
+*** Stretch Receptors
+
+- Stimulation produces a receptor potential/generator potential
+- Receptor potential will trigger a graded potential
+
+**** Adaptation
+
+- Tonic receptors :: slowly adapting receptors that respond for the duration of the stimulus (action potentials fire less rapidly)
+- Phasic receptors :: rapidly adapts to a constant stimuls and turns off (action potential stops)
+
+** Vision
+*** Iris
+
+- Controls amount of light entering eye cavities
+- Contraction of radial or smooth muscles permits pupil diameter change
+  - Parasympathetic stimulation of circular muscle causes pupillary constriction (bright light)
+  - Sympathetic stimulation of radial muscle causes pupillary dilation (dim light)
+
+*** Lense
+
+- Concave surface has focal point in front of lense
+- Convex surface has focal point behind lense
+- Refraction of light causes mirror image
+- Parasympathetic stimulation flattens the lense for distant viewing by relaxing the ciliary muscle to tighten the ciliary zonule
+- Sympathetic stimulation bulges the lense for close vision by contracting the ciliary muscle and loosening the ciliary zonule
+
+*** Retina
+**** Outer Layer
+
+- Contains retinal pigment epithelium and photoreceptors
+
+***** Photoreceptors
+
+- Most concentrated by the fovea, and gets less concentrated as you move away
+- Rods :: Distinguishes light (black and white)
+- Cones :: Distinguishes colour (red - L cone, blue - S cone, green - M cone)
+
+**** Middle Layer
+
+- Contains horizontal cells, bipolar cells, and amacrine cells
+
+**** Inner Layer
+
+- Contains ganglion cells and optic nerve axons
+
+** Hearing
+* Skeletal Muscle
+** Structure
+
+- Attached to bones or to skin (in the case of facial muscles)
+- Single, very long, cylindrical multinucleate cells with obvious striations
+
+- Epimysium -> Perimysium -> Fasicle -> Muscle Fiber -> Sarcomere -> Myofibril -> Protein Filament
+
+*** Muscle Organ
+
+- Consists of hundreds to thousands of muscles cells, connective tissue wrappings, blood vessels, and nerve fibers
+- Connective tissue covered externally by epimysium
+
+*** Fasicle
+
+- Discrete bundle of muscle cells, segregated from the rest of the muscle by a connective tissue sheath
+- Connective tissue surrounded by perimysium
+
+*** Muscle Fiber
+
+- Elongated multinucleate cell with a banded/striated appearance
+- Connective tissue surrounded by endomysium
+
+*** Filament Structure
+
+https://opentextbc.ca/biology/wp-content/uploads/sites/96/2015/08/Figure_38_04_04-1024x919.jpg
+
+**** TODO Myosin Structure
+**** TODO Actin Structure
+**** TODO Thick Filament
+**** TODO Thin Filament
+** Excitation / Contraction
+
+- Contraction :: Activation of force-generating sites within muscle fibers (cross-bridges)
+- Shortening of filament is based on a sliding theory where thin filaments slide along the thick filament
+- Voluntary (Sensory input -> integration at brain -> motor output)
+
+*** Excitation
+
+- Controlled by motor neurons
+- Neuromuscular junction between neuron acetylcholine vesicle and muscle cell plasma membrane
+- Excitation triggered by the release of acetylcholine
+
+**** Acetylcholine
+
+- Released from vesicles in the axon terminal when voltage-gated Ca2+ channels are activated
+- Binds with nicotinic receptor for activating muscle or is metabolised by acetylcholinesterase
+- Binding to receptor causes a Na/K channel to open, allowing Na+ to flow in and K+ to flow out
+
+**** Excitation Steps
+
+1. Ach is released from the axon terminal due to action potential and binds to receptors in the motor end plate, triggering an action potential in the muscle cell
+2. Action potential propagates along sarcolemma and down the T tubules
+3. Action potential triggers Ca2+ release from sarcoplasmic reticulum
+4. Contraction steps
+
+*** Types of Contraction
+
+- Isometric :: No lengthening or shortening
+- Concentric :: When muscle is actively shortening
+- Eccentric :: When muscle is actively lengthening
+
+*** Cross-bridge States
+**** Relaxation
+
+- Regulatory proteins inhibit actin-myosin interactions
+- Few heads are bound to actin
+- Sarcomeres can be stretched passively
+
+**** Contraction
+
+- Muscle is activated by calcium
+- Thousands of sarcomeres shorten in series causing muscle to shorten
+- ATP is hydrolysed and force is produced
+
+**** Rigor (Dead)
+
+- ATP depleted
+- Heads are tightly bound to actin
+- Strong actin-myosin interaction prevents stretching
+
+*** Stages of Cross-bridge Cycle
+
+https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnsb1003-773/MediaObjects/41594_2003_Article_BFnsb1003773_Fig1_HTML.gif
+
+1. Crossbridge binds to actin when energised by ADP + Pi (Calcium influx)
+2. Crossbridge moves and uncocks when ADP + Pi is removed
+3. Crossbridge detaches when ATP binds to myosin
+4. Crossbridge energises and is cocked  when ATP is hydrolysed to ADP + Pi
+
+- Actin acts to accelerate myosin ATPase
+
+*** Role of Ca2+
+
+- Ca2+ binds to troponin to regulate muscle contraction
+- Causes tropomyosin to move, exposing the myosin-binding site on actin
+
+- Ca2+ is released from the sarcoplasmic reticulum in the muscle fiber
+- Dantrolene inhibits Ca2+ release
+- Small latent period between action potential and muscle fiber shortening occurs
+
+**** Ca2+ Release Steps
+
+1. Muscle action potential propagation down the T-tubule causes ryanodine receptor to open
+2. Ca2+ released from lateral sac of sarcoplasmic reticulum
+3. Ca2+ binds to troponin, removing the blocking action of tropomyosin
+4. Contraction
+5. Ca2+ reuptake into the sarcoplasmic reticulum
+6. Ca2+ removed from troponin, restoring tropomyosin blocking action
+
+** Force
+
+- Force in series: force of one sarcomere
+- Force in parallel: sum of the forces of sarcomeres in parallel
+
+- Depends on cross-sectional area of the fiber
+
+*** Factors
+**** Crossbridges in parallel
+
+- Force of each bridge is independent
+- Force proportional to number of crossbridges per half-filament
+- Forces on left and right side of thick filament don't sum
+- https://www.researchgate.net/profile/Geoff_Power/publication/233897858/figure/fig2/AS:652207921823745@1532509894408/A-schematic-depicting-the-sarcomere-length-tension-FL-relationship.png
+
+**** Sarcomeres in series
+
+- Force is same in each sarcomere (links in a chain)
+- Number of sarcomeres is total length / sarcomere length
+
+**** Fibers in parallel in muscle
+
+- Force generated by each fiber is independent
+- Total force = sum(force / fiber) * # of fibers
+
+** Speed
+
+- Velocity of fiber shortening = (velocity of shortening of 1 sarcomere) * (number of sarcomeres in series)
+- Longer muscle fibers have larger shortening range and faster shortening rates
+
+* Cardiovascular System
+** Absorption and Filtration at the Capillary Bed
+** Structure - Heart
+*** Cardiac Muscle
+
+- Located at walls of the heart
+- Brancing chains of cells; uni or binucleate
+- Striations
+
+** Excitation / Contraction
+** Regulation
+** Pressure-Volume Loop
+** Blood Pressure

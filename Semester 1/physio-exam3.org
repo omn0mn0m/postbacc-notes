@@ -1,0 +1,732 @@
+* Respiratory System
+** Function of Respiratory System
+
+- Overall Goal: to get O2 to the mitochondria and remove CO2 from the myoplasm
+
+*** List of Functions
+
+1. Provides O2
+2. Eliminates CO2
+3. Regulators blood pH in coordination w/ the kidneys
+4. Forms speech sounds (phonation)
+5. Defends against microbes
+6. Influences arterial concentrations of chemical messengers by removing some from pulmonary capillary blood and producing and adding others to this blood
+7. Traps and dissolves blood clots arising from systemic (usually leg) veins
+
+** Design of Respiratory System
+*** Airway Branching
+**** Conducting Zone
+
+- Trachea = 1 tube
+- Bronchi = 2 tubes -> 4 tubes -> 8 tubes
+- Bronchiole = 16 tubes
+- Terminal bronchiole = 32 tubes -> 6x10^4 tubes
+
+**** Respiratory Zone
+
+- Respiratory bronchiole = 5x10^5 tubes
+- Aveolar ducts
+- Alveolar sacs = 8x10^6
+
+*** Features
+
+- Cilia most concentrated at the larynx -> bronchi, then decreases until 0 cilia at the aveolar sacs
+- Goblet cells most at the larynx -> trachea, then less in the bronchi, then less in the bronchioles, then none from the terminal bronchioles -> alveolar sacs
+- Most cartilage at the larynx and decreases until none at the bronchioles on
+  - C-shaped cartilage at the trachea
+  - Rings in the primary bronchi
+  - Plates in the secondary bronchi, tertiary bronchi, and smaller bronchi
+- No smooth muscles in the larynx, then more smooth muscle increasing until the bronchioles and terminal bronchioles, then none in the alveolar sacs
+
+*** Thoracic Cavity
+**** Chest Wall
+
+- Airtight, protects lungs
+- Consists of rib cage, sternum, thoracic vertebrae, intercostal muscles, and diaphragm
+
+**** Pleura
+
+- Membrane lining of lungs and chest walls
+- Consists of pleural sac around each lung and intrapleural space filled with intrapleural fluid (15 mL)
+
+*** Steps of Respiration
+
+1. Ventilation: Exchange of air between atmosphere and alveoli by bulk flow
+2. Exchange of O2 and CO2 between alveolar air and blood in lung capillaries by diffusion
+3. Transport of O2 and CO2 through pulmonary and systemic circulation by bulk flow
+4. Exchange of O2 and CO2 between blood in tissue capillaries and cells in tissues by diffusion
+5. Cellular utilisation of O2 and production of CO2
+
+** Mechanics of Ventilation
+
+- Inspiration :: Air flows into the alveolar sacs when Palv < Patm
+- Expiration :: Air flows out of the alveolar sacs when Palv > Patm
+
+F=(P_atm - P_alv) / R
+Flow = (P_alv - P_air) * Conductance
+
+*** Pulmonary Pressures
+
+- Atmospheric Pressure :: P_atm
+     - 760 mmHg at sea level
+     - Decreases as altitude increases
+     - Increases under water
+     - Other lung pressures are given relative to P_atm (set P_atm = 0 mmHg)
+- Intra-alveolar Pressure :: P_alv = pressure of air in alveoli
+     - Given relative to P_atm
+     - Varies with phase of respiration
+     - During inspiration = negative (<P_atm)
+     - During expiration = positive (>P_atm)
+     - Difference between P_alv and P_atm drives ventilation
+- Intrapleural Pressure :: P_ip = Pressure inside pleural sac
+     - Always negative under normal conditions
+     - Always less than P_alv
+     - Varies with phase of respiration (-4 mmHg at rest)
+     - Negative due to elasticity in lungs and chest wall
+       - Lungs recoil inward as chest wall recoils outward
+       - Opposing forces pull on intrapleural space
+       - Surface tension of intrapleural fluid prevents wall and lungs from pulling apart
+- Transpulmonary Pressure :: P_alv - P_ip = Distending pressure across the lung wall
+     - Increase in transpulmonary pressure = increase distending pressure across lungs and causes lungs (alveoli) to expand, increasing volume
+
+*** Pneumothorax
+
+- When air can enter the pleural sac
+- Causes an increase in P_ip, collapsing the lung
+- Pressure becomes 0 everywhere
+
+*** Breathing Mechanics
+
+- Inspiratory muscles increase volume of thoracic cavity (diaphragm, external intercostals)
+- Expriatory muscles decrease volume of thoracic cavity (internal intercostals, abdominal muscles)
+
+**** Inspiration Steps
+
+1. Neural stimulation of inspiratory muscles
+2. Diaphragm contraction causes it to flatten and move downward
+3. Contraction of external intercostals makes ribs pivot upward and outward, expanding chest wall
+4. Collectively, thoracic cavity volume increases
+5. Outward pull on pleura decreases intrapleural pressure, which results in an increase in transpulmonary pressure
+6. Alveoli expand, decreasing alveolar pressure
+7. Air flows into alveoli by bulk flow
+
+**** Expiration Steps
+
+1. Diaphragm and inspiratory intercostals stop contracting
+2. Chest wall recoils inward
+3. P_ip back toward preinspiration value
+4. Transpulmonary pressure back toward preinspiration value
+5. Lungs recoil toward preinspiration size
+6. Air in alveoli becomes compressed
+7. P_alv becomes greater than P_atm
+8. Air flows out of lungs
+
+** Lung Volumes and Capacities
+
+- Static volume of lung measured with spirometer
+
+*** Measurements
+
+- Tidal volume (TV) :: Amount of air inhaled or exhaled in one breath during relaxed, quiet breathing
+- Inspiratory reserve volume (IRV) :: Amount of air in excess of tidal inspiration that can be inhaled with maximum effort
+- Expiratory reserve volume (ERV) :: Amount of air in excess of tidal expiration that can be exhaled with maximum effort
+- Residual volume (RV) :: Amount of air remaining in the lungs after maximum expriation; keeps alveoli inflated between breaths and mixes with fresh air on next inpiration
+
+- Vital Capacity (VC) :: Amount of air that can be exhaled with maximum effort after maximum inspiration (ERV + TV + IRV); used to assess strength of thoracic muscles as well as pulmonary function
+- Inspiratory Capacity (IC) :: Maximum amount of air that can be inhaled after a normal tidal expiration (TV + IRV)
+- Functional Residual Capacity (FRC) :: Amount of air remaining in the lungs after a normal tidal expiration (RV + ERV)
+- Total Lung Capacity (TLC) :: Maximum amount of air the lungs can contain (RV + VC)
+
+** Ventilation Rate
+
+- Ventilation rate = volume of air moved into and out of the lungs per unit time
+- Can be expressed as minute ventilation or alveolar ventilation
+
+- Minute Ventilation :: total rate of air movement into and out of the lungs (V_T x breaths/min)
+- Alveolar Ventilation :: Minute ventilation corrected for physiological dead space
+
+*** Equations
+
+Minute Ventilation: V_Edot = f x V_T
+Alveolar Ventilation: V_Adot = f x (V_T - V_D)
+Dead Space Ventilation: V_Ddot = f x V_D, V_Edot = V_Adot + V_Ddot
+
+** CO2 and O2 Exchange by Diffusion
+
+- Fick's Law of Diffusion :: Flux = A * (delta PO2 / delta X) * D
+- Dalton's Law of Partial Pressure :: Partial Pressure (p) = Fraction concentration * Total Pressure
+
+- Diffusion of CO2 and O2 depends on partial pressures
+- Alveoli -> Circulatory system -> Peripheral tissue
+
+** Transport of Gas
+
+- O2 has low solubility, so it requires hemoglobin to bind to it and carry it through the bloodstream
+
+- Henry's Law :: C_x = P_x * X solubility
+		 - P_x = partial pressure of gas (mmHg)
+		 - Solubulity = solubility of gas in blood (mL gas/100mL blood/mmHg)
+
+- O2 exists in blood as dissolved (2%) or bound (98%)
+  - Dissolved form creates a partial pressure which in turn drives O2 diffusion
+  - Presence of hemoglobin changes the equilibrium
+
+** Control of Respiration
+
+- Objective: To maintain normal levels of PO2 and PCO2 in arterial blood
+
+*** Components
+**** Sensors
+
+- Chemoreceptors - Central and peripheral
+- Pulmonary receptors
+- Other Receptors
+
+**** Central Controller
+
+- Brain stem (pons, medulla oblongata)
+- Cortex
+- Other parts of brain
+
+**** Effectors
+
+- Respiratory muscles
+  - Diaphragm
+  - Abdominal muscles
+  - Accessory muscles
+
+*** Neural
+**** Voluntary
+
+- Cerebral Cortex
+
+**** Autonomic
+***** Medullary Centers
+
+-Breathing rhythm generated by a network of neurons - Pre-Brotzinger complex
+  - Have pacemaker-like activity
+  - Rhythm produced by medulla and modified by inputs from pons
+
+****** Dorsal Respiratory Groups
+
+- Gives rise to inspiration
+- Firing leads to contraction of inspiratory muscles
+- Cease firing leads to passive expiration
+
+****** Ventral Respiratory Groups
+
+- Increased firing of dorsal neurons cause excitation of ventral respiratory groups
+- Excites internal intercostals, abdominals, etc -> forceful expiration
+- Do not activate expiratory muscles in normal, quiet breathing
+
+***** Pontine Centers
+****** Pneumotaxic Center (PC)
+
+- Stimulation terminates inspiration
+- Stimulated when dorsal respiratory neurons fire
+- Inhibits inspiration
+- Apneusis :: Brief expiration and long inspiration caused without PC
+
+****** Apneustic Center
+
+- Impulses from apneustic centre excites inspiratory area of medulla
+- Prolongs inspiration
+
+***** Effects of Lesions
+
+- Pons - produces apneustic effect - long, powerful inspirations
+- Above Medulla - irregular but rhythmic breathing
+- Below Medulla - stops breathing since no automated output to respiratory system (death by hanging)
+
+*** Chemical
+
+- Negative feedback control system
+- Controlled variables: blood gas tensions, especially CO2
+  - CO2 levels affect breathing rate more than O2
+- Chemoreceptor :: senses the value of gas tensions
+
+**** Central Chemoreceptor
+
+- Situated near surface of medulla of brainstem - rostral medulla (RA) and caudal medulla (CM)
+- Responds to [H+] of cerebrospinal fluid (CSF)
+- CSF spearated from blood by blood-brain barrier (BBB) - relatively impermeable to H+ and HCO3-, but diffuses CO2 readily
+- CSF less protein than blood, less buffered
+
+**** Peripheral Chemoreceptor
+
+- Extends down to the heart
+
+**** Hyperventilation
+
+- Low arterial PO2 causes hyperventilation
+
+*** Summary of Factors Influencing Respiration
+
+- Higher brain centers (cerebral cortex) has voluntary control over breathing (+/- rate)
+- Other receptors (pain and emotional stimuli) act through the hypothalamus (+/- rate)
+- Peripheral chemoreceptors detect drops in O2, rise in CO2, and rise in H+ (+ rate)
+- Central chemoreceptors detect rise in CO2 and rise in H+ (+ rate)
+- Receptors in muscle and joints (+ rate)
+- Repiratory centers (medulla and pons)
+- Stretch receptors in lungs (- rate)
+- Irritant receptors (+ rate)
+
+** Respiration Response
+*** Exercise
+**** Triggers
+
+- Increase in O2 consumption
+- Decrease in CO2 production
+- Increase in ventilation
+
+**** Effects
+
+- Arterial Blood: No change in Pa_O2, Pa_CO2, pH
+- Venous Blood: Increase in Pv_CO2
+- Pulmonary Blood Flow: Increase in cardiac ouput and pulmonary blood flow, Vdot/Qdot more even in lungs, Decrease in physiologic dead space
+- O2-Hemoglobin Curve: Increase in 2,3-DPG shifts to the right, Increase in P_50, Decrease in affinity for O2
+
+*** High Altitude
+**** Triggers
+
+- Decrease in P_atm
+- Decrease in alveolar P_O2
+
+**** Effects
+
+- Ventilation: Increase in VAdot
+- Arterial Blood: Decrease in PA_O2, Increase in pH
+- Pulmonary Blood Flow: Increase in pulmonary resistance, Increase in pulmonary arterial pressure, hypertrophy of right ventricle
+- O2-Hemoglobin Curve: Increase in 2,3-DPG shifts to the right, Increase in P_50, Decrease in affinity for O2
+
+* Renal System (part 2 slide 19)
+** Renal Functions
+
+- Regulation of water and inorganic ion balance
+- Removal of metabolic waste products from blood and excretes it into urine
+- Removal of foreign chemicals from blood and excretes it into urine
+- Gluconeogenesis
+- Production of hormones/enzymes
+  - Erythropoietin :: controls erythrocyte production
+  - Renin :: enzyme that ontrols formation of angiotensin and influences BP and Na+ balance
+  - 1,25-dihydroyvitamin D :: influences Ca+2 balance
+
+** Structure
+*** Kidneys
+
+- Renal pyramid: Nephron -> Collecting duct -> Papilla -> Minor calyx
+  - Renal Cortex (Nephrons)
+  - Renal medulla (Collecting duct, papilla, minor calyx)
+
+*** Urinary System
+
+- Flow: Kidney -> Ureter -> Bladder -> Urethra
+
+*** Nephron
+
+- Proximal convoluted tubule mostly reabsorbs NaCl and NaHCO3
+
+*** Tubular Epithelium
+
+- Tubular lumen is surrounded by tubular epithelial cells
+- Tight junctions between epithelial cells allow for transfer between lumen and peritubular capillary
+- Interstitial fluid outside the lumen
+
+*** Blood Supply
+
+- Renal arteries enter kidney at hilus
+- Receives 20% of cardiac output at rest
+  - Less than 1% of body weight
+  - 16% of ATP usage
+  - Filters blood
+- Renal veins exit at hilus
+
+** Basic Renal Processes
+*** Components of Renal Function
+
+1. Glomerular filtration: glomerular capillary to Bowman's space
+2. Tubular secretion: peritubular capilary to tubule
+3. Tubular reabsorption: tubule to peritubular capillary
+
+*** Renal Handling
+
+- Substance X is filtered and secreted but not reabsorbed (all goes to urine)
+- Substance Y is filtered and some of it is reabsorbed (some goes to urine, some goes to capillaries)
+- Substance Z is filtered and completely reabsorbed (all of it goes to capillaries)
+
+*** Excretion
+
+- Substance can gain entry to tubule and be excreted in urine by glomerular filtration or tubular secretion or both
+- Amount secreted = amount filtered + amount secreted - amount reabsorbed
+- Excretion rate = V x U_x
+  - Excretion rate = amount of X excreted per minute (mg/min)
+  - V = urine flow rate (mL/min)
+  - U_x = urine concentration of X (mg/mL)
+
+*** Renal Clearance
+
+- Clearance :: general concept that describes the rate at which substances are removed or cleared from plasma
+- Renal clearance :: the volume of plasma completely cleared of a substance by the kidneys per unit time (mL/min)
+- Substances with highest renal clearances may be completely removed on a single pass of blood through the kidneys
+- Substance with lowest renal clearances are not removed at all
+
+- Renal Plasma Clearance: C_s = GFR + secretion_s - reabsorption_s = (V x [U]_x) / [P]_x
+  - If C_s > GFR, then secretion_S > reabsorption_s and secretion > 0
+  - IF C_s < GFR, then reabsorption_s > secretion_s and reabsorption > 0
+  
+  - V = urine flow rate per min (mL/min)
+  - U = concentration of substance X in urine (mg/mL)
+  - P = concentration of substance X in plasma (mg/mL)
+
+**** Clearance of Some Substances
+
+- Para-aminohippuric acid (PAH) - both filtered and secreted therefore has the highest clearance
+- Glucose - filtered and completely reabsorbed, renal clearance is zero
+- Urea - filtration greater than excretion (net reabsorption)
+- Penicillin - excretion is greater than filtration (net secretion)
+- Insulin - GFR * Insulin concentration = total insuline filtered = 7.5 L/h * 4 mg/L = 30 mg/h - no reabsorption of insulin, no secretion of insulin
+
+***** Clearance Ratio
+
+- Clearance ratio of X = C_x / C_in
+
+- C_x / C_insulin = 1.0
+  - Cleance of x = clearance of insulin
+  - Substance must be glomerular marker (filtered, but neither reabsorbed nor secreted)
+- C_x / C_insulin < 1.0
+  - Clearance of x < clearance of insulin
+  - Substance is not filtered or it is filtered and reabsorbed (glucose)
+- C_x / C_insulin > 1.0 
+  - Clearance of x > clearance of insulin
+  - Substane is filtered and secreted (PAH)
+
+*** Renal Blood Flow
+
+- Kidney receives about 20-25% of cardiac output, amongst the highest of all organ systems
+
+**** Measurement
+
+- Not all blood delivered to glomeruli is filtered in the glomerular capsule
+  - Most of glomerular blood passes to the efferent arterioules
+  - 20% renal plasma flow filtered - substances are returned back to blood
+- Substances in unfiltered blood must be secreted into tubules to be cleared by active transport (PAH example)
+  - PAH can be used to measure renal plasma flow
+- Filtration and secretion clear only the molecules dissolved in plasma
+  - PAH clearance actually measures renal plasma flow
+
+*** Glomerular Filtration
+**** Glomerular Filtration Pressure
+***** Starling Force
+
+- Glomerular capillary hydrostatic pressure
+- Bowman's capsule oncotic pressure
+- Bowman's capsule hydrostatic pressure
+- Glomerular oncotic pressure
+
+**** Glomerular Filtration Rate (GFR)
+
+- Glomerular capillary to Bowman's space
+- Movement of protein-free plasma from glomerulus to Bowman's capsule
+- Must cross 3 barriers to enter Bowman's capsule: capillary endothelial layer, surrounding epithelial layer, basement membrane sandwiched between layers
+
+- If a substance is neither reabsorbed nor secreted by tubule, the amount excreted in urine/min = amount filtered out of the glomeruli/min
+- Rate at which substance is filtered by the glomeruli can be calculated: Quantity filtered = GFR x [P]_insulin where [P] = insulin concentration in plasma
+- Amount filtered = amount excreted
+- GFR = (V x [U]_insulin) / [P]_insulin
+
+- Renal plasma flow = 625 mL/min
+- GFR = 125 mL/min or 180 L/day
+  - V = urine flow rate per min (mL/min)
+  - U = concentration of substance X in urine (mg/mL)
+  - P = concentration of substance X in plasma (mg/mL)
+
+***** Forces
+
+- Favoring filtration: Glomerular capillary BP (P_GC) = 60 mmHg
+- Opposing filtration: Fluid pressure in Bowman's space (P_BS) = 15 mmHg, Osmotic force due to protein in plasma (pi_GC) = 29 mmHg
+- Net glomerular filtration pressure = (P_GC + pi_BC) - (P_BS + pi_GC) = (60 + 0) - (15 + 29) = 16 mmHg
+
+***** Systemic Capillary Forces
+
+- Filtration pressure = 2 mmHg
+- Filtration rate = 3 L/day
+
+**** Glomerular Filtration Fraction
+
+- How much of the renal plasma flow (RPF) gets filtered into the Bowman's space
+- Only 20% of plasma that passes through the glomerulus is filtered, less than 1% of fitlered fluid is excreted
+
+***** Renal plasma flow (RPF)
+
+- Measurement: use a substance that gets completely secreted but not reabsorbed (PAH)
+  - C_PAH = RPF
+  - Controlled by arteriole dilation or constriction
+
+***** Process
+
+1. Plasma volume enters afferent arteriole = 100% plasma volume
+2. 20% of volume filters at the Bowman's capsule
+3. >19% of volume is reabsorbed into peritubular capillaries
+4. 99% of plasma entering kidney returns to systemic circulation
+5. <1% of volume is excreted to external environment
+
+***** Calculation
+
+- 625 mL plasma enters kidneys per minute (Plasma flow rate)
+- 125 mL filtered into Bowman's capsule (GFR)
+- Filtration Fraction = GFR / renal plasma flow = 125 / 625 = 0.20 = 20%
+
+*** Reabsorption and Secretion
+
+- Filtered load = GFR x [P]_x
+- Excretion rate = V x [U]_x
+- Reabsorption rate = Filtered load - excretion rate
+- Secretion rate = Excretion rate - filtered load
+
+**** Locations
+
+1. Proximal tubule (cortex): 
+   - Active: NaCl, H+, Nutrients
+   - Passive: HCO3-, H2O, NH2, K+
+2. Descending limb of loop of Henle (outer medulla): 
+   - Passive: H2O
+3. Thin segment of ascending limb (inner medulla): 
+   - Passive: NaCl
+3. Thick segment of ascending limb (outer medulla): 
+   - Active: NaCl
+4. Distal tubule (cortex):
+   - Active: NaCl, K+, H+, HCO3-
+   - Passive: H2O
+5. Collecting duct (Inner medulla):
+   - Passive: Urea, H2O
+
+** Renal Handling
+*** Glucose
+
+- Glucose is transported from the lumen to the blood through proximal tubule cells
+- Tm is peak of reabsorption
+- Threshold is where excretion begins
+
+**** Glucosuria
+
+- Excretion of spilling of glucose in urine
+
+***** Causes
+
+- Uncontrolled diabetes mellitus :: lack of insulin causes plasma concentration of glucose to increase to abnormally high level
+- Pregnancy :: GFR is increased, increasing filtered load of glucose to the extent that it may exceed the reabsorption capacity
+- Congenital abnormalities of Na+-glucose contransporter :: Decreases Tm
+
+*** Na+
+
+-Daily Intake and Loss: Intake and Output should be equal
+  - Intake: Food = 10.50g
+  - Output: Sweat (0.25g) + Feces (0.25g) + Urine (10.00g) = 10.50g
+- Na+ concentration in ECF determines ECF volume, blood volume, and blood pressure
+- Na+ balance :: the act of the kidneys matching Na+ excretion and intake
+- CHanges in Na+ concentration usually caused by changes in body water content, not Na+ content
+
+**** Effects
+
+- Excretion < intake :: positive Na+ balance, extra Na+ retained in the body (ECF) -> ECF volume expands, blood volume and arterial pressure increase -> edema
+- Excretion > intake :: negative Na+ balance, excess Na+ lost -> ECF volume contraction, blood volume and arterial pressure decreases
+
+***** Decreased Na+ Intake
+
+- ECF volume and EABV (effective arterial blood volume) down
+- Sympathetic activity up -> constriction of afferent arterioles, Na+ reabsorption (proximal tubule)
+- ANP down -> Dilation of efferent arterioles, Na+ reabsorption (collecting ducts)
+- pi_c up -> Na+ reabsorption (proximal tubule)
+- Renin-angiotensin-aldosterone up -> Na+ reabsorption (proximal tubule and collecting ducts)
+- End Result: Na+ excretion down
+
+***** Increased Na+ Intake
+
+- ECF volume and EABV up
+- Sympathetic activity down -> dilation of afferent arterioles, less Na+ reabsorption (proximal tubule)
+- ANP up -> Constriction of efferent arterioles, less Na+ reabsorption (collecting ducts)
+- pi_c down -> less Na+ reabsorption (proximal tubule)
+- Renin-angiotensin-aldosterone down -> less Na+ reabsorption (proximal tubule and collecting ducts)
+- End Result: Na+ excretion up
+
+**** Distribution of Water
+
+- Total body water (60% body weight) -> ICF (40% body weight or 24 L) and ECF (20% body weight or 12 L)
+- ECF: Interstitial fluid (9 L) or Vascular fluid (3 L)
+- Body weight of 60 kg (water density = 1 g/mL)
+
+**** Handling in the nephron
+
+- 67% reabsorbed in the proximal convoluted tubules - multiple ion transfers
+- 25% reabsorbed in the thick ascending limb - Na+ is sent through a channel with 2 Cl- and K+ int cell, then a Na-K pump
+- 5% reabsorbed in the distal convoluted tubule - Na+ sent through a channel with Cl-, then a Na-K pump
+- 3% reabsorbed in the late distale convoluted tubule/collecting ducts - Na+ sent through ENaC while K+ is released
+  - In the collection duct, Na+ and K+ are diffused in and out of the cell, then ATP pump sends it out into the ICF
+- <1% excreted
+- Regulated by aldosterone - induces reabsorption by inducing the expression of Sgk1 which increasing ENaC density at the membrane
+
+**** Renin-Angiotensin System
+
+- Liver secretes angiotensinogen which activates angiotensin I
+- Kidneys secrete renin which activates angiotensin I
+- Converting enzyme turns angiotensin I into angiotension II
+- Angiotensin II causes adrenal cortex to secrete aldosterone
+
+***** Aldosterone Production
+
+- Produced by adrenal glands, activation of a hormone cascade
+- Stimulated by low BP and low blood volume
+- Targets distal tubules and collecting duct to reabsorb Na+ and water
+- When aldosterone is absent, 3% of filtered Na+ is excreted
+- When aldosterone is high, almost all Na+ is reabsorbed
+- Causes decreased urine volume and increases urine concentration
+
+****** Pathway
+
+Liver -> Angiotensinogen -> angiotensin I -> angiotensin II -> adrenal gland -> aldosterone -> increased Na+, H2O reabsorption in distal tubules -> BP and volume homeostasis
+Stimulus: Low blood volume or pressure -> kidney -> renin -> angiotensin I -> angiotensin II -> eventual homeostasis
+
+******* Alternate Pathways
+
+Common start: Plasma volume goes down
+
+Path 1: Renal sympathetic nerve activity goes up -> Renin secretion goes up
+Path 2: Arterial pressure goes down -> Renin secretion goes up
+Path 3: GFR goes down, decreasing flow -> Renin secretion goes up
+
+Common path: Renin secretion goes up -> Plasma renin up -> Plasma angiotensin II up -> adrenal cortex increases aldosterone secretion -> plasma aldosterone up -> cortical collecting ducts increases Na+ and H2O reabsorption -> Na+ and H2O excretion down
+
+***** Hormones
+
+- Renin: released by JG cells, stimulated by sympathetic neurons, BP ad flow
+- Aldosterone: released from adrenal cortex, stimulated by AngII and [K]
+
+**** Atrial Natriuretic Peptide (ANP)
+
+- Secreted when abnormal increase in blood volume stretches out the atria
+- ANP promotes vasodilation, increasing GFR, inhibits Na+ reabsorption
+  - Causes increased urine volume as it decreases blood volume
+
+*** Ca+2
+*** H2O
+
+- 99% absorbed
+- Intake (food, drink, metabolism) = Output (skin, lungs, urine, faces)
+- AQPs throughout the kidney
+
+- Osmoregulation :: maintaining body fluid osmolarity around 290-300 mOsm/L
+- Small deviations in osmolarity produces hormone changes
+- Control is exterted at the later distal tubule and collecting duct
+
+**** Balance Terms
+
+- Normovolemia :: normal blood volume
+- Hypervolemia :: high blood volume due to positive water balance
+- Hypovolemia :: low blood volume due to negative water balance
+
+**** Osmolarity Terms
+
+- Isosmotic :: 300 mOsm/L
+- Hyperosmotic :: > 300 mOsm/L
+- Hyposmotic :: < 300 mOsm/L
+
+**** Osmolarity Changes
+
+1. Isosmotic fluid leaving proximal tubule becomes progressively more concentrated in descending limb
+2. Solute removal in thick ascending limb creates hyposmotic fluid
+3. Water and solute permeability regulated by hormones in cortex medulla
+4. Urine osmolarity depends on reabsorption in collecting duct
+
+- General trends: Lower osmolarity at proximal tubule, higher at the loop of Henle
+- Countercurrent multiplication: NaCl leaving the ascending tubule causes osmolarity to be higher in the descending tubule
+
+**** Urea
+
+- Generated by liver
+- Eliminates nitrogen
+- Extremely water soluble
+- Requires urea transporters
+- Transport from filtrate to peritubular fluid accounts for 40% of osmolarity gradient
+
+**** Vasa Recta
+
+- Prevents diffusion of water and solutes from dissipating the medullary osmotic gradient
+- Descending limb: 300 mOsm, water leaves and solutes enter
+- Ascending limb: 325 mOsm, water enters plasma, solutes move into interstitial fluid, no urea transporters
+
+* GI
+** Function of Intestine
+
+- Digestion and reabsorption of substances
+- Maintain fluidity
+- Lubrication
+
+*** Villi
+
+- FIlled with capillaries so it can absorb substances
+
+** Digestion of Lipids
+
+- Trigylcerides: needs lingual, gastric, and pancreatic lipases
+- Cholesterol ester: needs cholesterol ester hydrolase
+- Phospholipid: Needs phospholipase A_2
+
+- Bile salts coat lipids to make emulsions (droplets)
+- Micelles form from bile salts, phospholipids, fatty acids, cholesterol, and glycerides
+- Micelle diffused into epithelial cell and then broken down
+
+** Function of Stomach
+
+- Mixes and pushes materials
+- Secretes HCl, pepsinogen, mucus, gastrin, histamine
+
+*** Acid production and regulation
+
+- Pepsinogen secreted from parietal cells
+- Combined with Hcl produces pepsin, which acts as a regulator and breaks down proteins
+- Movement of carbonic acid causes subsequent movement of gastric lumen which results from active transport
+
+- Ach, Gastrin, and Histamine cause release of acid
+
+** Function of Pancreas
+
+- Excretes insulin and glucagons
+- Secretes pancreatic juices for digesting food in the small intestine
+
+** Hormone regulation
+*** Secretin
+
+- Stimulated release by acid chyme in stomach
+- Stimulates pancrease to make sodium bicarbonate, neutralising acidic chyme
+- Stimulates liver to produce bile
+
+*** GIP
+
+- Released when endocrine cells are stimulated by food in the duodenum
+- Opposite of gastrin -> slows digestion
+
+*** Gastrin
+
+- Released when stretch receptors triggered
+- Taken in by CCK_B receptor
+- Causes release of H+ which then turns into HCl in the stomach
+
+*** CCK
+
+- Stimulated by presence of food in duodenum
+- Stimulates gallbladder to release bile
+- Stimulates pancrease to produce pancreatic enyzmes
+
+* Immune System
+
+- Acquired immunity: Making cells
+
+** Removal of antigens
+
+- Macrophages and phagocytes take in and destroy antigens
+
+- How B and T cells undergo activation
+- How everything activates each other
+- CD4, CDH, class 1, class 2
+- Primary, secondary response
+

@@ -1,0 +1,668 @@
+* Intro to Physiology
+
+- Physiology: the study of the functions of organisms
+- Organ system: collection of anatomical structures that work together to carry out a specific function
+
+** Body Organisation
+*** Cell
+
+- Smallest independent unit that makes up a living organism that are specialised in different functions
+
+**** Major Types of Cells
+
+- Neurons - Specialised to transmit information in the form of electrical signals
+- Muscle Cells - Specialised to contract, generating mechanical force and movement
+- Epithelial Cells - Continuous, sheetlike layer of cells in combination with a thin underlying layer of noncellular material (basement membrane)
+- Connective Tissue Cells - Any structure whose primary function is to provide physical support for other structures
+
+*** Tissue
+
+- Collection of similarly functional cells
+
+**** Major Groups of Tissue
+
+- Nervous tissue
+- Muscle tissue
+- Epithelial tissue
+- Connective tissue
+
+*** Organ
+
+- When two or more tissues combine to make a structure that performs a particular function
+
+*** Organ System
+
+- Collection of organs that work together to perform certain functions
+
+** The Body Plan
+*** External Environment
+
+- Layer of epithelial tissue separates the external environment from the body interior
+- Layer consists of skin, lung lining, GI lining, and kidney tubules
+
+*** Internal Environment
+
+- Most of body is not able to directly interface with external environment
+- Blood is contained within epithelium-lined blood vessels
+
+*** Body Fluid Compartments
+
+- Most abundant substance in body is water
+- Total Body Water (TBW) - total volume of fluid enclosed within outer epithelial layer
+  - Intracellular Fluid (ICF) - Fluid inside the cells
+  - Extracellular Fluid (ECF) - Fluid outside the cells
+    - Plasma - liquid in the blood
+    - Interstitial fluid - liquid outside the blood that bathes most of the cells in the body
+
+** Homeostasis
+
+- Maintenance of relatively constant conditions in the internal environment of the body
+- Example of Homeostasis: glucose maintenance
+
+*** Negative Feedback Control
+
+- Regulated variable - value that must stay within certain limits
+- Setpoint - normal desired value for the feedback loop
+- If the regulated variable increases, then the feedback works to decrease it and vice versa
+
+*** Positive Feedback Control
+
+- The system responds in the same direction as the change
+
+* Homeostasis
+
+- Body's internal composition is constantly challenged by external factors and internal metabolic activities
+- Homeostasis :: the maintenance of extracellular fluids (ECF) to be relatively constant
+		 - Depends on mass balance
+- Homeostasis and an essential feature of complex organisms and a central theme in physiology
+- All organs act on the ECF to maintain homeostasis
+
+- Equilibrium :: equal amount of substance between intracellular plasma  and interstitual fluid
+		 - Gases, water, lipid-soluble substance (steroids, fatty acids) can transport through capillaries
+- Steady State :: constant amount of substance in ECF and ICF compartments (input == output)
+		 - Requires energy to maintain
+
+** Factors Under Homeostatic Control
+
+- Nutrients
+- Gases
+- Waste products
+- pH
+- Salt and other electrolytes
+- Temperature
+- Volume and pressure
+
+** Control Center
+
+- Relex :: Response made at a distance from target cell
+- Local Response :: Response made at target cell
+		    - Occurs only in the area of the stimulus, neither nerves nor hormones involved
+
+** Efferent Division
+** Reflex Arc
+
+- Involves both nervous and endocrine system
+
+*** Stretch Reflex Arc
+
+- 1a sensory afferent neuron :: senses stretch and sends info to spinal cord
+- alpha motor neuron :: sends information towards muscle
+- Skeletal muscle fiber :: neuromuscular junction
+
+- Stretch induces depolarisation, as does opening of mechanosensitive channels
+- They combine to make a stronger signal
+
+*** General Components in Order of Pathway
+
+1. Integrating Center
+2. Efferent Pathway
+3. Effector
+4. Response
+5. Feedback
+6. Stimulus
+7. Receptor
+8. Afferent Pathway
+9. Loops back to integrating center
+
+** +/- Feedback
+
+- The goal of feedback loops are to maintain a setpoint
+- Hierarchy of importance since not everything can be maintained at setpoint
+
+- Negative Feedback :: Response counteracts the stimulus, shutting off the response loop
+- Positive Feedback :: Response reinforces the stimulus, sending the parameter farther from the setpoint
+
+** Glucose Regulation
+
+- Negative feedback
+- Setpoint: About 80 mg/100 mL
+- Only liver stores and releases glucose into the blood
+
+*** Glucose High
+
+1. Stimulus: Rising glucose level (such as from eating carb-rich meal)
+2. Integrating Center: Beta cells in pancreas release insulin into blood
+3. Effector: Liver takes up glucose to store as glycogen, body cells take up more glucose
+4. Response: Blood glucose declines back to setpoint, decreasing insulin release
+
+*** Glucose Low
+
+1. Stimulus: Dropping glucose level (such as from skipping a meal)
+2. Integrating Center: Alpha cells in pancreas release glucagon into blood
+3. Effector: Liver breaks down glycogen and releases glucose into blood
+4. Response: Blood glucose rises up to setpoint, decreasing glucagon release
+
+* Transport
+** Simple Diffusion
+
+- Does not require specific protein
+- Solute transported with gradient (high concentration to low concentration)
+- No ATP needed
+
+- Occurs as a result of random thermal motion of molecules (random walk)
+- Over time, molecules will spread to near evenly fill a compartment
+
+- Flux :: the amount of material crossing a surface in a unit of time
+	  - Net flux account for both directions combined
+	  Net flux depends on:
+	  - temperature
+	  - molecular mass
+	  - surface area
+	  - medium (water vs air)
+
+*** Distance versus Time
+
+\begin{equation}
+x=\sqrt{2Dt}
+\end{equation}
+
+where x is distance diffused (cm), D is diffusion constant, t is time (s)
+
+\begin{equation}
+D=\frac{KT}{6 \pi r \eta}
+\end{equation}
+
+where K is Boltzmann's constant, T is absolute temperature (K), r is molecular radius, n is medium viscosity
+
+- Note that water is denser than air, so it is easier to diffuse in air (based on D constant)
+
+*** Rate of Diffusion
+
+- Fick's Law of Diffusion
+
+\begin{equation}
+J=PA(C_A-C_B)
+\end{equation}
+
+where J is net flux (mmol/s), P is permeability (cm/s), A is surface area (cm^3), C_A is solution A concentration (mmol/L), C_B is solution C concentration (mmol/L)
+
+*** Permeability
+
+\begin{equation}
+P=\frac{KD}{\Delta x}
+\end{equation}
+
+where P is permeability, K is partition coefficient, D is diffusion coefficient, delta x is membrane thickness
+
+- A higher partition coefficient means a substance will more readily dissolve in a lipid bilayer
+
+**** Diffusion Potential
+
+- Potential difference generated across a membrane when a charged solute (ion) diffuses down its concentration gradient
+- Created by the movement of only a few ions, and does not cause concentraiton change in bulk solution
+
+*** Osmosis
+
+- Movement of water through a membrane
+- Not diffusion because it is driven by osmotic pressure difference, not concentration difference
+
+**** Characteristics
+
+- Always passive
+- Unaffected by membrane potential
+- Driven by osmotic pressure
+- Response to solute concentratio gradient
+  - Movement through aquaporins, protein channels
+
+**** Osmolarity
+
+- Concentration of osmotically active particles in solution
+
+\begin{equation}
+Osm=gC
+\end{equation}
+
+where Osm is osmolarity, g is number of particles/mol in solution, C is concentration (mmol/L)
+
+- Isosmotic :: Two solutions with same calculated osmolarity
+- Hyperosmotic :: Solution with higher osmolarity
+- Hyposmotic :: Solution with lower osmolarity
+
+**** Osmotic Pressure
+
+- Van't Hoff Equation
+
+\begin{equation}
+\pi=gCRT
+\end{equation}
+
+where pi is osmotic pressure (atm), g is number of particles/mol in solution, C is concentration (mmol/L), R is gas constant, T is absolute temp (K)
+
+- Water moves from low osmotic pressure to high osmotic pressure
+
+- Van't Hoff Equation can be modified to include the extent to which a particular solute crosses a particular membrane (effective osmotic pressure)
+
+\begin{equation}
+\pi=gC \sigma RT
+\end{equation}
+
+where sigma is reflection coefficient (from 0 to 1)
+
+**** Tonicity
+
+- Function of the concentration of nonpermeating solutes outside a cell relative to concentration inside a cell
+
+- Isotonic :: 300 mOsm
+- Hypotonic :: Lesser than 300 mOsm, cell swells
+- Hypertonic :: Greater than 300 mOsm, cell shrinks
+
+** Facilitated Transport
+
+- Requires specific protein
+- Solute transported with gradient
+- Does not require ATP
+
+** Active Transport (Primary)
+
+- Requires specific protein
+- Solute transported against gradient (low concentration to high concentration)
+- Requires ATP
+
+** Cotransport (Secondary)
+
+- Requires specific protein
+- Solute transported against gradient
+- Does not require ATP
+- Driven by movement of cotransported ion down its gradient
+
+** Countertransport (Secondary)
+
+- Ion and second solute move in opposite directions
+
+** Carrier-Mediated Transport
+*** Features
+
+- Saturation :: Carrier proteins have a limited number of binding sites for the solute
+- Sterospecificity :: Binding site for solute on the transport proteins are stereospecific
+- Competition :: Transporter can bind chemically-related solutes
+
+*** Kinetics
+
+\begin{equation}
+v_0=\frac{v_{max}[S]}{K_m+[S]}
+\end{equation}
+
+where v_0 is velocity, v_max is maximum velocity, K_m is constant
+
+*** Transporters
+
+- Carrier proteins open and allow solute to pass the bilayer when the solute is bound to the protein (example: glucose)
+
+** Ions
+*** Electrolytes
+
+- Chemical and electrical gradients influence ion movement
+- Chemical driving force goes from high to low gradient
+- Electrical driving force goes to the side of the membrane of opposite charge
+
+*** Determining Driving Force Direction
+
+- If V_m < E_x, electrochemical driving force is going out of cell
+- If V_m > E_x, electrochemical driving force is going into cell
+
+*** Equilibrium Potential
+
+- Membrane voltage for a particular ion at equilibirum (when the electrochemical gradient is 0 and there is not net flow)
+- Excess anions on the intracellular side, excess cations on the extracellular side
+
+**** Nernst Equation
+
+\begin{equation}
+V=\frac{RT}{zF}ln\frac{C_o}{C_i}
+\end{equation}
+
+where V is equilibrium potential (V as internal - external), C are outer and inner ion concentration, R is gas constant, T is absolute temperature (K), F is Faraday's constant, z is ion valence (charge)
+
+Alternatively, ln can be replaced with 2.303log_10:
+
+\begin{equation}
+V=2.303\frac{RT}{zF}log\frac{C_o}{C_i}
+\end{equation}
+
+In most cases, z = 1, and $2.303\frac{RT}{F}$ is 61:
+
+\begin{equation}
+V=\frac{61}{1}log\frac{C_o}{C_i}
+\end{equation}
+
+*** Diffusion
+
+- Ion diffusion through the membrane is done through protein channels
+
+**** Leaky Ion Channels
+
+- Randomly opens and allows ions to move along the concentration gradient (high to low)
+
+**** Gated Ion Channels
+
+- Voltage-Gated :: Opens due to voltage change
+- Ligand-Gated :: Opens when a substance is bound to binding sites on the channel
+- Mechanically-Gated :: Opens when a conformation change in the membrane, etc occurs, forcing it open
+
+** Pumps
+*** Sodium Potassium Pump
+
+- Sodium-Potassium pump moves 3 Na+ out of the cell and 2 K+ into the cell every time it hydrolyses ATP
+- Electrogenic :: Drives a net current across the membrane, creating an electrical potential that is often no more than 10% to the membrane potential
+- Direct role in controlling solute concentration, regulating cytosol osmolarity
+
+** Membrane-Bound Compartment Transport
+
+- Transport of macromolecules
+
+*** Endocytosis
+
+- Phagocytosis :: Cell membrane engulfs particle, breaks off into phagosome, matures into lysosome, and breaks down particle
+- Pinocytosis :: Cell membrane engulfs dissolved molecules, breaks off into endosome, and transports molecules to final destination
+- Receptor-Mediated :: Receptor protein is bound by molecule, causing coated pit to change conformation and form vesicle
+
+*** Exocytosis
+
+- Secretory vesicle fuses to plasma membrane, releasing contents
+
+* Chemical Messengers
+
+Mechanisms of Cell Signaling:
+- Direct contact between cells -through gap junctions
+- Indirect communication through chemical messengers - messenger is released from secretory cell and received by receptor in target cell
+  - Local:
+    - Paracrine signaling - short distance, transports through diffusion
+      - Autocrine signaling - cell signals to itself
+    - Synaptic signaling - short distance, transports through diffusion
+  - Long Distnace:
+    - Endocrine signaling - long distance, transports through blood
+
+** Target Response Strength
+
+Depends on
+- Messenger cocnentration
+- Number of receptors per target cell
+- Receptor affinity for the messenger
+
+*** Up-regulation
+
+- Receptor number increases on target cell
+- May result from too little messengers
+- Sensitivity to messenger increases
+
+*** Down-regulation
+
+- Receptor number decreases on target cell
+- May result from excess messengers
+- Tolerance to messenger develops
+
+** Transport
+*** Bloodborne
+
+- Source and target located at a distance
+- Lipophobic ligands dissolve in plasma
+- Lipophilic ligands bind to carrier protein
+
+*** Diffusion through interstitial fluid
+
+- Source and target are close
+- Ligand is quickly degraded
+
+*** Receptors
+
+- Nonpolar signals bind to receptor inside cell
+- Polar signals bind to transmembrane receptors
+
+** Endocrine System
+
+- Crucial for cells from one region to communicate to distant cells to maintain homeostasis
+- Body uses endocrine system and nervous system for long distance communication
+
+- Endocrine target secretes a hormone that enters the blood
+- Blood spans the distance to the target
+
+** Hormones
+*** Hormone Interactions
+
+- Antagonism :: Effect when hormones oppose each other
+- Additive :: Net effect equals sum of individual effects
+- Synergistic :: Effect of two homrones favour each other but net effect exceeds sum of individual effect
+- Permissiveness :: One hormone is needed to exert another's effect
+
+** Stimuli for Release
+*** Direct Inputs
+
+- Ions or nutrients
+- Neurotransmitters
+- Hormones
+
+** Organs that Release Hormones
+*** Primary Organs
+
+- Hypothalamus
+  - Multiple hypophysiotropic hormones that trigger other hormone responses
+- Pineal Gland
+  - Melatonin -> Many organs -> Biological clock
+- Thyroid Gland
+  - Thyroxine -> Liver -> Metabolic rate
+- Parathyroid Gland
+- Anterior Pituitary
+- Posterior Pituitary
+  - FSH, LH -> ovaries -> Menstrual cycle
+  - ADH -> Kidneys -> Water homeostasis
+  - Growth Hormone -> Many organs -> Stimulates cell division
+  - Oxytocin -> Uterus -> Birth contractions
+  - Prolactin -> Mammary Glands -> Milk production
+- Thymus Gand
+- Adrenal Gland
+  - Adrenaline -> Many -> Fight or flight
+  - Cortisol -> Many -> Anti-stress
+- Pancreas
+- Gonads (ovaries, testes)
+  - Oestrogen, Progesterone -> Uterus -> Menstrual cycle
+  - Testosterone -> Many -> Male characteristics
+
+*** Secondary Organs
+
+- Adipose Tissue - Leptin
+- Heart - Atrial Natriuretic Peptide
+- Kidney - Erythropoeitin
+- Stomach - Gastrin
+- Intestine - Secretin, Cholecystokinin
+- Skin - Vitamin D
+
+** What Kind of Stimuli (Glucose? Ca? Hormones? Neurons?)
+*** Lipophobic Ligands (hydrophilic)
+
+- Synthesis is independent of demand
+- Stored in vesicles of source until needed
+- Released by exocytosis
+
+*** Lipophilic Ligands (hydrophobic)
+
+- Synthesised on demand
+- Immediate release from source
+- Release rate depends on synthesis
+
+*** Amino Acids (hydrophilic)
+
+- Targets cell receptors on cell membrane
+- All functino as neurotransmitters
+- Synthesised within neuron and stored in vesicle until needed
+- Released by exocytosis
+
+*** Amines (mostly hydrophilic, except thyroid hormones)
+
+- Targets receptors on cell membrane
+- Made or derived from an amino acid and contains an amine group, with the product being determined by enzymes present in the cell
+- Produced in the cytosol of the source and stored in vesicle until needed
+- Released by exocytosis
+
+* Nervous System
+
+- Transmit signals within neurons via long axons
+  - Signal in axon = action potential
+  - Axon action potential spans the distance to target
+- Between cells via the synapse
+
+- Overshoot :: Development of charge reversal
+- Depolarisation :: Ion movement reduces charge imbalance
+- Repolarisation :: Movement back towards resting potential
+- Hyperpolarisation :: Development of even more negative charge within cell
+
+** Ion Movements
+
+- Inward current (depolarisation) caused when positive ions go inside cell and negative ions go outside cell
+- Outward current (hyperpolarisation) caused when positive ions go outside cell and negative ions go inside cell
+
+- Cl goes the opposite behaviour of Na and K because it is negative
+
+*** Comparing Membrane Potential and Nernst Potential of Ion
+
+- If (Vm - Eion) = 0, driving force is 0 and there is no net flow/current
+- If (Vm - Eion) > 0, driving force is positive and there is outward current (hyperpolarisation)
+- If (Vm - Eion) < 0, driving force is negative and there is inward current (depolarisation)
+
+** Nervous System Components
+*** Central Nervous System (CNS)
+
+- Brain
+- Spinal cord
+
+*** Peripheral Nervous System (PNS)
+
+- Afferent information (input)
+- Efferent information (output)
+
+** Cell Structure
+*** Neuron
+
+- Excitable cells
+- Made of
+  - Dendrites
+  - Cell body
+  - Initial segment
+  - Axon collateral
+  - Axon
+  - Axon terminal
+
+**** Classes
+
+- Bipolar
+- Pseudo-unipolar
+- Multipolar
+
+*** Glial Cells
+
+- Support cells
+- 90% of all cells in nervous system
+
+**** Types
+
+- Astrocyte
+- Microglia
+- Oligodendrocyte
+- Schwann cell
+
+*** Myelin Sheath
+
+- Schwann cell forms around axon
+- Insulates it
+- Voltage does not decay as much in myelinated axon
+- Ion channels at areas without myelin
+- Increasing conduction velocity by increasing axon diameter and axon myelination
+
+** Types of Proteins that Localise in Different Parts of Neurons
+** Produce
+*** Resting Potential
+
+- Potential when neuron is not active
+- Caused by passive transfer of ions
+- Negative
+
+*** Action Potential
+
+- Occurs when cell is depolarised
+- Na-K pump is active
+- Must reach threshold
+
+*** IPSP
+*** EPSP
+** Synapse
+
+- Site of communication between two neurons or between neuron and effector organ
+- Neurons communicate using neurotransmitters
+
+** Ion Channels
+
+- Neuron has both gated and ungated ion channels
+
+*** Leak Channels
+
+- Always pen
+- Throughout neuron
+- Resting membrane potential
+
+*** Ligand-gated Channels
+
+- Open or close in response to ligand binding
+- Dendrites and cell body
+- Synaptic potentials
+
+*** Voltage-gated Channels
+
+- Opens or closes in response to change in membrane potential
+
+**** Sodium and Potassium CHannels
+
+- Throughout, but more in the axon (especially in the axon hillock)
+- Action potentials
+- Typically more Na+ extracellular and more K intracellular
+- Na channels open fast and close fast
+- K channels open slowly and close slowly
+
+**** Calcium Channels
+
+- Axon terminal
+- Release of neurotransmitter
+
+** Threshold Potential
+
+- Potential target for when AP triggers
+- Multiple action potentials above threshold will make a stronger signal
+
+*** Refractory Period
+
+- Absolute Refractory Period :: No new action potentials can be triggered
+- Relative Refractory Period :: New action potential can be triggered if stimulus is way above threshold
+
+** Calculating Membrane Potential
+
+- Use Nernst equation
+- Membrane potential is equal to Nernst membrane potential of an ion if membrane is only permeable to that one ion
+- Resting potential is negative because of having many open K+ channels but few open Na+ channels
+
+** Calculating Equilibrium Potential
+
+Use Goldman-Hodgkin-Katz equation
+
+\begin{equation}
+E_{rev}=\frac{RT}{F}ln\frac{P_k[K]_o + P_{Na}[Na]_o + P_{Cl}[Cl]_i}{P_k[K]_i + P_{Na}[Na]_i + P_{Cl}[Cl]_o}
+\end{equation}
+
+** Autonomic Nervous System

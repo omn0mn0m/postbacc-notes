@@ -1,0 +1,142 @@
+* Signal Transduction
+- Cell to cell communication signals
+
+- Extracellular signal molecules :: molecules that travel between two cells to signal to another
+
+- Most cells both emit and receive signals
+
+- Receptor protein :: protein that will bind to a specific signal molecule, activating an intracellular signaling pathway/system
+     - For transmembrane proteins, a ligand (extracellular signal molecule) binds to receptor to trigger an intracellular response
+- Effector protein :: protein at the end of the signaling pathway that will cause a change in the cell
+
+- Apoptosis :: programmed cell death
+- Terminal differentiation :: differentiation into a nondividing state
+
+** Short Distance
+*** Contact-Dependent Signaling
+- Most extracellular signal molecules stay bound to the surface of the signaling cell and influence cells it comes in contact with
+
+*** Paracrine
+- Secreted molecules can be local mediators taht act on cells in the local environment
+- Signaling and target cells are often different types in this case
+- Cells signalling themselves is called autocrine signaling
+
+** Long Distance
+*** Synaptic Signaling
+- Signal travels down a chain of neurons
+- Goes from one pre-synapse to post-synapse via neurotransmitter
+- Neuron sends an electrical impulse down it to trigger neurotransmitter release
+
+*** Endocrine
+- Hormone :: Secreted signal molecule that travels down the bloodstream
+- The blood carries the hormones to target cells practically anywhere in the body
+
+** Major Classes of Cell-Surface Receptor Proteins
+*** Ion-Channel-Coupled Receptors
+- Also known as transmitter-gated ion channels or ionotropic receptors
+- Involved in rapid synaptic signaling between nerve cells and other excitable target cells
+- Mediated by small number of neurotransmitters that transiently open/close an ion channel
+
+*** G-Protein-Coupled Receptors
+- Indirectly regulates activity of a separate plasma-membrane-bound target protein (enzyme or ion channel)
+- Trimeric GTP-binding protein (G-protein) mediates interaction between activated receptor and target protein
+- Activation of target protein can change the concentration of one or more small intracellular signaling molecules or change ion permeability of the plasma membrane
+
+*** Enzyme-Coupled Receptors
+- Either function as enzymes or associate directly with enzymes that they activate
+- Usually single-pass transmembrane proteins that have ligand-binding sites outside the cell and their catalytic or enzyme-binding site inside
+- Heterogenous in structure compared with other receptors
+
+** Intracellular Signal Relaying
+- Second messenger :: intracellular signaling molecules that are generated in response to receptor activation
+- Passes the signal on by binding/altering behaviour of selected signaling or effector proteins
+- Largest class of molecular switches are proteins that are activated/inactivated through phosphorylation
+  - Switch thrown one direction by protein kinase which adds phosphate groups to amino acids on the signaling protein
+  - Switch thrown other direction by protein phosphatase which removes phosphate groups
+- Many signaling proteins are protein kinases, causing a kinase cascade of phosphorylation
+
+*** Protein Kinases
+- Serine/threonine kinases :: phosphorylates hydroxyl groups of serines and threonines in their targets
+- Tyrosine kinases :: phosphorylates proteins on tyrosines
+
+*** GTP-binding proteins
+- Switch between on (actively signaling) state where GTP is bound and off where GDP is bound
+
+**** Types of GTP-binding proteins
+- Trimeric GTP-binding proteins :: relay signals from G-protein coupled receptors that activate them
+- Monomeric GTPases :: help relay signals from many classes of cell-surface receptors
+
+**** Regulatory proteins
+- GTPase-activating proteins (GAPs) :: drive proteins into an off state by increasing hydrolysis rate of bound GTP
+- Guanine nucleotide exchange factors (GEFs) :: activates GTP-binding proteins by promoting release of bound GDP
+
+*** Intracellular Signaling Complexes
+- Specificity for signaling molecules can be achieved by isolating molecules within the same parts of a cell/complex
+- Scaffold protein :: brings together groups of interacting signaling proteins into signaling complexes often before a signal has been received
+- Allows for high local concentration and rapid sequential activations
+
+**** Modular Interaction Domains
+- Mediates interactions between intracellular signaling proteins
+- Allows induced proximity to activate signaling proteins
+- Assemblies of signaling complexes rely on small interaction domains that bind to particular structure motifs on proteins and lipids
+- Some signaling proteins are solely 2 or more interaction domains to function as adapters to link two other proteins together
+
+***** Src Homology 2 (SH2) and Phosphotyrosine-Binding (PTB) Domains
+- Bind to phosphorylated tyrosines in a particular peptide sequence on activated receptors or intracellular signaling proteins
+
+***** Src Homology 3 (SH3) Domains
+- Bind to short, proline-rich amino acid sequences
+
+***** Pleckstrin Homology (PH) Domains
+- Binds to charged head groups of specific phosphoinositides produced in the plasma membrane in response to intracellular signal
+
+*** Signaling Pathway Variations
+**** Response Timing
+- Varies drastically in different signaling systems according to the speed required for a response
+
+***** Examples
+- Synaptic signaling can have a response fire in milliseconds
+- Morphogens affecting cell fate during development can take hours or days
+
+**** Sensitivity
+- Different pathways will have different sensitivities to different extracellular signals
+- Controlled by number of receptors/ affinity to the signal molecules
+
+***** Examples
+- Hormones tend to act at low concentrations on their distant target cells
+- Neurotransmitters operate at might higher concentrations at the synapse
+
+**** Dynamic Range
+- Related to sensitivity
+- Range of signal concentrations that a pathway will react to
+- Achieved by adaptation mechanisms that adjust the responsiveness the system according to prevailing amount of signal
+
+***** Examples
+- Developmental decisions are responsive over a narrow range
+- Metabolic response to hormones are responsive over a broad range
+
+**** Response Persistence
+- Some responses will last briefly, while others will be prolonged
+
+***** Examples
+- Less than a second appropriate for synaptic responses
+- Prolonged/permanent responses required in cell fate decisions
+
+**** Signal Processing
+- Converts simple signal into a complex response
+
+***** Examples
+- Gradual increase in extracellular signal converted into abrupt, switchlike response
+- Simple input signal converted into oscillatory response, produced by repeating signal of transient intracellular signals
+
+**** Integration
+- Allows a response to be governed by multiple inputs
+- Specific combinations of signals may be necessary to stimulate complex cell behaviours
+- Often relies on coincidence detectors, which only activate when receiving multiple converging signals
+
+**** Coordination
+- Can be achieved by a signal extracellular signal
+- Depends on mechanisms for distributing the signal to multiple effectors
+
+***** Examples
+- Some can stimulate a cell to be grow and divide

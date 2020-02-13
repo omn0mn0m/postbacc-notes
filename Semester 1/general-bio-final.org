@@ -1,0 +1,1193 @@
+STOPPING POINT: Lecture 3 Slide 47
+
+* Basics
+** Cell Theory
+- All organisms are made of cells
+- All living cells are produced by other living cells
+- The cell is the most basic unit of life
+
+* Cell
+** General Characteristics
+- Enclosed by a plasma membrane - phospholipid bilayer with proteins that separate cell from surrounding environment acting as a selective barrier for import and export
+- Filled with cytoplasm - rest of the cell material
+- Have DNA - genetic material contained in 1+ chromosomes
+- Have ribosomes - organelles on which protein synthesis takes place
+
+** Eukaryotic Cells
+- Have a nucleus
+- Have membrane-bound organelles
+
+*** General Schematic
+- Nucleus
+- Plasma membrane
+- Plants have a cell wall
+- Ribosomes
+- Membrane bound organelles
+
+*** Nucleus
+- DNA containing command center of the cell
+- Continuous with endoplasmic reticulum (ER)
+- Chromatin :: DNA/Protein complex organised into distinct units called chromosomes
+- Nuclear envelope :: highly regulated membrane barrier that separates nucleus from cytoplasm in eukaryotic cells
+- Nuclear pore :: channel through which molecules like RNA and protein can travel to and from nucleus and cytosol
+- Nuclear lamina :: provides structural support to the nuclear envelope and provide a place for chromatin to attach during interphase
+
+*** Endomembrane System
+1. Nuclear envelope is connected to rough ER which is continuous with smooth ER
+2. Membranes and proteins produced by the ER flow in the form of transport vesicles to the Golgi
+3. Golgi pinches of transport vesicles and other vesicles that give rise to lysosomes and vacuoles
+4. Lysosome is availabe for fusion with other vesicles for digestion
+   Transport vesicle carries protiens to plasma membrane for secretion
+5. Plasma membrane expands by fusion of vesicles; proteins are secreted from the cell
+
+**** Smooth ER
+- No ribosomes
+- Synthesises lipids (steroids)
+- Metabolises carbohydrates (glycogen metabolism)
+- Stores calcium
+- Detoxifies poison and drug
+
+**** Rough ER
+- Bound ribosomes
+- Extra cytoplasmic protein synthesis
+- Integral membrane proteins synthesis
+- Some protein modifcations
+- Membrane assembly
+
+**** Golgi Apparatus
+- Receives, ships, and modifies substances produced by the ER
+- Cis side faces the ER
+- Trans side faces the plasma membrane
+
+**** Going Back
+- Vesicles from the golgi apparatus can become an early endosome
+- Early endosome -> late endosome
+- Late endosome -> lysosome
+
+** Prokaryotic Cells
+- Do not have a nucleus
+- Most do not have membrane-bound organelles
+
+*** General Schematic
+- Plasma membrane
+- DNA nucleoid region
+- Cell wall
+- Ribosomes
+- Flagellum
+
+*** Gram Staining
+- Serves as a marker to decide course of treatment
+- Binds to the peptidoglycan molecules or cell wall for gram+
+- Gram+ :: stained purple
+- Gram- :: stained pink
+
+* Macromolecules & Chemistry of Biology
+- Life requires about 25 elements
+- Atom :: smallest unit that retains properties of an element
+
+** Bonds (In Order of Bond Energy)
+- Covalent bond :: sharing of electron pairs
+- Ionic attraction :: attraction of opposite charges
+- Hydrogen bond :: electrical attraction between covalently bonded H atom and electronegative atom
+- Hydrophobic interaction :: interaction of nonpolar substances in the presence of polar substances (esp H2O)
+- Van der Waals interaction :: interaction of electrons of nonpolar substances
+
+** Water
+- Has polar covalent bonds to give water special properties:
+  - Cohesion of water molecules
+  - High specific heat
+  - Solid (ice) is less dense than liquid (water)
+  - Known as 'universal solvent'
+
+** Hydrophobic Interactions
+- Interaction of nonpolar substances in the presence of polar substances (esp water)
+- Often found in hydrocarbons (molecule made of C and H)
+- Amphiphilic/amphiphatic :: molecule has both hydrophobic and hydrophilic regions (fats, cholesterol, soap)
+
+** Bond Energies
+- Energy required to break a bond between two atoms
+- Less bond energy = easier to break
+
+** Functional Groups
+*** Negatively charged groups
+- Carboxyl (COO-)
+- Phosphate (PO4)
+
+*** Positively charged groups
+- Amino (NH3+)
+
+*** Neutral Polar groups
+- Hydroxyl (OH)
+- Sulfhydryl (SH)
+- Carbonyl (CO)
+- Aldehyde (COH)
+- Ketone (CO)
+
+** Macromolecules
+*** Lipids
+- Triglycerides composed of fatty acids and glycerol
+
+- Unifying feature of lipids is that they have no (or little) affinity to water
+- Fats, phospholipids, steroids
+
+*** Carbohydrates (sugars)
+- Polysaccharides contain disaccharides composed of two monosaccharides
+
+- Has an aldehyde or ketone group plus two or more hydroxyl groups
+- Tends to form into a ring in aqueous solution
+
+- Isomer :: monosaccharides that only differ in spatial arrangements, making minor changes in chemical properties but changing their recognition
+- alpha link :: when OH is facing down
+- beta link :: when OH is facing up
+
+*** Nucleic Acids
+- RNA composed of nucleotides
+- DNA composed of nucleotides
+
+- Consists of monomers called nucleotides composed of three parts: nitrogenous base, 5-carbon sugar, 1+ phosphate groups
+- Ribose in RNA, deoxyribose in DNA
+- Purines in adenine and guanine, pyrimidines in cytosine and thymine/uracil
+
+- Dehydration reaction creates phosphodiester linkage with the phosphate at the 5' carbon and hydroxyl at the 3' carbon
+- Double stranded DNA runs antiparallel: 5' to 3' end on one strand = 3' to 5' end on other strand
+
+**** DNA Bases
+- Adenine (A)
+- Thymine (T)
+- Guanine (G)
+- Cytosine (C)
+
+- Purine + Pyrimidine pairs up (A + T, G + C)
+
+*** Proteins
+- Peptides composed of amino acids
+
+- Unbranched polyers constructed from a set of 20 amino acids
+- Formed by a peptide bond to make a polypeptide
+
+**** Directionality
+- Carboxy (C) group of one amino acid joins to the amino (N) group of another amino acid
+- C-terminus and N-terminus
+
+* DNA & Replication
+- DNA acts as the genetic code for life
+
+** Central Dogma
+- Replication :: DNA to DNA - code is passed along to daughter cells as a copy
+- Transcription :: DNA to RNA - code is turned into a template for protein
+- Translation :: RNA to Protein - template is turned into peptides which make proteins
+
+** Replication
+- Copying DNA before before cell division
+- Semiconservative :: double stranded DNA -> single parent strand -> new strand made off of parent strands
+     - Each strand of the double helix becomes a parent template for a new complementary strand
+- Replication strands begin at specific sites on DNA
+
+*** Origin of Replication
+- Short, specific sequence of nucleotides
+- Proteins that initiate DNA replication recognise the origin sequence and bind
+- Bacteria: one origin of replication
+- Eukaryote: many origins of replication
+- Replication bubble forms at the origin of replication
+- Replication fork :: where the double strand is split
+     - DNA replication proceeds in two directions
+- Proteins unwind DNA at the fork and carry out replication
+
+*** Initiation
+**** Helicases
+- Untwist double helix at the fork
+- Separates the two parental strands
+
+**** Single-Strand Binding Proteins
+- Binds to the unwound single-stranded DNA
+- Prevents it from forming hydrogen bonds with itself or with the other DNA strand
+
+**** Topoisomerase
+- Relieves twisting strain ahead of the replication fork caused by unwinding of double helix
+- Breaks, swivels, and rejoins DNA strands
+
+**** Primase
+- Enzyme thgat makes RNA primer
+
+**** RNA Primer
+- 5-10 complementary RNA nucleotides
+- Serves as foundation to which DNA nucleotides can be added
+
+*** Synthesis
+**** DNA Polymerase III
+- Adds DNA nucleotides to a pre-existing chain
+- Needs RNA primer and DNA template (parent) strand
+- Attach 5' phophate group of unbound nucleotide to free 3' OH group of the DNA strand
+  - Extends via the 3' end
+- Can only synthesise in the 5' to 3' direction
+- Template (parent) strand is antiparallel - being read 3' to 5' and new DNA is being synthesised 5' to 3'
+
+**** Directionality
+***** Leading Strand
+- Opening in 3' -> 5' direction
+- Get continuous 5' -> 3' replication due to the direction that DNA polymerase III adds nucleotides
+- Only 1 primer required
+- DNA polymerase continuously synthesises complementary DNA strands in the 5'->3' direction
+- Fork continues to open as synthesis progresses
+
+***** Lagging Strand
+- Other stand is opening in 5' -> 3' direction
+- DNA polymerase must move in the direction away from the fork
+- Synthesises discontinuously as a series of Okazaki fragments
+- Each segment needs its own primer
+
+****** DNA Polymerase I
+- Replaces primers with DNA 
+- After synthesis of the new DNA segment, replaces the primer's RNA nucleotides with DNA nucleotides
+- Enzyme degrades RNA primer in 5'->3' direction while simultaneously replacing degraded strands with deoxyrebonucleotides
+
+****** DNA Ligase
+- Joins segments of DNA together on the lagging strand
+- Uses ATP to join 2 neighbouring nucleotides together
+
+****** Steps
+1. Primase forms RNA primer
+2. DNA polymerase III adds DNA to primer to form Okazaki fragments
+3. DNA polymerase III detaches when it reaches the next RNA primer
+4. RNA primer forms for next segment, and DNA polymerase III forms Okazaki fragment
+5. DNA polymerase I replaces RNA primer with DNA
+6. DNA ligase joins the Okazaki fragments
+
+* Transcription
+- Transcription :: process of creating RNA from a DNA template strand
+- Moves along the 3'->5' direction of the DNA strand
+
+** Basic Steps
+1. Initiation - RNA polymerase binds to promoter sequence on DNA strand
+2. Elongation - RNA polymerase moves along and creates RNA
+3. Termination - RNA polymerase reaches terminator sequence and falls off
+
+** RNA
+- Made of ribose instead of deoxyribose (DNA)
+- Has Uracil (U) instead of Thymine (T)
+
+- rRNA has a complex secondary structure
+- RNA enzyme :: an RNA segment that can catalyse its own cleavage (self-splicing) to form a mature rRNA product
+
+** RNA Polymerase
+- Creates mRNA
+- One big complex
+- DNA is unwound and as it enters
+- Binds to the promoter sequence as the starting point
+
+*** Steps Inside Polymerase
+1. DNA double helix is taken in when the RNA polymerase jaws open
+2. DNA is unwound at the active site
+3. Ribonucleotide triphosphates get added to the RNA strand forming 
+4. DNA is rewound as it exits the polymerase
+
+** Start and Stop Signals
+- Initiation :: Promoter sequence in DNA
+		In bacteria: -35 sequence followed by -10 sequence followed by startpoint
+- Termination :: Terminator sequence in DNA
+
+** Transcription in Prokaryotes
+- One mRNA can code for multiple proteins
+
+1. In initiation, RNA polymerase holoenzyme first recognises the promoter at the -35 region and binds to the full promoter
+2. As initiation continues, RNA polymerase binds more tightly to the promoter at the -10 region, accompanied by a local untwisting of DNA at that region to correctly orient RNA polymerase at +1 region
+3. After 8-9 nucleotides have been polymerised, sigma factor dissociates from core enzme
+4. As RNA polymerase elongates the new RNA chain, enzme untwists DNA ahead of it, keeping single-stranded transcription bubble at about 25bp
+
+*** Termination
+- C-G rich stem loop form
+- Rho termination protein goes along RNA to straighten the loop
+
+** Transcription in Eukaryotes
+- One mRNA will most likely only code for one protein
+- Has to leave the nucleus to be translated
+
+- Components of TFIID and TFIIB bind promoter motifs (TATA, others)
+- RNA polymerase II is recruited and other TFII factors
+- TFIIH helicase opens DNA helix (requires ATP)
+
+*** Types of Polymerase 
+- RNA polymerase I - transcribes 5.8S, 18S, and 28S rRNA genes
+- RNA polymerase II - transcribes all protein coding genes, plus snoRNA genes, miRNA genes, siRNA genes, and most snRNA genes
+- RNA polymerase III - transcribes tRNA genes, rRNA genes, some snRNA genes, and genes for small RNAs
+
+*** Basic Steps
+1. Initiation - Ser2-P of C-terminal domain of polymerase; slow stop and go
+2. Elongation - Ser5-P; fast movement and links synthesis to processing
+3. Termination - specific other proteins involved
+
+*** mRNA Processing
+- C terminal domain (CTD) of RNA polymerase II interacts with newly synthesised mRNA
+- RNA processing tightly coupled to transcription elongation
+
+**** Termination Processing
+- Capping and poly A tail attachment marks final message as ready and complete
+- Only RNA polymerase II products are capped and polyadenylated
+
+***** Capping
+- 1st modification
+
+****** Steps
+1. Phosphatase removes one phosphate
+2. Guanyl transferase puts a G on backwards
+3. Methyltransferase adds methyl group
+
+***** Poly A Tail
+- Does not need template to form
+- Attaches at the end of the RNA sequence, replacing the OH group
+
+**** Splicing
+- Introns are removed from primary transcript
+- Exons are spliced together to form the mRNA
+- Splicing key reactions carried out by snRNA/protein complexes
+- Splicing is flexible: alternative splice forms
+  - Variety in protein sequence
+  - Evolution
+- Intron sequence forms a loop, which then breaks off, leaving just two connected exons
+- Spliceosome is what helps to loop the intron and combine the exons
+
+***** Recognised Sequences
+- GU at 5' end = splice donor
+- AG at 3' end = splice acceptor
+- RAYY = branch site
+
+Where R = purine (A or G), Y = pyrimidine (T or C), N = any base
+
+* Translation
+- When a sequence of bases in the mRNA are converted to a sequence of amino acids in a polypeptide
+
+** Start and Stop Signals
+- Initiation :: AUG start codon in mRNA
+- Termination :: UAA/UAG/UGA stop codon in mRNA
+
+** Basic Steps
+1. Initiation - Components of translational apparatus come together with mRNA, then first tRNA carrying the first amino acid binds to AUG start codon
+2. Elongation - Amino amids are brought to the mRNA by tRNA to be added to the polypeptide chain
+3. Termination - Stop codon is reached on mRNA which gets recognised by protei nrelease factor and the appartus comes apart
+
+*** Elongation
+1. Peptide bond forms (break bond between amino acid and tRNA, join amino acid to the peptide chain)
+2. Large subunit moves
+3. Small subunit moves
+4. tRNA binds (base pairs with mRNA)
+
+**** Binding Sites
+1. P-site holds onto polypeptide chain and new tRNA comes to A-site
+2. Polypeptide chain moves off the P-site tRNA and binds onto the A-site tRNA
+3. Large subunit shifts so that the empty tRNA is in the E-site
+4. E-site tRNA leaves the ribosome complex and a new tRNA comes to the A-site
+
+*** Termination
+- Termination phase starts when the A-site encounters a stop codon
+- Stop codon is bound by a release factor, which resembles tRNA in shape and size but is a protein
+- Factor cataylses the hydrolysis of the bond linking tRNA in the P-site to the polypeptide
+
+** Translation Start
+- Determine the reading frame
+- Need to find the right start
+
+** Ribosome
+- Catalyses translation of the mRNA sequence to protein
+- Contains protein and ribosomal RNA (rRNA)
+- Binding site is almost entirely rRNA
+- rRNA catalyses peptide bond formation and ribosome is a ribozyme
+
+- Consists of:
+  - Large subunit :: holds mRNA in place during translation
+		     can catalyse peptide bond formation even after the ribosomal proteins have been removed
+  - Small subunit :: where peptide bonds form
+  - mRNA binding site (E, P, and A sites) :: location for peptide formation
+
+*** Data Flow
+- Order of codons on the RNA is determined by DNA sequence
+- DNA template strand (3'->5') is transcribed to mRNA (5'->3')
+- mRNA (5'->3') is translated to protein made of amino acids correlating to mRNA codons (3 bases)
+
+** tRNA
+- Adapter protein that holds amino acid in place while interacting directly with the codon on the mRNA
+- Has an anticodon and amino acid binding site
+- Anticodon site :: matches up with mRNA codon
+- Amino acid binding site :: carries the amino acid for the tRNA
+
+*** Aminoacyl tRNA Synthetase
+- Charges tRNA by catalysing addition of amino acids to tRNA
+- Different aminoacyl tRNA synthetase for each of the 20 amino acids
+- Requires ATP for charging
+
+** In Prokaryotes
+- Transcription and translation performed in the same compartment and can occur simulataneously
+- Bacterial ribosomes begin translating the mRNA before the RNA polymerase is done
+- Multiple ribosomes attached to an mRNA form a polyribosome
+
+*** Start
+- Start codon preceded by a ribosome binding site (Shine-Dalgarno sequence) that is complementary to a section of one rRNA in the small ribosomal subunit
+- Interactions between the small subunit and mRNA mediated by initiation factors
+
+**** Steps
+1. mRNA binds to small ribosomal subunit and one initiation factor is released
+2. Initiator aminoacyl tRNA bearing a modified methionine binds to start codon
+3. Large ribosomal subunit binds, completing the complex (GTP hydrolysis occurs and 2 initiation factors are released)
+
+** In Eukaryotes
+- Separate transcription and translation
+- mRNAs synthesised and processed in the nucleus then transported to cytoplasm for translation by ribosomes
+
+*** Start
+- Start signified by methione tRNA
+- GTP-bound initiation factors (GTP hydrolysis, energy)
+- Bind to 5' cap of mRNA, together with smal subunit of ribosome
+- Find first AUG start codon
+- Initiation factors leave, allowing large subunit of ribosome to come on
+
+*** Nucleolus
+- Ribosome production factory
+- Ribosome consists of 1/3 protein, 2/3 RNA (rRNA and snoRNA help process RNA)
+
+* Proteins: Structure and Enzymes
+- Unbranched polymers constructed from a set of 20 amino acids
+
+** Amino Acids
+- Amino acid consists of amino group, carbonyl group, alpha carbon, and an R group
+- R group is different for each amino acid type
+
+*** Types of Amino Acids
+- Nonpolar
+- Polar
+- Acidic
+- Basic
+
+**** TODO List them
+
+** Protein Folding
+- Proteins are not just chains, they can be folded into shapes of varying structure complexity
+
+** Structural Hierarchy
+*** Primary Structure
+- Sequence of amino acids
+- Covalent bonds
+- Has an amino end (H3N+) and carboxyl end (COO-)
+
+*** Secondary Structure
+- Segments of polypeptide chain repeatedly coiled or folded
+- alpha helix :: coil of polypeptide chain
+- beta-pleated sheet :: folded polypeptide chain
+- Many weak bonds that sum into a strong structure due to hydrogen bonds
+
+*** Tertiary Structure
+- 3D shape stabilised by interactions between side chains
+
+**** Possible Interactions
+- Hydrophobic interactions
+- Van der Waals interactions
+- Hydrogen bonds
+- Disulfide bridges (cysteines)
+
+*** Quarternary Strucutre
+- Only for proteins that have multiple subunits
+- Just a bunch of tertiary structures that combine
+
+** Sickle Cell Anemia
+- Mutation in hemoglobin gene leading individuals w/ sickle cell disease to have Valine instead of Glutamate, causing the sickle shape
+
+* Energistics
+- Whenever a reaction occurs, there is a net increase in the disorder (entropy $\delta$S) of the universe
+- Entropy of a subsystem in the universe (test tube or cell) may increase/decrease but the overall entropy of the universe increases
+- Proteins assume the lowest entropy conformation
+
+** Laws of Thermodynamics
+- 1st Law :: Conservation of energy - energy before is equal to the energy
+- 2nd Law :: Entropy of the universe increases during all chemical and physical process, but does not have to take place in the reacting system itself
+	     Energy before -> Mostly usable energy after, but some unusable energy after
+	     $\delta S_{universe} = \delta S_{System} + \delta S_{Surroundings}
+
+** Enthalpy
+- Enthalpy (H) :: total kinetic and potential energy of a system at a constant pressure measured in J/mol
+- Change in Enthalpy ($\delta$H) :: change in heat of a system 
+     $\delta H = H_{final} - H_{initial}$
+
+- In relations to Entropy: $\delta S_{universe} = \delta S_{system} + -\delta H_{system} / T$
+
+** Gibb's Free Energy
+- Free Energy :: Portion of the system's energy that can perform work
+		 Larger $\delta$G = able to more work (more stored potential energy)
+		 $\delta G = G_{final state} - G_{initial state}
+- Free Energy determines conformation of molecules
+
+*** Exergonic
+- Spontaneous
+- Energetically favourable
+- Net release of energy ($\delta$G < 0)
+
+*** Endergonic
+- Energetically unfavourable
+- Energy is consumed
+- $\delta$G > 0
+
+** Activation Energy Barrier
+- Not every exergonic reaction can happen quickly
+- Some molecules require contortion of the starting molecule into an unstable state first
+- Activation Energy (E_A) :: initial investment of energy for starting a reaction, provids a barrier that determines the rxn rate
+
+*** Enzyme
+- Decreases the energy barrier, acts as a catalyst
+- Promotes the transition state by making it more stable
+- Enzymes bind to a specific substrate and converts it into product
+- Functions at optimal temperature and pH
+- Reaction rate greatly increases until you eventually reach a saturation point where there is not enough enzyme for substrate
+
+**** Active Site
+- Very specific due to the active site being made for a specific substrate
+- Unique 3D shape for the substrate
+- Normally a pocket or a grove
+- Lock and Key model where substrate will fit perfectly into the active site
+- Induced Fit Model :: enzyme must be forced into a specific shape using some sort of substrate first
+
+**** Enzyme Inhibitors
+- Competitive Inhibitors :: Mimics normal substrate and compete for binding of active site
+     - Block substrates from entering active site
+     - K_m increases, V_max stays the same
+- Noncompetitive Inhibitors :: Do not bind to active site
+     - Causes enzyme to change shape, making the active site less able to bind
+     - K_m stays the same, V_max lowers
+
+**** Feedback Inhibiition
+- Product of metabolic pathway binds to an allosteric site of the enyzme and inhibits further products
+- Indicator that sufficient concentration of product has been reached
+
+** Energetic Coupling
+- Energetically favourable reactions can drive energetically unfavourable reactions by adding to the energy available
+- ATP mediates most energy couplings
+
+*** ATP
+- ATP hydrolysis (ATP + H2O -> ADP + Pi) releases free energy
+- Contributes to free energy required for an endergonic reaction
+- ATP is regenerated by adding back the Pi group in an endergonic reaction so an exergonic reaction is required for energy
+
+** Chemical Kinetics
+- Rate of chemical rxn
+- Velocity :: Products per unit time (change in concentration per unit time)
+	      V_max is reached when an enzyme is saturated and the kinetic curve levels off
+
+*** Michaelis-Menten
+- Describes rate of reaction by accounting for amount of substrate
+- V_max = max rate achieved by a system
+- K_m = substrate concentration at which the reaction rate is half of V_max
+  - Low K_m = strong affinity
+  - High K_m = poor affinity
+
+* Lipids
+- Fatty acids :: long amphiphatic molecules - unbranched hydrocarbon chain with a carbonyl
+- Chains with a cis double bond have a strong kink in their structure
+- Chains with a trans double bond do not have a strong kink
+- Chemical properties affect water solubility and melting temp
+
+- Water solubility - largely insoluble due to the tails and slightly soluble due to the head
+- Melting temperature - cis fatty acids are less soluble than trans fatty acids
+
+** Fat
+- Constructed from glycerol and fatty acids via dehydratin rxn
+- 3 fatty acids joined to glycerol by an ester
+
+*** Functions
+- Major function is energy storage
+- Cushions vital organs
+- Acts as insulation
+
+** Phospholipid
+- Have 2 fatty acids attached to glycerol and a phosphate group at the 3rd position
+- Carries a negative charge
+- Additional smaller groups may be attached
+
+** Steroid
+- Lipids with a carbon skeleton containing 4 fused carbon rings
+- Includes cholesterol and certain hormones
+
+** Glycolipid
+- Has one or more sugars attached to the hydrophilic head and sugar is always oriented to the outside of the cell
+
+*** Cholesterol
+- Functions as animal cell membrane component
+- Made in the liver and starting material for testosterone, as well as bile salts to break down fats
+- Absorbed from milk, butter, and animal fats
+
+* Cell Membranes
+- Maintains physical integrity of the cell by mechanically enclosing it
+- Controls particle movement into and out of the cell
+- Membrane is made of phospholipids where the heads face outward
+  - Phospholipid bilayer - 2 half layers of phospholipids formed in fluid
+- Has a relatively high amount of lipid mobility wihtin each lipid monolayer but not between lipid layers
+
+** Fluidity
+- Sterols act as a fluidity buffer
+- Cholesterol ridigity decreases fluidity above the melting point
+- Bulkiness of cholesterol prevents phospholipid tails from packing together, lowering the melting temp
+- Membrane has to fluid to function
+
+** Molecule Properties and Diffusion
+*** Can Diffuse Passively
+- Gases
+- Hydrophobic molecules
+- Small polar molecules
+
+*** Cannot Diffuse Passively Group
+- Large polar molecules
+- Charged molecules
+
+** Osmosis
+- The movement of solvent molecules from a higher concentration to a lower concentration across a membrane
+- Water in biological systems
+
+*** Osmotic Pressure
+- Tonicity :: ability of surrounding solution to cause cell to gain/lose water
+- Hypotonic :: more water (less solute) outside the cell - causes expansion
+- Isotonic :: same water concentrations on both sides of membrane
+- Hypertonic :: less water (more solute) outside the cell - causes shrinkage
+
+- Cell walls prevent bursting due to tonicity extremes
+
+** Dynamic Structure
+- Lipid bilayer creates a hydrophobic barrier mostly made of phospholipids, glycolipids, and steroids
+- Proteins confer specificity
+- Lipid rafts are membrane microdomains enriched in cholesterol, sphingolipids, and glycospingolipids
+  - More ordered than surroundings
+  - Contains many signaling proteins
+- Diffusion can be detected using FRAP - cell surface labeled with fluorescent dye and beam bleaches an area. Movement to bleached area observed
+
+*** Types of Membrane Proteins
+- Peripheral membrane proteins :: bound to bilayer surface, interacting with hydrophilic lipid head group
+- Integral membrane proteins :: intrinsic structural parts
+- Lipid-anchored membrane proteins :: anchored ia covalently attached lipid
+
+**** Transmembrane Domains
+- alpha helix
+- beta barrel
+
+* Cytoskeleton
+- Structural organisation of the cell
+- Dynamic filaments have monomers assembling, disassembling, and reassembling readily (microfilaments and microtubules)
+
+** Microtubules
+- Made of tubulin
+- Shape the cell and are involved in cell division
+- Extends and binds to chromosomes
+- Structure: tubulin binds with each other to make protofilament which binds together to make microtubule
+
+- Dynamic driven by GTP
+- GTP bound tubulin is able to form a polymer
+- GDP bound tubulin is depolymerised and causes the microtubule to shrink
+
+*** Centrosome
+- Considered to be a microtubule organising center
+- Contains a longitudinal centriole and another centriole
+- Microtubules emanate from the centrosome in animal cells from the gTRC
+
+*** Organelle Movement
+- Driven by molecular motors called kinesin and dynein
+- Two motor heads connect to the microtubule, releasing based on ATP/ADP binding
+- Coiled coil stalk holds the cargo
+
+- Kinesin moves in the + direction
+- Dynein moves in the - direction
+
+** Microfilaments
+- Made of actin
+- G-actin :: globular (monomeric) actin
+- F-actin :: firbrillar (polymeric)  actin AKA actin filament
+
+- Dynamics driven by ATP
+- ATP bound G-actin is added to the filament
+- ADP bound G-actin is removed from the filament
+
+- Plus ends grows
+- Minus ends shrink
+- Treadmilling :: movement of actin due to plus end growing at the same rate as minus end shrinking
+
+- Contractions of microfilaments drives movements (muscles, etc)
+- Myosin binding causes actin movement
+
+** Intermediate Filaments
+- Support cell shape
+- Fix organelles in place
+- Form cell junctions
+
+* Vesicles
+- Vesicles move to and from all membrane bound components in eukaryotic cells
+
+** Lysosome
+- Digest food (phagocytosis) and damaged organelles (autophagy)
+
+*** Paths
+1. Phagocytosis :: bacteria gets taken into cell -> makes a phagosome -> eaten by lysosome
+2. Endocytosis :: molecules get taken into cell -> early endosome forms -> matures into late endosome -> eaten by lysosome
+3. Autophagy :: organelle gets covered by membrane -> eaten by lysosome
+
+** Vacuole
+- Stores things
+- In plants, also stores water
+- Maintains internal hydrostatic pressure of a cell
+
+*** Structure and Function
+- Mass of a liquid that contains fluid, nutrients, waste products surrounded by a membrane
+- Shape and size varies and the structure varies according the cell needs
+- Found in both animals and plants, but plants have larger vacuoles
+- Stores food and nutrients, and sometimes waste products so that the cell doesn't become contaminated
+
+** Peroxisome
+- Absorb nutrients taht the cell requires
+- Known for digesting fatty acids
+- Membrane with embedded proteins and contains digestive enzymes for breaking down material
+
+** Transport Mechanism
+- Vesicle is formed from a donor membrane through budding
+- Vesicle reaches the target membrane
+- Vesicle fuses with the target membrane, releasing whatever
+
+*** Coatings
+- COPII coat is for vesicles from the ER -> Golgi
+- COPI coat is for vesicles from the Golgi -> ER
+- Clathrin coat is for vesicles from Golgi -> plasma membrane
+
+*** SNAREs
+- t-SNARE :: SNAREs on the target membrane
+- v-SNARE :: SNAREs on the vesicle
+
+- They bind together (trans-SNARE complex) to hold the vesicle in place as fusion occurs
+
+*** G-Proteins
+- GEF is adds a GTP complex to the vesicle
+- Rab effector binds to the GTP during fusion
+- GTP hydrolysis after fusion
+
+*** Endocytosis
+- movement of large molecules (particles, organisms, large molecules)
+- movement into the cell
+- types: bulk-phase (nonspecific) and receptor-mediated (specific)
+
+- Phagocytosis :: cell eating, contents absorbed are broken down by enzymes and absorbed
+- Pinocytosis :: cell drinking, cell engulfs already dissolved or broken down cotents
+- Receptor-Mediated Endocytosis :: proteins are endocytosed due to receptor sites specific to the molecules being absorbed
+
+*** Exocytosis
+- Vesicle moves to cell surface
+- Membrane of vesicle fuses to the cell membrane and releases contents
+
+* Channels, Receptors
+
+* Extracellular Matrix
+- Animals lack a cell wall but have an ECM made of glycoproteins and other macromolecules
+- Interacts with cytoskeleton through transmembrane proteins
+
+** Types
+- Basement membrane (basal lamina)
+- Elastic fibers
+- Stromal or interstitial matrix
+- Bone, tooth, and cartilage
+- Tendon and ligament
+
+* Signaling Systems
+** Intercellular Signaling
+*** Contact
+- Plasma membranes touching
+- Gap junctions between animal cells
+- Plasmodesmata between plant cells
+- Cell-cell recognition via receptors and proteins on surface
+
+*** Local Signaling
+- Paracrine :: cell transmits local regulators that influence cells in the immediate vicinity
+- Synaptic signaling :: neurotransmitters cross chemical synapse between 2 neurons
+
+*** Distanced Signaling
+- Endocrine :: cell transmits regulators that travel through the blood
+
+** Intracellular Signaling
+
+
+** Cell Communication
+- Signal gets translated into a response via signal-transduction pathways
+- Similar characteristics found throughout the living world (prokaryotes and eukaryotes)
+
+* Life: Capturing & Using Energy
+
+
+* Cellular Respiration: Energy from Molecules
+
+
+* Photosynthesis: Energy from Sunlight
+
+
+* Mitosis & Meiosis
+
+
+* Genetics
+** Probability
+- AND: multiplication
+- OR: addition
+
+*** Determining Probabilities
+- Monohybrid cross: probability of two independent events is determined by multiplying the probability of each event
+- Dihybrid cross: probability of allele combinations to form the desired outcome
+
+** Mendelian Genetics
+- MAP for pea plants are simple - 2 possible phenotypes (dominant and recessive) -> 3 genetypes (homozygous dominant, heterozygous, homozygous recessive)
+- Ideal test cross ratio: 1:1:1:1
+- Ideal dihybrid cross ratio: 9:3:3:1
+
+*** Law of Independent Assortment
+- When two or more characteristics are inherited, individual hereditary factors assort independently, giving different traits equal opportunity of occuring
+- Equal opportunity for different arrangements during meiosis, then homologs separate
+- If crossing RrYy x RrYy then create a 4x4 Punett square
+  - Top labels: RY, Ry, rY, ry
+  - Side labels: RY, Ry, rY, ry
+  - Phenotype ratio: 9 dominant dominant, 3 dominant recessive, 3 recessive dominant, 1 recessive recessive
+
+*** Crossing Over
+- As chromatin is condensing in prophase I, homologous chromosomes pair up (synapsis)
+- Pairing up forms tetrad
+- Chiasmata form and indicate the site where genetic exchange between nonsister chromatids takes place (crossing over/recombination)
+
+*** Fertilisation
+- 1 human ovum + 1 human sperm
+- 70 trillion combinations without crossing over
+- Random fertilisation increases offspring variation drastically
+
+*** Allele Domination
+- P gene encodes info to produce a protein -> an enzyme that catalyses a reaction necessary for a dominant phenotype
+- Dominant P allele - transcribed and translated to produce functional enzyme
+- Recessive P allele - does not make a functional enzyme
+
+** Non-Mendelian Genetics
+*** Codominance vs Incomplete Dominance
+- Incomplete dominance :: one allele is only partially dominant to the other, so the heterozygote exhibits an intermediate phenotype (red dominant x white recessive = pink heterozygote)
+     - One copy of either allele is not enough to fully produce the homozygous phenotype
+- Codominance :: both alleles equally dominant, so both allele's corresponding phenotype is visible in the heterozygote (black chicken x white chicken = speckled chicken)
+     - One copy of either allele is enough to fully produce the homozygous phenotype, so both phenotypes can show
+
+*** Homozygous Lethality
+- Causes ratio of progeny to be off
+- Yy x Yy where YY phenotype is lethal would cause 2 Yy progeny and 1 yy progeny
+
+*** Chromosomal Basis of Inheritance
+**** Sex Chromosomes
+- Chromosomes that determine sex
+- Chance of human male vs female: XY x XX = 50% XY and 50% XX
+
+***** Sex Determination
+- Usually one sex is homogametic and the other is heterogametic
+
+- Female: XX (homogametic) and Male: XY (heterogametic)
+- Male: ZZ (homogametic) and Female: ZW (heterogametic)
+- Female: XX (homogametic) and Male: X- (heterogametic)
+
+***** X-Linked Inheritance
+- Y chromosome directs gender: XY = male, XX = female
+  - Y has very little genetic info
+- X-linked recessive traits are more likely in males due to only requiring 1 copy, where females can still be heterozygous
+
+***** Y-Linked Inheritance
+- Y chromosome carries few genes, mainly regarding male-specific features
+
+**** Autosome
+- Any chromosome that does not determine sex
+
+**** Aneuploidy
+- When an abnormal number of chromosomes are present
+
+***** Non-disjunction in meiosis :: when chromosomes are separated unevenly
+- In meiosis I - chromosomes are uneven between diploids going into meiosis II, so 2 gametes have n+1 and 2 gametes have n-1
+- In meiosis II - chromosomes uneven after split into gametes, so 2 gametes normal where non-disjunction doesn't occur, and 1 n+1 gamete and 1 n-1 will exist
+- When fertilisation occurs: egg n+1 and sperm n = 2n + 1 zygote
+
+****** X chromosome non-disjunction
+- XXY - sterile male with potentially some female characteristics
+- XXX - no real stigmata
+- XO - sterile female with short stature, low mental ability, failure to undergo puberty
+- YO - non-viable due to X chromosome genes required for survival/development
+
+***** Barr Body and X Chromosome Inactivation
+- Clump of chromatin of all somatic cells in females
+- Represents one inactivated X chromosome
+- # of barr bodies = number of X chromosomes - 1
+- The inactivated X chromosome is random
+
+- Precursor cell has both X chromosomes active
+- During split, 1 X chromosome in each new cell is inactivated
+- Causes features such as differently coloured patterned fur (tortoiseshell cats)
+
+****** More About the Cats
+- Orange fur = X-linked
+- Black fur = simple dominance
+
+******* Results
+- BY = orange male
+- bY = black male
+
+- bb = black female
+- BB = orange female
+
+- Bb = tortoiseshell female (some areas will have B inactivated, others will have b inactivated
+
+***** Other Methods of Handling XX
+- Hypertranscription: 2 full X chromosomes = 1 double sized X chromosome (drosophila)
+- Hypotranscription: 2 half X chromosomes = 1 full X chromosome
+
+**** Karotyping
+- Examining the number and size of chromosomes
+- Trisomy :: when there are three chromosomes instead of two
+	     - more likely to occur as the maternal age increases (exponential growth in rate)
+- Trisomy 13 :: Patae syndrome
+- Trisomy 21 :: Down's syndrome
+
+*** Polygenetic Inheritance
+- Multiple genes determining a single phenotype
+- Allows for many more phenotype possibilities in a pseudo-gradient
+- Example: skin colour determined by at least 3 genes
+
+*** Pleiotrophy
+- Ability of a gene to affect more than one characteristic
+- Example: PKU gene codes for an enzme that converts phenylalanine to tyrosine, causing retardation, reduced hair, bodily damage due to toxicity
+
+** Gene Interations
+*** Interactions between alleles
+- Complete dominance :: Aa looks like AA if 50% of gene product is sufficient for full function
+- Incomplete dominance :: 50% of gene product not sufficient for full function
+
+**** Human Blood Types
+- Possibilities: A, B, AB, O
+- Example of codominance :: both alleles are expressed in the heterozygote
+- Human blood type determined by three alleles for the gene: I^A, I^B, i
+
+***** Genotypes and Corresponding Phenotypes
+- I^A/I^A, I^A/i = A
+- I^B/I^B, I^B/i = B
+- I^A/I^B = AB
+- i/i = O
+
+*** Interactions When Genes at Multiple Loci Determine Single Phenotype
+- Effects of gene at one locus depends on the presence of genes at other loci
+  - Provides novel phenotypes 
+
+**** Epistasis
+- 2 unlinked loci (genes) interact
+- Mutation in one gene affects phenotype of second gene
+- Mutation in one gene hides the phenotype of the other gene
+- Precursor: occurs when two enzymes in one pathway coded by two different genes -> first in pathway takes precedent
+- Other possibility: two genes on same pathway requiring both genes to be dominant for a phenotype (corn requires both A and B dominant)
+
+***** Example
+- Labradors have B and E to determine fur colour
+- B determines colour, but if ee is present, then that overrides B (yellow)
+
+** Organelle Inheritance
+*** Cytoplasmic Inheritance
+- Phenotype of the mother is the sole determinant of the offspring phenotype - uniparental inheritance
+- Always passed from mother to all children, never through father
+
+**** Heteroplasmy
+- Mitochondria with two different mitochondrial gene types are present in a cell
+- Mitochondria randomly separate during cell division, resulting in random distribution of mitochondrial gene types
+
+** Linkage
+- Two or more genes can be located on same chromosomes
+- Genes that are close together tend to be transmitted as a unit
+
+*** Linked Genes
+- If two genes are located on the same chromosome, alleles can recombine only when there is crossing over during meiosis
+- Probability that crossover occurs is proportional to distance between genes
+- Fewer recombinant gametes than nonrecombinant gametes
+
+- Trans configuration: w + and + m can be written as a B / A b
+- Cis configuration: w m and + + can be written as a b / A B
+
+*** Crossing Over
+- Occurs betwen homologous chromosomes
+- Chromatids cross over at a chiasma, then split into individual chromatids once recombined
+
+*** Recombination Frequency
+- Frequency of recombination: 0.0 to 0.5
+- Percent recombination: 0% to 50%
+- Map distance in map units
+- Map distance in centiMorgans (cM) where 1 map unit = 1 cM
+
+**** Calculation
+- Homozygous dominant and homozygous recessive crossed: AABB x aabb = 100% AaBb
+- Heterzygous and homozygous recessive then crossed: AaBb x aabb = AaBb, Aabb, aaBb, aabb
+- The phenotypes with the least offspring are the recombinant phenotypes
+
+- Recombination frequency (RF) = (# of recombinants / total offspring) * 100%
+- 1% = 1 map unit = 1 cM
+
+***** Determining Cis or Trans of the Heterozygous Parent
+****** Cis
+- Parent: AB, ab
+- Parental gametes: AB, ab
+- Recombinant gametes: Ab, aB
+
+****** Trans
+- Parent: Ab, aB
+- Parental gametes: Ab, aB
+- Recombinant gametes: AB, ab
+
+**** Chi-Square Test to Determine Linkage Probability
+- Deviation from normal 1:1:1:1 ratio can represent change event or linkage
+  - Too many parental types and too few recombinant types = linkage
+- Chi-square test determines goodness of fit between observed and expected results
+
+- Chi-Square = Sum((observed - expected)^2 / expected)
+
+- For a total offspring size of 3236, one would expect 809, 809, 809, 809 for each phenotype
+- If chi-square > critical value, then reject null hypothesis (1:1:1:1 no recombination)
+- If chi-square < critical value, then accept null hypothesis (1:1:1:1 no recombination)
+
+** Gene Expression
+- Genes can be regulated during transcription, during translation, or post-translation
+
+*** Operon
+- Cluster of functionally related genes can be under coordinated control by a single on/off switch (multiple gene products from one mRNA strand)
+- Operator :: regulatory switch segment of DNA positioned within a promotor
+- Operon :: stretch of DNA that includes operator, promotor, and genes under control
+
+- Repressible operon - turned off - Trp operon
+  - Binding of a repressor to the operator shuts off transcription
+  - Repressible enzymes usually function in anabolic pathways: synthesis repressed by high level of end product
+- Inducible operon - turned on - Lac operon
+  - A molecule called an inducer inactivates the repressor and turns on transcription
+  - Inducible enzymes usually function in catabolic pathways: synthesis induced by chemical signal
+
+**** Positive and Negative Regulation
+- Negative control - repressor inhibits transcription
+  - Effector molecule binds to repressor protein, causing it to detach
+- Postive control - activator promotes transcription
+
+**** Trp Operon
+- RNA polymerase moves along, making tryptophan subunits
+- Tryptophan causes conformational change in repressor
+- Repressor binds to operator, blocking polymerase
+
+**** Lac Operon
+- Inducible operon and contains genes that code for enzymes used in the hydrolysis of lactose
+- Lac operon only active if lactose is high (no repressor) and glucose is low (CAP bound)
+
+***** Repressor Binding
+- Lac repressor normally active, switching lac operon off
+- Inducer molecule (lactose in this case) inactivates the repressor to turn the lac operon on
+  - Makes inducer conformational change
+
+- Pi is promoter site to synthesise the repressor (lacI)
+- Plac is promoter site for making lactose degradation enzmes (beta-galactosidase, permease, transacetylase)
+
+***** CAP Binding
+- Glucose represses lac operon
+- Small effector molecule, cAMP, binds to activator protein catabolite activator protein (CAP) or cAMP receptor protein (CRP)
+- Operon turned off when CAP not bound
+- Glucose inhibits production of cAMP and so prevents binding of CAP to DNA
+
+*** Bacteria and Viruses
+- General Process: DNA ---- transcription ----> mRNA ---- translation ----> protein
+
+- Regulation usually at transcription intiation
+- Dependent on DNA binding regulatory proteins
+- Regulatory proteins alwayas present = constitutive expression
+- Regulatory proteins not always capable of binding DNA
+  - Switch to function DNA binding protein, "on" or "off", is dependent on allosteric interactions between signal and regulatory molecules
+
+*** Eukaryotes
+**** General Process
+- In the nucleus: DNA ---- transcription ----> primary RNA transcript -- 5' capping, RNA splicing, 3' poly-adenylation --> mRNA
+- Outside the cell: mRNA in nucleus ----- export ----> mRNA in cytoplasm ---- translation ----> protein
+
+**** Regulation
+- Gene expression can be regulated at any time
+- Organisms must regulate which genes are expressed at any given time
+- Multicellular organisms' gene expression is essential for cell specialisation
+- Almost all cells are genetically identical
+- Difference in gene types due to differential gene expression
+
+***** Transcription Initiation Regulation
+- Chromatin-modifying enzymes provide initial control of gene expression by making region of DNA either more or less able to bind transcription machinery
+
+****** Regulatory Sequence
+- Proximal control elements are located close to promoter
+- Enhancer :: distal control elements may be far from gene
+- Activator :: Protein that binds to enhancer and stimulates gene transcription
+
+****** Transcription Repressors
+- Work to turn off gene expression
+
+******* Methods
+- Competitive DNA binding
+- Masking of activation surface
+- Direction interaction with general transcription factors
+- Recruitment of repressive chromatin remodeling complexes
+- Recruitment of histon deacetylase
+
+***** Post-Transcriptional Regulation
+- Transcription alone does not account for gene expression
+- Allows cell to fine-tune gene expression rapidly in response to environmental changes
+
+**** Transport
+- Exon junction complex composed of a number of proteins
+- mRNA exported through nuclear pore complex (NPC)
+- NPC regulates which molecules enter and exit the nuclear membrane
+
+***** GTP Hydrolysis and G-Proteins
+****** Import
+- Importin docks and causes channel to open to allow things to pass into nucleus
+
+****** Export
+- Exportin docks and causes channel to open to allow cargo to pass into cytoplasm
+
+**** RNA Processing 
+- Alternative RNA splicing :: changing the produced protein based on what is treated as an intron or exon
+- When an mRNA is decayed is dependent in part by sequences in the leader and trailer regions
+- Phosphorylation of an initiation factor globally regulates protein synthesis
+
+** Genomes and Genomics
+
+
+** Epigenetics
+- Changes in phenotype without changing an organism's genome due to environmental factors
+- Mostly due to DNA methylation
+- Chromatin restricts access to DNA
+- More accessible: histone methylation and histone acetylation
+- Less accessible: histone deacetylation and histone demethylation
+
+*** Nucleosome
+- Histone with DNA wrapped around
+- Histone can be modified through acetylation -> promotes loose chromatin structure to permit transcription
+
+*** Epigenetic phenomena
+- Heritable alternative states of gene activity that do not result from altered nucleotide sequence
+- Can be supported by looking at twins that are separated from birth or raised in separated environments
+
+*** X-Inactivation
+- Calico cat coat colour is based on epigenetics
+- X in female is randomly inactivated
+- X chromosome Inactivation Center (XIC) - controls expression of X-inactive-specific transcript (XIST) which produces non-coding RNA molecule, coating a local X-chromosome
+
+*** DNA Methylation
+- Addition of methyl group to certain bases in DNA, assosciated with reduced transcription
+- Can cause long-term inactivation of genes in cellular differentiation
+
+** Genetic Control of Development
+- Certain genes get silenced during development
+- Stem cell :: undifferentiated cell that dividfes and gives rise to cells that differentiate
+	       localised to meristems in plants
+	       cells from young animal embryos are totipotent
+- Totipotent :: able to form all differentiated cells of adult
+- Pluripotent :: able to form more than 1 differentiated cell type
+
+*** Development Factors
+- Cell division
+- Cell movement
+- Cell identity
+- Coordination with other cells
+- Growth
+
+*** Cell Division
+- Cells divide unevenly, ultimately resulting in differences between cell contents
+
+*** Gene Activation
+- Maternal components used first, then zygote will activate specific genes
+
+*** Cell Signaling
+- Cells give off an inductive signal to surrounding cells to lead them towards a specific developmental pathway

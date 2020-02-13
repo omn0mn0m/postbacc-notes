@@ -1,0 +1,1807 @@
+- Currently on: Lecture 08: Signaling I copy Slide 23
+
+* Cell Membranes
+** Properties
+- Designed to enclose and compartmentalise a cell
+- Made of amphiphatic molecules
+  - Phospholipids
+  - Cholesterol
+  - Glycolipids
+  - Phosphoinositides
+- Physical Properties:
+  - Asymmetric
+  - Fluid
+  - Fluidity can be controlled by lipid composition
+  - Have limited permeability
+- Functions:
+  - Structural
+  - Accommodating proteins
+  - Signaling
+  - Communicating with the environment
+
+** Composition
+- Membrane is a phospholipid bilayer: two monolayers of lipids with the polar heads facing out of the membrane
+- Hydrophillic and hydrophobic molecules tend to separate from each other
+
+*** Lipids
+- Amphiphatic molecules :: has a polar and nonpolar section, in the case of lipids it is a polar head and nonpolar tail
+- Micelle and microemulsions form by surface active agents
+- Formation of lipid bilayer and micelles are to hide the nonpolar tail from water: energetically favourable
+- Energetically favourable to form into a fully sealed compartment (sphere) with no tail exposed
+
+**** Common Phospholipids
+- Phosphatidylethanolamine
+- Phosphatidylserine
+- Phosphatidylcholine
+- Spingomyelin
+- Sphingosine
+
+**** Cholesterol
+- Composed of a polar head group, a rigid steroid ring structure, and a nonpolar hydrocarbon tail
+- Polar head tends to align with phospholipid polar head, and tail tends to align with phospholipid nonpolar tail
+- Cholesterol increases stiffness by filling empty space between phospholipids
+  - Area without cholesterol is more fluid
+
+**** Glycolipid
+- Lipid with a carbohydrate attached
+
+**** Phosphatidylinositol
+- Minor phospholipids concentrated in the cytosolic face of cell membrane involved in signalling
+- Faces the extracellular space
+
+*** Proteins
+- Lipid-anchored protein
+- Integral membrane protein
+- Peripheral membrane protein
+
+**** Secondary Structures
+- Alpha-Helix
+- Beta-Pleated Sheet
+
+**** Amino Acids
+***** Nonpolar Side Chains
+- Glycine
+- Alanine
+- Valine
+- Leucine
+- Isoleucine
+- Methionine
+- Phenylalanine
+- Tryptophan
+- Proline
+
+***** Polar Side Chains
+- Serine
+- Threonine
+- Cysteine
+- Tyrosine
+- Asparagine
+- Glutamine
+
+***** Electrically Charged Side Chains
+****** Acidic
+- Aspartate
+- Glutamate
+
+****** Basic
+- Lysine
+- Arginine
+- Histidine
+
+**** Protein Folding
+- Based on the action of disulfide bonding
+- Protein Disulfide Isomerase (PDI) rearranges bonding for correct folding
+- N-Terminal domain folds first, then C-terminal domain
+- Two secondary structures: alpha-helix and beta-sheet
+
+***** Steps to Maturation
+1. Polypeptide chain is folded and bound to cofactors (non-covalent interactions)
+2. Covalent modification by glycosylation, phosphorylation, acetylation, etc
+3. Binding to other subunits
+
+***** Potential Fates
+- Correctly folded without help
+  - Slow if large protein
+- Correctly folded with help from a chaperone
+  - Chaperone speeds up the process
+- Incompletely folded and digested by proteasome
+  - Can be detected by exposed hydrophobic surfaces
+
+***** Cystolic Chaperones
+- ATPase
+- Recognises incorrectly folded proteins and helps them fold correctly
+- Recognises proteins that are not yet assembled into oligmeric complexes
+- Most are heat-shock proteins (HSP), greatly increasing activity when heated or stressed
+- Binds and releases protein with each cycle of ATP hydrolysis
+
+****** Hsp70
+- Binds to unfolded protein
+- Folds once when ATP is hydrolysed
+- ADP leaves, and ATP binds, releasing the protein
+- Cycle repeats
+
+****** Hsp60
+- Form barrel-like structures, into which mis-folded proteins are fed, preventing their aggregation and giving another chance to refold
+- Incorrectly folded protein enters and Hsp60 is capped when ATP is added
+- Protein correctly refolds and ATP is hydrolysed
+- Cap is removed and protein is released
+
+**** Protein Degradation
+- Turnover of protein is not constant
+- Half-lives vary from minutes to infinite
+
+***** Ubiquitin/Proteasome Pathway (80-90%)
+- Most intracellular proteins
+- Uqiquitin :: conserved 76-AA protein used to tag proteins for degradation that binds usually to a protein's lysine residues
+- Chain of 4+ ubiquitins work best
+
+****** Uses of Ubiquitin
+- Monoubiquitylation :: histone regulation
+- Multiubiquitylation :: endocytosis
+- Polyubiquitylation :: proteasoma degradation or DNA repair
+
+****** Steps
+1. Qbiquitin-activating enzyme binds ubiquitin to ubiquitin-conjucating enzyme
+2. Degradation signal on target protein causes ubiquitin ligase to bind to it along with ubiquitin-conjugating enzyme
+3. First ubiquitin chain is attached, process continues
+
+****** Ubiquitin Ligase Activation
+- Phosphorylation by protein kinase
+- Allosteric transition caused by ligand binding
+- Allosteric transition caused by protein subunit addition
+
+****** Degradation Signal Activation
+- Phosphorylation by protein kinase
+- Unmasking by protein dissociation
+- Creation of destabilising N-terminus
+
+****** Proteasome Structure
+- Core + regulatory particles (base and lid)
+- Ubiquitin chain on the protein binds to proteasome ubiquitin receptor (occurs in lid)
+- Ubiquitin hydrolase removes ubiquitin
+- Protein is unfolded via regulatory complexes using ATP (occurs in base)
+- Protein is fed into protease chamber, where proteolysis occurs, releasing peptides
+
+***** Lysosomal Processes (10-20%)
+- Extracellular proteins, organelles, some intracellular proteins
+- Lysosome :: site of intracellular digestion, containing over 40 different hydrolytic enzymes that function at low acidity
+
+- Late endosomes, phagosomes, and autophagosomes evolve into lysosomes
+
+****** Autophagy
+- Cellular adaptation to nutrient deprivation. 
+- Elimination of damaged or surplus organelles.
+- Growth regulation. 
+- Developmental remodeling of cells.
+- An alternative form of programmed cell death (in addition to apoptosis) that is morphologically associated with massive induction of autophagic vacuole formation. 
+
+******* Basal Autophagy
+- Housekeeping role in maintaining homeostasis
+- Responsible for clearance of ubiquitinated proteins
+
+******* Selective Autophagy
+- Performed by an expanding group of ubiquitin adaptors
+
+** Structure
+- Lateral diffusion occurs easily on the monolayer
+- Phospholipids are free to undergo flexion and rotation
+- Flipping between monolayers occurs rarely
+
+- Membrane is not uniform
+- Small specialised areas in membrane exist where some lipids accumulate
+
+- Membrane is charged where the interior of the cell is negative with respect to the exterior
+- Membrane potential arises from differences in the ionic composition of intracellular and extracellular fluids, contributed to by the action of Na+K+ pump and K+ channel
+
+*** Structural Rules
+- Glycolipids tend to be on the luminal side (facing out of cell)
+  - Sugar residues in general tend to be on the outside, forming a carbohydrate layer
+- Negatively charged lipids tend to be on the cytosolic side (facing into the cell)
+
+*** Thermodynamic Changes
+- Gel-like consistency at lower heats
+- Fluid-like consistency at higher heats
+
+*** Lipid Raft
+- Grouping of phosphatidylcholine + sphingomyelin + cholesterol on the cell membrane
+
+*** Protein Association Mechanisms
+**** Integral (Transmembrane)
+- Single-Pass Protein :: Single transmembrane alpha-helix structure through the membrane, with the NH2 on the cytosolic side and COOH on the luminal side
+     - Often act as receptors
+- Multi-Pass Protein :: Multiple transmembrane alpha-helix structures through the membrane, with NH2 on the cytosolic side
+     - Example: Bacteriorhodopsin - captures light to be used to power a proton pump across the membrane
+     - Example: Serpentine (G-Protein-Coupled) Receptor - has an extracellular ligand-binding site and an intracellular domain
+- Beta-barrel :: beta-sheet that is rolled into a circle and crosses the membrane
+		 Porin - beta-barrel used as a channel
+
+***** Hydropathy Plots
+- Positive Hydropathy Index: alpha helix (transmembrane part)
+- Negative Hydropathy Index: outside of membrane (either cytosolic or luminal)
+- Oscillating Hydropathy Index: porin or other beta-barrel
+
+**** Peripheral
+- Amphiphatic Alpha-Helix :: Alpha helix is curved into a circle, with part of its residues in the membrane and others outside
+- Lipid binding domains are either based on charge or based on recognition of lipid-head groups (PIPs)
+
+***** Methods of Protein Assocation with Bilayer
+****** Acylation at a Gly amino acid
+- Post-translational modification of proteins via attachment of functional groups through acyl linkages
+- One prominent type is fatty acylation - addition of fatty acids to particular amino acid
+- Observed as mechanism of biological signaling
+
+***** Categories of Lipid Anchors
+****** Attach protein from inside
+- Binds N-terminus (myristoylation) - amide linkage between terminal amino group and myristic acid
+  - Necessary but not sufficient for membrane binding
+  - Irreversible, but protein binding to the membrane is regulated
+- Binds C-terminus (Prenylation)
+- Binds in the middle
+
+******* N-Terminal Myristoylation
+- Amide linkage between terminal amino acid and myristic acid
+- Positively charged protein surface
+- Negatively charged membrane surface
+- Src is an important tyrosine kinase involved in many signaling pathways
+  - N-Terminal
+  - SH4 :: Myristoylation site
+  - Unique domain
+  - SH3
+  - SH2
+  - SH2-Kinase Linker
+  - SH1 Kinase Domain :: autophosphorylation site
+  - C-Terminal
+- v-Src is dominant active form of c-Src
+
+******* Prenylation at a Cys amino acid
+- Transfer of either a farnesyl or geranyl-geranyl moeity to C-terminal cysteine(s) of target protein
+- 3 enzymes that carry out renylation: farnesyl transferase, Caax protease, geranylgeranyl transferase I
+- Farnesylation :: type of prenylation - post-translational modification of proteins by which an isoprenyl group is added to a cysteine residue
+		   important process to mediate protein-protein interactions and protein-membrane interactions
+- Involves transfer of either a farnesyl (C15) or a geranyl-geranyl (C20) moiety to C-terminal cysteine(s) of the target protein
+- Irreversible but regulated
+- Rab is a small GTPase important for regulation of membrane trafficking
+- Release prenyl anchored inserted into the bilayer
+
+******* Palmitoylation
+- Cysteine in a specific environment <-> Palmitic acid
+  - Joined by a thioester linkage between cysteine and palmitic group
+- Reversible
+- Has a role in synaptic transmission, holding proteins together by being linked to membrane
+
+****** Attach protein on outside
+******* Glycosylphosphatidylinositol (GPI) Anchor
+- Protein anchor made of inositols attached to glycerol attached to fatty acid chains
+- Protein binds at an ethanolamine
+- Protein CD59 prevents C9 polymerisation
+- Results of Faulty GPI Anchors
+  - Thrombosis
+  - Impared quality of life (fatigue, pain, renal empairment, etc)
+  - Smooth muscle dystonia
+  - Anemia
+
+** Transport and Signaling
+*** Permeability
+- Hydrophobic molecules (O2, CO2, N2, steroids) :: permeable
+- Small, uncharged polar molecules (H2O, urea, glycerol, NH3) :: somewhat permeable
+- Large, uncharged polar molecules (glucose, sucrose) :: mostly inpermeable
+- Ions (H+, Na+, HCO3-. K+, Ca+2, Cl-, Mg+2) :: impermeable
+
+*** Exocytosis
+- Transport of cargo from inside the cell to outside via vesicle fusion with the cell membrane
+
+*** Endocytosis
+- Transport of cargo from outside the cell to inside via vesicle formation from the cell membrane
+
+*** Signaling
+- Extracellular signal activates a receptor protein
+- Receptor protein causes a response inside the cell, such as activating kinase
+- Chain reaction causes relay signals to eventually reach a response from the cell
+
+** Suggested Models of Plasma Membrane
+*** Gorter and Grendel Model
+- Simple lipid bilayer
+
+*** Danielli-Daveson Model
+- Lipid bilayer coated by proteins
+- Polar pores going through the bilayer that is surrounded by protein coat
+
+**** Frye and Edidin Experiment to Challenge Model
+- Mouse cell and human cell were fused
+- Fluorescein-labeled antibodies attached to the mouse membrane proteins
+- Rhodamine-labeled antibodies attached to the human membrane proteins
+- Cell was incubated and movement/redistribution of proteins was observed
+
+***** Fluorescence Recovery after Photobleaching (FRAP)
+- Modern approach to same experiment
+- Proteins on cell membrane are tagged with fluorescence
+- A section is bleached via laser
+- Movement of fluorescence is measured, with an observed recovery
+
+**** Pinto da Silva and Branton Challenge Experiment
+- Freze-fracture electron microscopy :: lipid bilayer is frozen, then cleaved into monolayers by knife, leaving behind the proteins on one layer or the other
+- E-Face :: inside surface of monolayer closest to extracellular space
+- P-Face :: outside surface of monolayer closest to intracellular space
+
+*** Fluid-Mosaic Model
+- Lipid bilayer has proteins mixed into the bilayer, where everthing is free-moving
+
+** Experimental Techniques to Study Membrane Proteins
+- Using detergents to solubilize integral membrane proteins
+  - Ionic detergents
+  - Nonionic detergents - Detergent monomers form detergent micelles with the heads facing out
+                        - Water-soluble protein-lipid-detergent complex forms
+			- Water-soluble lipid-detergent micelles 
+- Reincorporation of soluble integral membrane proteins into phospholipid membranes
+  - Liposomes can be made using the isolated protein
+  - Detergent is removed from protein and then protein is formed with phospholipids to make a liposome
+- Use specific enzyme treatment to study membrane protein orientation
+  - Orientations can be detected by radioactive labeling or protease treatment
+  - Example: Sialidase removes sialic acid from protein, and pronase cleaves peptide bonds
+
+*** Red Blood Cells
+- Good system for the study of membrane proteins
+
+**** Properties
+- No nucleus
+- No internal membranes, only a plasma membrane
+
+**** Methods
+***** Lysis
+- RBCs can be lysed by putting them in water
+- Contents, primarily hemoglobin, is released and the membrane reseals to form a "ghost"
+- Under special conditions (varying specific ions), one can get membranes to reseal inside-out
+
+***** SDS Gel Electrophoresis
+- Used to separate proteins from RBC membrane
+
+1. Membrane fragments are solubilised with SDS, which coats polypeptides and gives them a net negative charge
+2. A small sample of solubilised polypeptides is placed into a well at the top of a gel of polyacrylamide that is held between 2 glass plates
+3. Each polypeptide moves down the gel at a rate that is inversely related to size (smallest polypeptides reaching the bottom first)
+4. Gel is stained with a dye that binds to polypeptides and makes them visible
+5. Polypeptide profile for main membrane proteins of the human erythrocyte
+   - Spectrin
+   - Ankryin
+   - Anion exchange protein
+   - Actin
+   - GPD
+
+****** Determining Which Membranes are Integral and Which are Peripheral
+1. Extract membranes with high salt, low salt, high pH, denaturing agents
+2. Pellet membranes - extracted peripheral proteins will remain in supernatant
+3. Run an SDS gel of the pellet to determine which bands have been extracted
+
+Results: 
+- Actin, spectrin, 4.1 were lost after low salt
+- Ankyrin was lost with denaturing agents
+- After titron treatment, pelletable material no longer contained band 3 or glycophorin
+
+Interpretation:
+- Peripheral membranes: alpha-spectrin, beta-spectrin, ankyrin
+- Integral, glycosylated: band 3, glycophorin
+- Peripheral: band 4.1
+- Peripheral: actin
+
+- Proteins are localised in human red blood cells
+
+*** Test Association Summary
+- Successfully treat membranes with various extractions
+- NaCl or KCl (> 150mM) to disrupt ionic interactions
+- Acidic or basic pH - to alter charge of the protein
+- Chelators (EDTA, EGTA) - to disrupt associations
+- Urea or guanidine - interrupt hydrophobic interactions
+- Detergent: Triton X-100 - solubilize the membrane but do not denature the membrane protein
+- SDS - solubise membrane and denature membrane protein
+
+* Membrane Transport
+- Proteins synthesised from free ribosomes in cytosol go to nucleus, mitochondria, chloroplasts, and peroxisomes
+- Proteins synthesised from membrane-bound ribosomes go to plasma membrane, secretory vesicles, and lysosomes
+
+** Mechanisms that Organelles Import Proteins
+- Transport from the cytoplasm into the nucleus through nuclear pores
+- Transport from the cytoplasm to organelles by protein translocators in the membrane
+- Transport from ER to other organelles occurs via vesicles
+
+** Protein Targeting
+*** General Mechanism
+1. Cargo-filled vesicle is budded from a donor compartment
+2. Vesicle is transported through the cytoplasm
+3. Vesicle is fused into the target compartment, allowing the cargo to enter the cell
+
+*** Pathway Mechanisms
+**** Gated Transport
+- Cytosol <-> Nucleus
+
+**** Transmembrane Transport
+- Cytosol -> Mitochondria
+- Cytosol -> ER
+- Cytosol -> Plastids
+- Cytosol -> Peroxisomes
+
+**** Vesicular Transport
+- ER <-> Golgi
+- Golgi <-> Late Endosome -> Lysosome
+- Early Endosome -> Late Endosome
+- Early Endosome <-> Cell Exterior
+- Golgi <-> Early Endosome
+- Golgi -> Cell Exterior
+- Golgi <-> Secretory Vesicles -> Cell Exterior
+
+**** Signal Sequences
+- Assists in sending proteins to their destinations
+
+- Import into Nucleus
+- Export from Nucleus
+- Import from Mitochondria
+- Import into Plastid
+- Import into Peroxisomes
+- Import into ER
+- Return to ER
+
+***** Uptake-Targeting Sequence
+- Target: ER lumen - N-terminus sequence - Core of 6-12 hydrophobic AA, often preceded by one or more basic AA (Arg, Lys)
+- Target: Mitochondrion matrix - N-terminus sequence - Amphiphatic helix, 20-50 residues in length, Arg and Lys residues on one side and hydrophobic residues on the other
+- Target: Chloroplast stroma - N-terminus sequence - No common motifs, generally rich in Ser, Thr, and small hydrophobic residues and poor in Glu/Asp
+- Target: Peroxisome matrix - C-terminus sequence - PTS1 signal (Ser-Lys-Leu) at extreme C-terminus
+  - N-terminus sequence - PTS2 signal at N-terminus
+- Target: Nucleus nucleoplasm - Varying squence location - Multiple kinds; common motif includes short segment rich in Lys and Arg
+
+** Nuclear Transport
+- Nuclear membrane and ER evolved in eukaryotic cells from prokaryotic cells which only had floating DNA and ribosomes on the cell membrane
+- Ribosome assembly requires bidirectional nuclear transport - Ribosomal proteins made by ribosomes synthesise into ribosomes in the nucleolus, then exported into the cytoplasm
+- Cytosolic proteins are required for nuclear transport
+  - Digitonin used to permeabilise the cell membrane, allowing cytoplasm to leak out while leaving nucleus intact
+
+*** Signals
+- Uncleaved and found at various points
+- No consensus
+- Mutation of NLS signal will cause proteins to be unable to localise in regards to their destination in the nucleus
+
+- NLS :: Nuclear localisation signal - basic - Traffic into nucleus
+	 Not removed after import into nucleus because proteins imported into nucleus will have to be repeated continuously
+- NES :: Nuclear export signal - leuicine rich - Traffic out of nucleus
+
+**** Importin Beta Family
+- Model A = Cargo proteins have a nuclear localisation signal that binds to nuclear import receptor
+- Model B = Cargo protein binds to a nuclear import adaptor protein, which then binds to nuclear import receptor
+
+*** Nuclear Pore Complex (NPC)
+- Most transport goes through nuclear pores
+  - Transmembrane protein complex 16x bigger than ribosome made of over 30 proteins that spans the nuclear envelope
+- Cytoplasmic filaments extend into the cytoplasm
+- Nuclear basket goes into the nucleoplasm, ending in a terminal ring
+- Disorderd region of channel nucleoporins within the complex
+
+**** Mechanism
+- Protein complex hop on FG repeats along the nuclear pore fibrils
+
+1. Nuclear import receptor leaves the nucleus into the cytosol
+2. Nuclear import receptor binds to nuclear protein
+3. Receptor-protein complex enters the nucleus through the NPC
+4. Receptor and protein detach from each other
+
+*** Constitutive Nuclear Transport
+- RNA texport (tRNA, mRNA)
+- Protein export (assembled ribosomal subunits)
+- Protein import (DNA polymerases, histones, lamins)
+- Shuttling (nucleolar proteins)
+- Ions, metabolites (calcium, nucleotides) - channel
+
+*** Ran-GTPase
+- In cytoplasm: GDP-Ran
+- In nucleus: GTP-Ran
+
+- Importin alpha with NLS either goes to Cargo or Ran-GTP
+- Exportin either goes to Cargo + Ran-GTP or None
+
+**** Import
+- Import receptor binds either cargo or Ran-GTP
+
+***** Steps
+- Protein with a NLS binds to import receptor and enters the nucleus
+- Ran-GTP binds to nuclear import receptor, allowing the cargo to detach
+- Receptor + Ran-GTP leaves the nucleus
+- Ran-GTP is hydrolysed to Ran-GDP and the receptor is ready for use again
+
+**** Export
+- Export receptor binds either cargo + Ran-GTP or none
+
+***** Steps
+- Protein with nuclear export signal (NES) binds to receptor along with Ran-GTP
+- Complex leaves the nucleus
+- Ran-GTP is hydrolysed to Ran-GDP, also allowing cargo to detach
+- Nuclear export receptor is brought back into the nucleus and is ready for use again
+
+*** Protein Transport in Immune Response
+- Ca++ binds to calcineurin (protein phosphatase)
+- Nuclear factor of activated T-cells (NF-AT) binds to calcineurin, releasing 3 Pi
+- Calcineurin blocks the NF-AT nuclear export signal while exposing the NLS
+- NF-AT import triggers gene transcription, and calcineurin is released into nucleus
+- ATP+ active protein kinase binds Pi to NF-AT, exposing the NES and removing it from the nucleus
+
+*** Nuclear Envelope and Mitosis
+- Interphase: Nuclear lamins are phosphorylated, enveloped chromosomes are fused
+- Prophase: Phosphorylated lamins break apart, also disassembling the reset of the nuclear envelope
+- Early Telophase: Lamins are dephosphorylated, bringing back the nuclear envelope fragments into place
+- Late Telophase: Nuclear envelope fragments are fused back together
+
+** Mitochondrial Transport
+- Mitochondria evolved from a separate aerobic prokaryotic cell that then entered an anaerobic eukaryotic cell and htey stayed together
+- Energy-producing compartment
+- Has its own DNA and ribosomes
+- Most proteins are nuclear encoded
+
+*** Components
+- Outer Membrane
+- Intermembrane Space
+- Inner Membrane
+- Mitochondria Matrix
+
+*** Protein Import
+- Proteins are imported into 4 distinct compartments:
+  1. Mitochondrial matrix
+  2. Intermembrane space
+  3. Inner membrane
+  4. Outer membrane
+
+- Import takes place through translocation intermediate
+- Folded protein is taken into the mitrochondria, NH3+ first, getting unfolded as it is imported, then refolded once inside
+
+**** Signals
+- N-terminal uptake ‘signal’ sequences, 25-50 aa’s
+- Form amphipathic alpha-helices
+- Additional localization signals (later)
+
+**** Studying Import
+- Import leads to protease protection and change in size due to removal of import sequence
+
+***** Steps
+1. Yeast mitochondrial proteins made by cytoplasmic ribosomes in a cell free system
+2. Protein taken up into mitochondria; uptake-targeting sequence removed and degraded
+3. Proteins sequestered within mitochondria are resisten to trypsin
+4. Uptake-targeting sequence and mitochondrial protein degrdaded
+
+**** Import Protein Complexes
+***** General Steps
+- Precursor protein binds to TOM complex receptor protein by the signal sequence
+- Protein is inserted into the membrane via TOM complex, going from the cytosolic space to the intermembrane space
+
+***** Transport into Matrix
+- TIM23 complex brings the protein into the mitochondrial matrix
+- Signal peptidase cleaves off the signal sqequence
+- Hsp60 folds the protein into a mature mitochondrial protein
+
+***** Transport into Intermembrane Space
+- Protease cleavage keeps the protein tn the intermembrane space
+
+***** Inner Membrane Protein
+- Intermembrane space chaperones bind to the protein as it enters through te TOM complex
+- Protein is brought into the TIM22 complex, where it then moves the protein into the membrane
+
+- Alternative: OXA complex moves protein from matrix into inner membrane
+
+***** Chaperones
+- Cytosolic hsp70 chaperone proteins keeps the precursor protein straightened and avoid folding before it is imported
+- Mitochondrial hsp70 chaperone proteins helps bring the protein into the mitochondria
+- Chaperone proteins are removed from the mitchondrial protein via hydrolysation of ATP to ADP, which also provides energy for transport
+
+***** SAM Complex
+- Imports a protein and then moves the protein into the membrane
+
+** ER and Golgi Transport
+*** ER
+ - Plays a role in synthesis of secreted proteins, membrane roteins, sterolsm, and phospholipids
+ - Also used for protein folding, N-linked glycosylation, and lipid modification and transport
+ - Rough ER :: Used for protein synthesis (transmembrane, luminal, secreted proteins)
+ - Smooth ER :: Exit sites for newly synthesised proteins, used for lipid synthesis, and steroid hormone synthesis from cholesterol
+ - ER aseembles most lipid bilayers
+
+**** Protein Sorting
+ - Protein synthesised in cytosol go to organelles and to rough ER
+ - Protein requires an ER signal sequence to successfully go into the ER
+ - Signal for import is a hydrophobic stretch
+
+**** Translocation Pathways
+ - Co-Translation Translocation occurs when the ribosome feeds directly into the Sec61 complex
+ - Post-Translation Translocation in eukaryotes involves a Sec62,63,71,71 complex holding open the Sec61 complex for the protein to feed through
+   - Chaperones attached to the protein on the inner side, removing themselves through BiP ATP hydrolysis
+ - Post-Translational Translocation in bacteria involves SecA feeding a protein through using ATP hydrolysis
+
+**** Secretory Pathway in Pancreatic Cells
+ 1. Rough ER
+ 2. Smouth ER (exit sites)
+ 3. ER-Golgi intermediate compartment
+ 4. Cis-Golgi
+ 5. Trans-Golgi
+ 6. Secretory vesicles
+ 7. Plasma membrane or extracellular space
+
+**** Types of ER Membrane Proteins
+ - Type I :: COO- cytosolic, NH3+ luminal, single alpha helix, main complex luminal
+ - Type II :: NH3+ cytosolic, COO- luminal, signal alpha helix, main complex luminal
+ - Type II :: COO- cytosolic, NH3+ luminal, single alpha helix, main complex cytosolic
+ - Type IV :: COO- cytosolic, NH3+ luminal, multi-pass alpha helices
+ - GPI-Linked Protein :: Protein is bound to a GPI anchor
+
+**** Synthesis of Lumenal (Secreted) Proteins on Rough ER
+ - Cytosolic ribosome creates protein that enters the ER lumen through an open translocator
+ - Signal peptidase cleaves the protein, closing the translocator and leaving the protein inside the ER lumen
+ - Positively charged side prefers being in the lumen
+
+***** Signal Peptide Recognition and Delivery to the ER
+ - Achieved by a Signal Recognition Particle (SRP) attached to the ribosome
+ - Signal sequence on polypeptide chain coming out of the ribosome binds to SRP, which in turn binds to the ribosome elongation factor binding site
+ - SRP binds to a SRP receptor on the ER lumen
+ - Protein then unbinds to SRP and goes through protein translocator, leaving SRP connected to the receptr
+ - SRP detaches from the receptor, available for use agai
+
+***** Protein Translocator
+ - Plug covers center of the translocator when no signal peptide is bound
+ - Plug is displaced and the peptide chain can enter the lumen when a signal peptide binds
+
+***** Single Pass Protein Synthesis
+ - Protein is passed through, start-transfer signal sequence first
+ - Protein continues passing through until stop-transfer sequence reached
+ - Signal peptidase cleaves the protein from the start-transfer sequence and the translocator closes
+ - Protein is removed from translocator
+
+ - If a signal-anchor sequence is in the middle, the protein is passed through one way until it is fully through
+
+***** GPI-Anchored Protein Synthesis
+ - GPI-anchored proteins have a hydrophobic side and a polar side (polar side having the NH3+)
+ - Precursor protein is originally bound to the cytosol
+ - GPI transamidase attaches it to the GPI anchor
+
+***** Double Pass Protein Synthesis
+ - Start-transfer sequence binds to translocator like with single pass proteins
+ - Protein is passed through until stop-transfer sequence is reached
+ - Protein leaves translocator, resulting in the protein having had two passes in the membrane
+
+***** Multi-Pass Protein Synthesis
+ - Same steps as double pass
+ - After the stop-transfer sequence, there is another start-transfer sequence that goes into the translocator
+ - This starts the process again, and goes until there are no more start-transfer sequences
+
+**** N-Linked Oligosaccharide
+ - Binds to the precursor protein
+ - Binds to calnexin in the ER lumen so that proper folding can occur
+ - Each pass through calnexin removes one glucose until the protein is folded and there are none left
+
+**** Protein Folding in the ER
+ - Chaperones are essential to proper folding
+   - Act as ATPase
+   - Recognises incorrectly folded proteins
+   - Recognises proteins that are not aassembled to oligmeric complexes yet
+
+***** Misfolding
+ - Misfolded protein is spit back out into the ribosome, where it is ubiquitinated
+ - Ubiquitin signals for the protein to be digested by proteasome
+
+****** Misfolding Protein Sensors
+ - IRE1 - regulated mRNA splicing initiates translation of gene regulatory protein
+ - PERK - phosphorylation inactivates translation intiation factor, causing slective translation of gene regulatory protein 2
+ - ATF6 - regulated proteolysis releases gene regulatory protein 3
+
+ - Gene regulatory proteins cause activation of genes to increase protein folding capacity of ER
+
+****** Steps
+ 1. Misfolded proteins in ER signal the need for mroe ER chaperones by activating a transmembrane kinase
+ 2. Activated kinase turns into an endoribonuclease
+ 3. Endoribonuclease cuts specific RNA molecules at two positions, removing an intro
+ 4. Two exons are ligated to form an active mRNA
+ 5. mRNA is translated to make a gene regulatory protein
+ 6. Gene regulatory protein enters nucleus and activates genes encoding ER chaperones
+ 7. Chaperones are made in ER, where they help fold proteins
+
+****** Unfolded Protein Response
+ 1. Unfolded proteins bound to BIP
+ 2. Ire1 dimer with endonuclease splices Hac1 mRNA
+ 4. Cut mRNA gets spliced and translated into Hac1 transcription factor
+
+**** Experimental Methods
+***** Pulse Chase Experiment
+ - Radioactive amino acids are added during the pulse period, creating radioactive proteins
+ - Nonradioactive amino acids are added during the chase period, creating normal proteins afterwards
+ - Radioactive proteins will cause black spots to show when cell is observed, allowing for protein tracking
+
+***** Differential Centrifugation
+ - Low speed centrifugation is applied to cell homogenate, creating a pellet containing whole cells, nuclei, and cytoskeletons
+ - Supernatant is subjected to medium-speed centrifugation, creating a pellet containing mitochondria, lysosomes, and peroxisomes
+ - Supernatant is subjected to high-speed centrifugation, creating a pellet containing microsomes and small vesicles
+ - Supernatant is subjected to very high speed centrifugation, creating a pellet containing ribosomes, viruses, and large macromolecules
+
+***** Microsome Fractions
+ - ER is homogenised into rough and smooth microsomes
+ - Microsomes are added to a gradient of increasing sucrose concentration
+ - Centrifugation separates the microsomes, with smooth microsomes being on top and rough microsomes being on the bottom
+
+*** Golgi
+- Uncoated vesicles from ER fuse to form vesicular tubular clusters
+  - Also known as ER-Golgi Intermediate Compartment (ERGIC)
+- Receives, modifies, and sorts cargo
+- Protein glycosylation: forms oligosaccharides
+
+- cis-Golgi network :: closest to the ER
+- trans-Golgi network :: closest to the plasma membrane
+     Responsible for vesicle-mediated protein sorting (lysosome, secreted from cell, endosome)
+
+**** Traffic from trans-Golgi Network
+- Signal mediated diversion to lysosomes
+- Signal mediated diversion to secretory vesicles (for regulated secretion)
+  - Smaller vesicles keep combining until a mature vesicle is formed
+  - Fuses with plasma membrane to secrete cargo once a signal is received by the cell
+- Constitutive secretory pathway
+  - Newly synthesised vesicle fuses and releases with no signaling needed
+
+*** Role of pH
+- Lower pH = peptide binding - associated with the cis-Golgi network
+- Higher pH = peptide release- associated with the ER
+
+*** Endosomes
+- Vesicle leaves the Golgi and is fused with a late endosome
+- Vesicles from the plasma membrane can also fuse with a late endosome
+- late endosome/multi-vesicular body will go to a lysosome, which will then digest its contents
+
+*** Lysosome
+- Contains hydrolases: nucleases, proteases, glycosidases, lipases, phosphatases, sulfatases, phospholipases
+- Maintains a slightly basic environment via an ATP-dependent H+ pump
+
+*** M6P
+- Marker for lysosome delivery
+- Recruits hydrolases
+
+**** Attachment
+- Protein with terminal mannose residue is sent through phosphotransferase, which adds GlcNAc-P to it
+- This is then released and lysosomal hydrolase removes GlcNAc
+- This leaves just M6P
+
+** Vesicular Transport
+- Donor compartment uses its membrane to create a vesicle via budding
+- Vesicle reaches target compartment and fuses
+
+*** Coated Vesicles
+- Different coated vesicles function at different locations
+
+**** Clathrin
+- Signal: PI(4,5)P2
+- Adaptor: AP-2
+- Coat: Clathrin
+
+- Comes to and from cell membrane
+- Consists of heavy chains and light chain
+
+- Scission of budded vesicle is done through energy from GTP
+- Uncoating of vesicle is done through energy from ATP (using chaperone-like Hsc70)
+
+***** Vesicle Formation
+1. Cargo binds to receptor, causing adapter protein to start to recruit adapter protein and membrane-bending proteins
+2. Membrane starts to bend, forming a bud
+3. Membrane bending and fission proteins pinch off the vesicle, releasing the vesicle
+4. Proteins are uncoated from the vesicle, resulting in a naked transport vesicle
+
+***** Dynamin
+- Has membrane-binding domain and GTPase domain
+- Acts as a motor
+- Binds membrane lipids
+- Membrane binding stimulates oligomerisation into rings of helices
+- Oligomerisation stimulates GTPase activity, which increases pitch of the helix
+
+- Invaginations are stalled if dynamin cannot hydrolyse GTP
+- Scission failure in neuronal synapses in the absence of dynamins
+- Pinches off vesicle normally
+
+**** COPI
+- Comes from Golgi apparatus to ER, as well as between Golgi cisternae
+
+***** COPI Complex
+- Binds to the cargo receptor when a cargo is bound
+- Complex forms a coat, which is then used to form the bud
+
+***** Retrieval of ER Resident Proteins
+- Soluble ER resident protein bound to KDEL binds to KDEL receptor
+- Transmembrane Er resident protein/ released cargo receptor is recruited as well as a COPI coat to form a vesicle
+
+**** COPII
+- Signal: Sar1 - small GTPase
+- Adaptor: Sec23/24
+- Coat: Sec13/31
+
+- Comes from ER to the Golgi apparatus
+
+***** Sar1-GTP
+- Signal to assemble COPII vesicles
+- Inactive monomeric GTPase is activated by GTPase-activating protein (GAP)
+- Active monomeric GTPase is inactivated by guanine nucleotide exchange factor (GEF)
+
+- Inactive, soluble Sar1-GDP with an amphililic helix is activated by Sar1-GEF
+- Active, membrane-bound Sar1-GTP is bound to the donor membrane (ER)
+
+- Recruits Sec23/24 adaptor
+
+***** Sec23/24 Adaptor
+- Sec23/24 has a bound cargo receptor
+- Cargo receptor binds to cargo
+- Sec23/24 recruits Sec13/31
+
+***** Sec13/31
+- COPII coat protein
+- Is recruited for the formation of the vesicle
+- Coat is formed through polymerisation
+
+**** Adapter Proteins
+- Recognises signals
+- Recruits coat, cargo, and accessory proteins
+
+***** Adapter Protein 2 (AP-2)
+- AP2 is locked at first
+- AP2 becomes open when bound to PI(4,5)P2 and cargo receptors
+
+
+**** SNAREs
+- Acts a fusion machinery
+- Used in neurons to keep the synapse together
+- Acts as specificity for fusion since only matching SNAREs will fuse
+
+***** Steps
+1. v-SNARE and t-SNARE bind together
+2. Trans-SNARE complex forms a stalk
+3. Hemifusion of the membranes occurs
+4. Fusion occurs, releasing the contents of the vesicles
+
+***** Tethering
+- Cargo vesicle can be tethered on its Rab-GTP to a Rab effector
+- Docked vesicle is then brought closer to the membrane where it will be docked using SNAREs
+- GTP-bound Rab binds to the vesicle
+- GDP-bound Rab binds to Rab-GEF where it has its GDP replaced with GTP
+
+***** Unbinding SNAREs
+- Requires energy
+- Accessory protein, NSF, and ATP are recruited, dissociating the v-SNARE from the membrane
+
+** Endocytosis
+- Act of cell taking in cargo from outside via vesicles
+- Receptor-mediated endocytosis is more effective than fluid-phase endocytosis
+
+*** Receptor-Mediated Endocytosis
+- Uses clathrin-coated vesicles
+- Uses clathrin proteins for coating
+
+*** Phagocytosis
+- Cell taking in foreign cells (bacteria) and killing/digesting them
+- Activated by PI 3-kinase, turning PI(4,5)P2 into PI(3,4,5)P3
+
+*** Macropinocytosis
+- Fluid-phase endocytosis
+- Signaling receptor is activating, causing the cell to engulf extracellular fluid and solutes into a vacuole
+
+*** Endocytosis of Cholesterol
+- LDL :: Low density lipoprotein particle
+- Particle is received by LDL receptor and taken into cell via clathrin coated vesicle
+- Vesicle is turned into an early endosome, maturing into a lysosome
+- Defect in the coated-pit binding site causes bound LDL ot not be able to be brought into the cell
+
+*** Transferrin
+- Brings Fe+3 into the cell
+- Fe+3 beinds to tranferrin, which then binds to membrane receptors
+- Membrane receptors then create a vesicle containinng transferrin
+- The Fe+3 is removed in a late lysosome, while the now "empty" transferrin is released
+- Receptor is back in the membrane
+
+*** Recycling Endosomes
+- Endosome goes through normal pathway, becoming fused with an early endosome
+- The early endosome releases a transport vesicle, which is then bound to a recycling endosome
+- This recycling endosome releases recycling transport vesicle to be refused with the plasma membrane
+
+- Can establish cell polarity based on what gets recycled in terms of receptor and where
+
+* Cell Signaling
+** Introductory Knowledge
+- First messenger :: signaling molecule that binds to the membrance receptor
+- Second messenger :: molecule that is released from within the cell to cause an internal signaling pathway
+
+- Scafffold Protein :: Holds multiple proteins in a cascade close-by to facilitate a signaling pathway
+- Multiple pathways that affect the same proteins will cause a stronger downstream response
+- Signal amplification is caused when a secondary messenger is created in multiples, allowing 1 first messenger to produce many secondary messengers
+
+*** General Diagram
+1. Extracellular signal molecules
+2. Receptor protien
+3. Intracellular signaling proteins/pathway
+4. Effector Proteins
+5. Function
+
+*** Results of Extracellular Signals
+- Survival
+- Grow/Divide
+- Differentiate
+- Die
+
+*** Types of Signal Transfer
+- Contact-Dependent :: membrane-bound signal molecule of one cell touches membrane-bound receptor molecule of another
+- Paracrine :: Signaling cell sends local mediator signal to surrounding target cells
+- Synaptic :: Neuron releases neurotransmitter at synapse to be received by an adjacent target cell
+- Endocrine :: Endocrine cell releases hormone to be carried in blood to a far away target cell
+- Autocrine :: cell signals to itself
+
+*** Receptors
+- Protein that binds signals and initiates cascade
+- Membrane receptors :: integral membrane proteins that bind exxtracellular signal and causes a cascade
+- Intracellular receptors :: nuclear hormone receptors
+
+**** Classes of Cell-Surface Receptor Proteins
+- Ion-Channel-Coupled Receptors :: ligand binding causes channel to open and ions go in
+- G-Protein-Coupled Receptors :: binding causes G-protein activation which triggers a cascade
+- Enzyme-Coupled Receptors :: binding causes receptors to dimerise, activating the catalytic domain or an associated enzyme
+
+**** Principles
+1. Each receptor generally binds only a single hormone
+2. Often multiple types of receptors bind the same hormone (e.g. the b2- and a2-adrenergic receptors both bind adrenaline)
+3. Different types of receptors that bind the same hormone often induce different cellular responses even in the same cell
+4. Different receptors of the same class that bind different hormones often induce the same cellular responses in a cell
+  - e.g. In liver epinephrine, glucagon, and ACTH bind to different 7- spanning receptors, but all of these receptors activate the same Gs protein and induce the same cellular response of causing glycogen breakdown
+5. Typical body cells contain on their surface multiple types of receptors that bind different hormones. Cells must integrate the responses induced by hormones acting via different types of receptors.
+
+**** G-protein coupled receptor (GPCR)
+- Receptor with 3 G protein subunits bound to the intracellular side
+- Ligand binding causes GPCR activation which removes GDP from G protein
+- GTP binds instead, and alpha subunit separates from beta-gamma subunit
+
+- cAMP Pathway :: GPCR activation -> adenyl cyclase activation -> cAMP -> PKA activation -> transcription factors produces
+- IP3 Pathway :: GPCR activation -> phospholipase C-beta activation -> IP3 -> Ca++ channel opening -> Protein kinase C activation
+
+***** GTPase
+- Small GTPase :: enzymes that bind to and hydrolyze GTP to GDP
+- P-Loop :: between first beta strand and first alpha helix, interacts with P on GTP
+
+- GTP binding causes switch I and II on G protein to get closer and activate
+
+****** Functions
+- Molecular switch
+- Clock: timing, duration, resetting
+
+***** Desensitisation
+- GPCR kinase phosphorylates activated GPCR
+- Arrestin can bind to the phosphorylated GPCR, preventing reassociation with G protein
+
+**** Enzyme-Linked receptor (receptor tyrosin kinase)
+- Signaling molecule binds to receptors, causing dimerisation, which activates a catalytic domain or associated enzyme
+- Dominant-negative kinase mutants cause overexpression of inactive kinase, meaning some kinase activity remains but no phosphorylation
+
+***** RTK
+- Activated RTKs phosphorylate themselves - dimerisation causes cross-phophorylation
+- The phosphorylated RTK acts as a docking site for intracellular signaling proteins
+- Proteins with SH2 domain can bind to phosphorylated tyrosine
+
+****** GTPase Ras
+- Mediates signaling by most RTKs
+- SH2 domain of Grb2 adaptor protein binds to activated RTK
+- SH3 domain has boud Ras-Gef, which activates Ras-GDP through phosphorylation
+- Activated Ras-GTP causes downstream signaling
+
+****** MAP Kinase Signaling Module
+- Active RAS activates MAP kinase kinase kinase (Raf)
+- MAPKKK activates MAP kinase kinase (Mek)
+- MAPKK activates MAP kinase
+- MAPK cause changes in protein activity and gene expression
+
+****** PI-3-Kinase-Akt Signaling Pathway
+- Stimulates cells to grow and survive
+- Activated RTK recruits activated PI-3-kinase
+- PI-3-K turns IP2 into IP3
+- IP3 recruits PDK1 and Akt
+- Akt gets phosphorylated, becoming active and detaching from IP3
+- Active Akt phosphorylates Bad, which inhibits apoptosis
+
+***** JAK-STAT
+- Cytokin receptors have bound inactive JAK proteins
+- Dimerisation cross-phosphorylates JAK, which then phosphorylates the receptor
+- STAT1 and 2 bind to the receptor at their SH2 domains
+- STAT1 and 2 break off, now phosphorylated and active, and bind to each other
+- STAT complex makes a transcription regulatory complex
+
+****** Blood Cells
+- Filled with hemoglobin - binds O2
+- Transports O2 from lungs to all tissues in body
+- Transports CO2 from tissues to lungs
+
+- Red blood cell production controlled by erythropoietin (Epo)
+  - Produced by kidney in response to low P_O2
+  - Binds to Epo receptors on surface of erythrocyte progenitor cells in bone marrow to stimulate RBC production
+
+******* Receptor
+- JAK2 protein kinase binds to and is activated by erythropoietin receptor
+- Ligand binding locks two Epo receptors into an activated dimer, cross phosphorylating JAK2 kinase
+- JAK-STAT pathway after that
+
+- SHP1 phosphatase deactivates JAK2
+- SOCS protein blocks signal and induces protein degradation through ubiquitin ligase
+
+***** Receptor Serine/Threonin Kinase
+- Ligand (TGF-beta) dimerises type-II TGF-beta receptor and type-I TGF-beta receptor
+- Phosphorylated type-I receptor recruits and phosphorylates Smad2 or 3, then it is let free
+- Smad4 joins to form a complex
+- Complex acts as transcription regulatory complex
+
+****** Roles
+- Inhibition of cell proliferation
+- Induction of synthesis of extracellular matrix proteins: fibronectin, collagens, proteoglycans
+- Inhibition of synthesis of extracellular proteases: collagenase, plasminogen activator
+- Induction of synthesis of inhibitors of extracellular proteases
+- Promotion of cell matrix and cell-cell attachment
+
+** Intracellular Regulatory Proteins
+*** Protein Kinases and Phosphatases
+- Generarlly GTP and ATP are on, GDP and ADP are off
+- Protein kinases and phosphatases regulate most cellular functions
+- Phosphorylation can be detected in a Western blot using antibodies specific to phosphorylated protein
+
+*** GTP-Binding Switch Proteins
+**** G-Protein Coupled Receptors
+- Ligand binding induces a conformational change in the receptor
+- G (GTP- binding) proteins function as on - off molecular switches
+- Certain G proteins activate or inhibit adenylate cyclase: 3’5’ cAMP in turn activates Protein Kinase A
+- Other G proteins activate Phospholipase C, leading to formation of the second messengers Ca2+ and diacylglycerol
+- Signaling is terminated by phosphorylation of the receptor followed by binding of an arrestin protein
+
+*** Rho GTPase
+- Links cell surface receptor to cytoskeleton
+
+*** Experimental Detection
+**** Pulldown Assay
+- Detects GTP-bound form of a G protein
+- GTP-bound Rac protein is detected by its ability to bind to target protein domain
+- Western blot shows
+
+** Experimental Techniques
+*** General
+1. Identify an appropriate radiactive ligand
+2. Prep tissue
+3. Identify a method separating bound from free
+4. Identify a method for distinguishing specific from nonspecific
+
+*** Study Cell Surface Receptors
+- Receptor proteins bind ligands specifically 
+- The dissociation constant is a measure of the affinity of a receptor for its ligand
+- Sensitivity of a cell to external singles is determined by the number of surface receptors and their affinity for ligands
+- Receptors can be purified by affinity techniques
+- Receptors are frequently expressed from closed genes
+
+*** Calculating Equilibrium
+- K_d = K_off / K_on
+- K_off is dissociation rate
+- K_on is association rate
+
+** Factors
+- Agonist :: ligand binding to a receptor and eliciting a response
+- Antagonist :: ligand binding to a receptor but not eliciting a response
+
+* Cytoskeleton
+** General Components
+- Microfilaments - actin
+- Microtubules - alpha-beta-Tubulin dimer
+- Intermediate filaments - varius monomers
+
+** Properties
+- Multiple weak bonds makes polymers stable
+- Rope-like properties occur due to the subunits being staggered
+
+** Actin Cytoskeleton
+- Makes up most protrusions from cell
+
+*** Properties
+- Monomer has a binding cleft
+- Polymer forms as a helix
+- Pointed end is negatively charged (minus end) - grows slowly
+  - C_c = 0.60 uM
+- Barbed end is positively charged (plus end) - grows quickly
+  - C_c = 0.12 uM
+
+- ATP-bound actin adds to filament
+- ADP-bound actin leaves filament
+
+**** Kinetics
+- Lag phase :: G-actin takes a long time to form a stable trimer (nucleation)
+- Growth phase :: Once it forms, the filament will grow quickly
+- Equilibrium phase :: Eventually filament reaches a steady-state due to concentrations balancing growth and shrinkage
+
+- Treadmilling :: when the growth of one end is equal to the shrinkage of another
+
+***** Critical Concentrration
+- Concentration where the rate of subunit addition is equal to the rate of subunits loss
+- Occurs right before net growth
+- k_on * C = k_off
+- C_critical = k_off / k_on = 1 / K = K_d
+
+***** Rates
+- R = K_on [ends][G-actin] - K_off[ends]
+- R = d[F-actin] / dt
+- [F-action] = Rt + [seeds]
+- [F-actin] = (K_on [ends][G-actin] - K_off [ends]) * t + [seeds]
+
+***** At Equilibrium
+- R = 0
+- K_on [ends][G-actin] = K_off[ends]
+- K_on [G-actin] = K_off
+- [G-actin] = K_off / K_on = K_D
+
+*** Functions
+- Pushing
+- Pulling
+- Shaping
+- Adhesion
+- Formation of tracks
+
+*** Regulation
+- ATP cap can be added when the rate of hydrolysis is less than the growth rate on an end
+
+**** Actin Binding Proteins
+- Profilin :: Sequestration, elongation, and nucleotide exchange
+- ADF/Cofilin :: Depolymerisation and inhibition of nucleotide exchange
+- Formin :: assembles actin
+
+**** ARP 2/3 Complex
+- Shortens the lag phase, increasing growth rate by acting as a nucleator
+- F-actin acts as a coactivator
+- Activated by NPF
+- Causing branching off from original filament
+
+**** Capping Protein
+***** Barbed End Capping
+- Prevents further growth
+
+*** Actin Uses
+**** Filopodia Protrusions
+- Actin treadmilling drives protrusion
+- Formin and VASP form a complex at the cell membrane
+- ERM and Fascin hold the filaments
+- Actin is recruited and elongates the protrusion, regulated by profilin and cofilin
+
+**** Lamellipodial Protrusions
+- ADF/cofilin line the filaments
+- Capping proteins bind at the ends once no more growth is needed
+- Arp2/3 complex causes filament to branch
+- Formin and VASP act as elongators and anti-cappers, accelerating growth
+
+**** Listeria
+- Bacteria enters cell through phagocytosis but escapes the phagosome
+- Uses actin tail assembly to move through cell
+
+
+*** Myosin
+**** Myosin II
+- S1-fragment: 2 bits consisting of a motor and a neck
+- Coiled-coil rod
+- NHT
+
+**** Function
+- Drives actin filament movement in vitro
+
+***** Head Action
+- Ca++ exposes troponin for myosin cross-bridge binding
+- ADP + Pi leave the myosin head, so the head moves, pulling actin with it
+- ATP binds to myosin to cause the cross-bridge to detach
+- ATP hydrolysis cocks the myosin head
+
+**** Muscle Parts
+- Sarcomere describes full length
+- A band is the thick filament
+- Z-disk is the vertical parts that move
+- I-band is the section between the Z-disk and the a band
+- M-line is the section in the middle where thin filament is not
+
+- Thin filaments are stabilised by tropomyosin along the length
+
+* Microtubules
+- Microtubule :: polymers of the protein tubulin
+
+** Tubulin
+- Tubulin :: a heterodimer formed from two closely related globular proteins, alpha-tubulin and beta-tubulin, tightly bound together by noncovalent bonds
+
+- Each tubulin subunit has one GTP binding site
+- Alpha-tubulin GTP is trapped at the dimer interface - is a part of the tubulin heterodimer structure
+- Beta-tubulin GTP can be hydrolysed and exchangeable within the soluble tubulin dimer
+
+** Protofilament
+- Composed of alpha/beta-tubulin heterodimers stacked head-to-tail and then folded into a tube
+- Makes up a microtubule
+- Multiple contact points causes a staggered assembly, making the microtubule stiff and hard to bend
+- Each subunit in a protofilament points in the same direction, which the protofilaments aligned in parallel
+
+** Dynamic Instability
+- Microtubule dynamics influenced by binding and hydrolysis of GTP, with hydrolysis only occuring on beta-tubulin subunits
+
+- If the rate of subunit addition is high, then the tip of the polymer stays in the T form, forming a GTP cap (grows)
+- If the rate of subunit addition is low, then the tip will become the D form (shrinks)
+
+- Dynamic instability :: the rapid interconversion between growing and shrinking states
+
+- Growth -> shrinkage = catastrophe
+- Shrinkage -> growth = rescue
+
+- Drugs taht affect polymer stabilisation or destabilisation will cause cell death in dividing cells due to the spindles not working
+
+*** 2 Forms
+- T Form :: GTP bound microtubule structure - straight, strong, lateral structure
+- D Form :: GDP bound microtubule structure - curved
+
+- Energy released from hydrolysis is stored as elastic strain in the polymer lattice
+- D form dissociation free energy change is more negative than T form dissociation free energy change
+- K_off/K_on for GDP tubulin > K_off/K_on for GTP tubulin
+
+** Gamma-Tubulin
+- Gamma-tubulin :: present in smaller amounts than alpha or beta, involved in nucleation of microtubule growth
+- High concentration at the microtubule-organising center (MTOC) where nucleation occurs
+- Gamma-tubulin ring complex (gamma-TuRC) :: Complex where two accessory proteins bind directly to tubulin, serving as a template for nucleation
+
+** Centrosome
+- Centrosome :: Single, well defined MTOC located near the nucleus where microtubules are nucleated at their minus ends, so the plus ends point outward and continuously grow to probe the entire 3D cell volume
+- Recruits more than 50 copies of gamma-TuRC
+- Not completely required for nucleation, as seen through the use of laser pulse destruction
+
+*** Centriole
+- Centriole :: Pair of cylindrical structures arranged at right angles to each other in an L-shaped config
+- Arranged into a barrel shape with striking ninefold symmetry
+- Pericentriolar material :: organised group of centrioles where microtubule nucleation takes place
+
+*** Yeast
+- Microtubules are nucleated at an MTOC embedded in the nuclear enveloped, called the spindle pole body
+- This system is found in plant cells and other fungi as well
+
+*** Animal Cells
+- Aster-like microtubule config has dynamic outward-pointing plus ends that survey outlying cell regions and centers the centrosome
+- Useful as a coordinate system, which helps to position multiple organelles within the cell
+
+** More Dynamics
+- Microtubules in cell exhibit a much higher polymerization rate, a greater catastrophe frequency, and extended growth pauses
+- This is because of governing proteins that bind tubulin dimers
+
+- Microtubule-associated proteins (MAPs) :: proteins that bind to microtubules
+- MAPs can stabilise microtubules gainst disassembly
+- Can also mediate microtubule-cell interactions
+- Protein kinases can target MAPs, which can control activity and localisation
+
+*** Protein Effects
+- Proteins can bind to the ends of microtubules to affect stability and dynamics
+
+- gamma-TuRC - nucleates assembly and remains associated with the minus end
+- +TIPs - remains associated with the growing plus-ends and can link to other structures
+- XMAP215 - stabilises plus ends and accelerates assembly
+- MAPs - stabilises microtubles by binding along the sides
+- Plectin - links to intermediate filaments
+- MAP2 - filament binding and cross-linking
+- Katanin - severs microtubules
+- Kinesin-13 - induces catastrophe and disassembly
+- Stathmin - Binds subunits, prevents assembly
+
+** Motor Proteins
+- Transports cargo and performs other functions
+- Kinesins :: motor proteins that walk towards the plus end, away from the cell center
+- Dynein :: motor proteins that walk towards the minus end, towards the cell center
+
+- Kinesin-1 :: carries organelles away from the cell body towards the axon terminal by walking towards the plus end
+- Axonemal dynein :: has second branch and includes monomers, heterodimers, and heterotrimers with 1, 2, or 3 omotor-containing heavy chains
+     - Designed for rapid and efficient sliding movements of microtubules that drive the beating of cilia/flagella
+
+- Dynactin :: a large protein complex used to assist dynein with translocating organelles effectively
+	      - Contains an actin-like filament formed from Arp1
+
+- Cell can regulate motor protein activity to change either organelle positioning or whole-cell movement
+- Jerky movements is caused by opposing motor proteins tugging, causing a tug-of-war where the stronger protein will cause the overall movement
+- cAMP level decrease inactivates kinesin, which allows dynein to work freely
+
+** Cilia and Flagella
+- Flagella :: Motility machine used to enable cell movement through a medium by undulating itself
+- Cilia :: Beats to propel a single cell through fluid or move fluid over a cell surface
+
+- Axoneme :: core of a cilia or flagella, whose bending produces the movement
+	     - Composed of microtubules arranged in a distinctive, regular pattern
+	     - Axonemal dynein form bridges between neighbouring microtubule doublets
+             - Movement of a doublet causes bending due to linkages that lock the microtubules to a range of motion
+
+*** Primary Cilia
+- Many cells have them
+- Forms at the basal body of the cell membrane
+- Centriole at the core of the basal body
+- Moves cargo in both directions depending on kinesin-2 and dynein-2
+
+* Intermediate Filaments
+- Forms cytoplasmic filament only in some metazoans (vertebrates, nematodes, mollusks)
+- Prominent in cell cytoplasms that are subject to mechanical stress, not found in animals with rigid exoskeletons
+- Phosphorylation most likely regulates disassembly
+
+** Structure
+- Depends on lateral bundling and twisting of coiled-coils
+- Elongated proteins with a conserved central alpha-helical domain contianing 40 or so heptad repeat motifs
+- Forms an extended coiled-coil structure with another monomer
+- Pair of parallel dimers associate the coils in an antiparallel fashion to form a staggered tetramer
+- No polarity, hydrophobic
+- Tetramers pack together to form a filament consisting of 8 parallel protofilaments made of tetramers
+- Individual intermediate filament consists of 32 alpha-helical coils
+
+** Types of Intermediate Filament Proteins
+*** Nuclear Lamin
+- Nuclear (Lamins A, B, C) - Found in nuclear lamina (inner lining of nuclear envelope)
+
+- Found in many eukaryotes but missing from unicellular organisms
+- Forms a meshwork lining the inner nuclear envelope membrane, providing anchorage sites for chromosomes and nuclear pores
+- A type lamins are scaffolds of proteins that control many cellular processes such as transcription, chromatin organisation, and signal transduction
+
+*** Vimentin-Like
+- Vimentin - Found in many mesenchymal cells
+- Desmin - Found in muscle cells
+- Glial fibrillary acidic protein - Found in glial cells (astrocytes and some Schwann cells)
+- Peripherin - Found in some neurons
+
+- Expressed in muscles, forming a scaffold around the Z-disc
+- Used to stabilise muscle fibres
+
+*** Epithelial
+- Type I Keratins (acidic) and Type II Keratins (neutral/basic) - Found in epithelial cells and their derivatives (eg hair and nails)
+
+- Most diverse intermediate filament family - 54 distinct keratins in human genome
+- Each filament consists entirely of either type I or type II proteins, forming a heterodimer filament subunit
+- Cross-linked keratin networks are heald together by disulfide bonds
+- Epithelial cells can produce multiple types of keratins, forming a network
+- Binds to desmosomes, sites of cell-cell contact, to provide mechanical strength
+
+*** Axonal
+- Neurofilament proteins (NF-L, NF-M, NF-H) - Found in neurons
+
+- Found in high concentrations along the axons of vertebrate neurons
+- All three types coassemble in vivo to form heteropolymers
+- NF-H and NF-M have lengthy C-terminal tail domains that bind to neighbouring filaments to generate aligned arrays with uniformed spacing
+- New subunits get added along the axon in a a dynamic process along the filament length and ends
+
+** Plakins
+- Family of proteins that links intermediate filaments to the rest of the cytoskeleton
+- Large and modular, containing multiple domains that connect cytoskeletal filaments to each other and to junctional complexes
+- Plectin :: bundles intermediate filaments and links them to microtubules, actin bundles, and myosin II filaments
+	     helps intermediate filament bundles attach to adhesive plasma membrane structures
+
+** SUN and KASH proteins
+- SUN :: protein found in inner nuclear membrane
+	 binds to nuclear lamina or chromosomes inside the nucleus
+
+- KASH :: protein found in outer nuclear membrane
+	  binds directly to actin and indirectly to microtubules
+
+- They bind to each other within the nuclear envelope lumen, forming a bridge
+
+** Septin
+- Serves as additional filament system in all eukaryotes except terrestrial plants
+- Used for "pinching off" action in cells
+- Assemble into nonpolar filaments that form rings and cagelike structures, acting as scaffolds
+- Recruits actin-myosin machinery that forms contractile ring for cytokinesis
+
+* Cell-Cell Junctions (pg1043)
+** Anchoring Junction
+- Holds cells to each other
+
+*** Cell-Cell
+**** Adheren junction
+- Anchorage sites for actin filaments
+- Linked to contractile bundle of actin filaments and non-muscle myosin II
+- Subject to pulling forces of the actin, as well as the generated force of attached cells
+- Adheren junctions link cells in a way that they can coordinate movements
+
+**** Desmosome
+- Anchorage sites for intermediate filaments
+- Gives epithelia mechanical strength
+- Like adheren, but has special cadherins to link to intermediate filaments instead
+- Looks like buttonlike spots of adhesion, riveting cells together
+- Intermediates connected to desmosomes: keratin and desmin filaments
+
+*** Cell-Matrix
+- Actin-linked cell matrix junction :: anchors actin filaments to the matrix
+- Hemidesmosome :: anchors intermediate filaments to matrix
+
+** Other Cell-Cell Junctions
+- Tight junction :: holds cells closely together near the apex to seal the gap between cells and preventing leakage
+- Gap junction :: creates passageways linking cytoplasms of adjacent cells
+
+** Transmembrane Adhesion Proteins
+- Span the plasma membrane, with one end linking to the cell cytoskeleton and the other linking to an extracellular structure
+- Within the two superfamilies, there is specialisation as to which will form what
+
+*** Cadherin
+- Superfamily of transmembrane adhesion protein that mediates attachment of cell to cell
+- Depends on Ca2+; removing Ca2+ will cause caherin-mediated adhesion to come apart
+
+**** Classical Cadherin
+- Closely related cadherins to the first three cadherins discovered
+
+- E-cadherin :: present in epithelial cells
+- N-cadherin :: present on nerve, muscle, and lens tissue
+- P-cadherin :: present in cells in the placenta and epidermis
+
+- Binding between cadherins are normally homophilic
+- Each cadherin has multiple extracellular cadherin (EC) domain in an extracellular portion
+- Homophilic binding occurs at the N-terminal tips, which lies furthest from the membrane
+- Each domain is rigid, connected by a hinge to the next domain
+- Ca+2 prevents the hinge from flexing, so removing Ca+2 allows the structure to become floppy
+- Receptor binding is usually low affinity, with strength coming from multiple bonds
+- The multiple bonds means that the unbinding can be easiest achived by separating sequentially
+
+***** Catenin
+- Links classical cadherin to actin cytoskeleton
+- Cadherin tail binds to beta-catenin and p120-catenin
+- alpha-catenin then binds with beta-catenin and actin filaments
+
+- Intermediate filaments bind through the use of plakoglobin, which is related to beta-catenin
+- In mature form, adheren junctions are enormous protein complexes packed into dense, regular arrays
+- On the cytosolic side, they form a complex network of catenins, actin regulators, and contractile actin bundles
+
+**** Nonclassical Cadherin
+- Closely related to each other but not to classical cadherin in sequence
+- More than 50 found in the brain
+
+- Includes proteins with known adhesive function
+- Protocadherin :: found in the brain
+- Desmocollins and desmogleins :: forms desmosomes
+
+**** Tissue Organisation
+- Specific cadherins allow for selective recognition, so similar cells can group together
+- Cadherins will disappear and appear during development, allowing for new tissue structures to form
+- Depending on what is being formed, the cell will switch on and off formation of specific cadherins
+
+*** Integrin
+- Superfamily of transmembrane adhesion protein that mediates attachment of cell to matrix
+
+* Extracellular Matrix
+** Integrin
+- COOH domain in cytosol
+- Cysteine rich extracellular domain
+- Extensive extracellular domain head region for matrix binding
+- Matrix head binds to anything with RGD sequence (most ECM proteins)
+
+- Does not bind directly to cytoskeleton -> has adaptor proteins vinculin and talin for that
+
+- Used to control cell proliferation and survival
+
+*** Outside -> Inside Events
+- When integrin binds to ECM, cytosolic domain binds to cytoskeleton, allowing force to be applied to point of activation
+- Activation through ligand binding controls cell motility and gene expression through CTK, GTPases, and MAP kinase
+
+- Starts inactive in the extracellular domain
+- Goes to open conformation with strong ligand binding
+- Causes alpha and beta integrins to separate and begin active
+
+*** Inside -> Outside Events
+- Signals from cytoplasm, often through talin, causes integrins to reach out and bind to ECM, engaging attachment
+- Stimulation of signal pathways increases affinity for ligands
+
+- Strong talin binding occurs
+- Beta integrin is separated from alpha integrin
+
+** Fibronectin
+- Cell attachment and guidance
+- Interacts with integrins and ECM molecules
+- C domain has disulfide bond pair
+
+** Collagen
+- Insoluble, high tensile strength
+- 30% of total body protein
+- Synthesised by fibroblasts, osteoblasts, and cartilage cells
+- Made of a series of triplet Gly-X-Y sequences where X and Y are any amino acid
+- Left-handed helix
+- Cross links form within colllagen fibril
+
+** Lamin
+- 3 different polypeptides
+- Links plasma membrane receptors (integrins and dystroglycans)
+
+* Cell Cycle
+** Regulation
+*** Cdk/Cyclin
+- Goes up and down periodically
+  - Up = transcription/translation
+  - Down = protein degradation
+
+**** Inhibitory Pi and Stimulatory Pi groups
+
+
+**** Cdc20
+- Activated around M-phase to combine with APC/C for activation
+
+**** APC/C
+- Anaphase-promoting complex
+- A ubiquitin ligase responsible for M-CDK degradation
+- Adds polyqbiquitin chain to M-CDK to mark for degradation by proteasome
+
+**** Cohesin
+- Used to keep sister chromatids connected during metaphase
+- Facilitates spindle attachment onto chromosomes
+- Facilitates DNA repair through recombination
+- Responsible for transcription regulation
+
+**** Condensin
+- Protein complex that plays a role in chromosome assembly and segregation
+- Has SMC proteins (structural maintenance of chromosomes), a kleisin regulatory subunit, and HEAT-repeat subunits
+
+- Condensin II is in the cell nucleus during interphase
+- Condensin I is outside the nucleus and can only access chromosomes after the nuclear envelope breaks down
+
+- Both condensins contribute to chromosome assembly, staying associated with the chromosomes after separation
+
+** Markers
+- Centrosome duplication: G1/S
+- Thymidine or BrdU incorporation: S
+
+- Chromatin condensation: G2/M
+- Nuclear envelope breakdown: G2/M
+- Spindle assembly/morphology: M
+- Chromosome alignment/segregation: M
+
+- Spindle disassembly: M/G1
+- Chromatin decondensation: M/G1
+- Nuclear envelope reformation: M/G1
+- Cytokinesis: M/G1
+
+** Mitosis
+- Follows S phase and G2 phase
+- Part of M phase
+
+*** 5 Stages
+- Prophase - chromosomes condense
+- Prometaphase - chromosomes begine to move to center
+- Metaphase - chromosomes are aligned by microtubules
+- Anaphase - chromosomes separate
+- Telophase - chromosomes reform into nuclei and cell begins to pinch (actin activity)
+
+*** Two Major Parts
+**** Early Mitosis
+- Abrupt increase in M-Cdk activity at the G2/M transition
+- Prophase, prometaphase, metaphase
+- M-Cdk and other mitotic protein kinases phosphorylate variety of proteins leading to the mitotic spindle assembly and attachment to sister chromatid pairs
+
+**** Second Part
+- APC/C at metaphase-anaphase transition
+- Triggers destruction of securin, liberating protease that cleaves cohesin and initiates separation of sister chromatids
+- Triggers destruction of cyclins, leading to Cdk inactivation and Cdk target dephosphorylation which causes the rest of the M phase events
+
+*** Role of M-Cdk
+**** Driving Entry
+- M-Cdk brings about all the cell rearragements in early mitosis
+- Most effects are caused by M-Cdk phosphorylating various mystery proteins
+
+- Induces assembly of hte mitotic spindle and ensures attachment to sister chromatid
+- Triggers chromosome condensation - large-scale reorganisation of intertwined sister chromatids into compact rods
+- Eukaryotes: breaks down nuclear envelope and rearranges actin cytoskeletion and Golgi apparatus
+
+**** Helpers
+- Polo-like kinase Plk :: required for normal assembly of a bipolar mitotic spindle
+- Aurora kinase A :: controls proteins that govern spindle assembly and stability
+- Aurora kinase B :: controls sister chromatid attachment to the spindle
+
+**** Depolarisation Activates M-Cdk
+
+*** Role of S-CDK
+- Triggers the formation of E2F protein and DNA replication
+
+*** Checkpoints
+- G1 Checkpoint (between G1 and S): Checks for proper cell size, growth factor availability, and DNA damage
+  - Cell arrest if not passed by Rb
+- S-phase Checkpoint (during S): Checks for DNA replication errors or damage
+- G2 Checkpoint (between G2 and M): Checks for DNA replication errors or damage
+- Mitosis Checkpoint (during M): Checks for chromosome attachment to microtubules
+
+* Apoptosis
+- Programmed cell death that occurs in multicellular organisms
+
+** Features
+- Cell shrinks and condenses
+- Cytoskeleton collapse
+- Nuclear envelope dissassembles
+- Chromatins consdense and break up
+- Cell surface blebs
+- Ready to be engulfed
+
+** Markers
+- Fragmented DNA ladder in gel -> apoptosis enzymes cleave proteins and DNA
+- Phosphotidylserine at outer leaflet of the plasma membrane (labelled with annexin V protein) - eat me signal
+- Cytochrome C release -> lost membrane potential in mitochondria
+- Labelled DNA ends by TUNEL technique -> labels blunt ends of DNA breaks
+- UV treated cytochrome-c-GFP
+
+** Major Killers
+*** Caspase
+- A protease :: Enzyme that degrades proteins
+- Procaspase :: Inactive form with NH2 prodomains
+- Prodomains are cleaved and subunits are reformed to make active caspase with a large and small subunit
+- One initiator caspase activates many executioner caspases
+- Executioner caspases cleave cytosolic proteins and nuclear lamin
+
+** Extrinsic Pathway
+- Triggered by signals from other cells
+- Caspase dependent
+- Death receptors -> TNF receptor, Fas (CD95) receptor, TRAIL
+
+- Generic pathway: Ligand -> death receptor -> death adaptor -> Caspase-8 (initiator) -> Caspase-3, 6, or 7 (effector)
+
+*** Fas-Fas Ligand Mediated
+1. Killer lymphocyte with Fas ligands binds to Fas death receptors on target cell
+2. Fas death receptor death domain recruits FADD adapter protein's death domain
+3. Death effector domain on FADD then recruits death effector domain on procaspase 8 or 10, forming the DISC complex
+4. Caspase 8 or 10 released from DISC, activating executioner/effector caspases, causing apoptosis
+
+*** Regulation
+- FLIP :: protein similar to pro-caspase 8 but lacks a proteolytic cleavage site, blocking actual procaspase 8 from binding and cleaving
+- NF-kB :: transcription factor induced by death receptor signalling that protects from apoptosis
+
+** Intrinsic Pathway
+- Triggered by cell stress or weak external signals
+- Caspase dependent
+- Mitochondrial pathway
+- Endoplasmic Reticulum pathway
+
+- Generic pathway: Pro-apoptotic stimuli reaches organelle -> cytochrome C + Apaf-1 + ATP + Caspase-9 -> Apoptosome -> Caspase-9 -> Caspase-3 or 7
+
+*** Apoptosome Formation
+1. Cytochrome-c is released
+2. Cytochrome-c activates Apaf-1 and bound dATP is hydrolysed to dADP
+3. Exposed CARD domain on the Apaf-1 complex assembled (triggered by release of dADP for dATP)
+4. CARD domain on procaspase-9 is bound, recruiting and activating procaspase-9
+5. Caspase-9 is cleaved in the apoptosome
+6. Executioner procaspases (3,6,7) are cleaved by caspase-9 to caspases and cleave cell components 
+
+*** Regulators
+- Anti-apoptotic Bcl2 proteins :: Bcl2, Bcl-X_L -> inactivates the intrinsic pathway
+- Pro-apoptotic BH123 proteins :: Bax, Bak -> mediates the release of cytochrome c
+- Pro-apoptotic BH3-only proteins :: Bad, Bim, Bid, Puma, Noxa -> inactivates Bcl2 proteins
+
+- IAPs :: regulates caspases by blocking them
+- Anti-IAPs :: neutralises IAPs
+
+* Cancer Cell Biology
+- Continuous uncontrolled cell growth
+- Benign tumour :: confined to original location
+- Malignant tumour :: capable of invading surrounding tissue or rest of body
+
+** Major Types
+- Carcinoma :: epithelial cell cancer
+- Sarcoma :: connective tissue cancer
+- Leukemia/lymphoma :: "liquid" tumours -> blood forming cells or immune system
+
+** Genes for Instability
+- Genes that control survival and cell cycle
+- Genes that provide life support
+- Genes taht control adhesion and migration
+
+*** Proto-Oncogenes
+- Promotes cell survival or proliferation
+- Gain of function mutation allows unregulated cell proliferation/survival (genetically dominant)
+  - Point mutation, chromosomal translocation, amplification
+
+**** Oncogene
+- Mutation that causes overactivity
+- Mutation caused abnormal/hyperactive protein (point mutation, DNA rearrangement)
+- Mutation caused excess normal protein (gene amplifcation or chromosomal translocation)
+
+*** Tumour Suppresor Genes
+- Inhibits cell survival or proliferation
+- Loss of function mutation allows unregulated proliferation and survival (genetically recessive)
+  - Arise by deletion, point mutation, methylation
+
+*** DNA Repair Genes
+- Repairs or prevents DNA damage
+- Loss of function mutation allows mutations to accumulate (genetically recessive)
+  - Deletion, point mutation, methylation
+
+*** Telomerase
+- Telomeres are constantly shortening per replication
+- When they are too short, no more replication of that cell
+- Mutated telomerase means telomeres will no longer get shortened, and can replicate forever
+
+** Major Genes
+*** p53
+- Tumour suppressor
+- Responsible for DNA damage response
+- Responds to hyperproliferative signals, DNA damage, telomere shortening, hypoxia
+- Causes cell cycle arrest/DNA repair, senescence, and apoptosis
+- usually sequestered by Mdm2, but when phosphorylated, Mdm2 cannot bind and p53 can bind to the p21 gene
+
+*** Ras
+- Proto-oncogene
+- Plasma membrane GTP-binding protein
+- Turned in oncogene through point mutation
+- Remember: RAS -> MAPKKK (Raf) -> MAPKK (Mek) -> MAPK (Erk)
+
+*** Myc
+- Proto-oncogene
+- Transcription Factor
+- Turned into oncogene through translocation
+
+*** p16
+- Inhibits CDK4
+- Removal activates CDK4
+
+*** CDK4
+- Proto-oncogene
+- Cell cycle/cell death regulator
+- Turned into oncogene through amplification
+- Activated by removal of p16
+- Phosphorylates Rb
+
+*** Rb
+- Tumour suppressor gene
+- Responsible for restriction point control
+- Homozygous gene mutation gives rise to tumours in retina
+- Frees E2F when phosphorylated by CDK4
+
+*** E2F
+- Transcription factor for proteins needed for DNA synthesis
+- Freed from Rb to then activate transcription for cell cycle proteins
+
+** Philadelphia Chromosome
+- q section of chromosome 22 removed, leaving 22q- (Philadelphia chromosome)
+- 9 becomes 9q+
+- Causes constitutively active tyrosine kinase
+
+* Review Session (What Was Said Will Be On It)
+** Membrane Traffic
+*** Endocytosis
+
+
+*** Exocytosis
+
+
+** Signal Transduction Pathway
+*** Types of Receptors
+
+
+*** GTPase
+ - Trimeric GTPase: GPCR -> G-protein
+
+**** Role in Other Pathways
+
+*** Secondary Messengers
+
+
+*** Effectors
+
+
+** Cytoskeleton
+*** Critical Concentration
+
+
+*** Rate Equation
+
+
+*** Dynamic Control via Proteins
+**** Actin Filaments
+
+
+**** Microtubules
+
+
+** Cell Cycle
+*** Conditional Mutants
+ - T.S. Mutants - loss of function
+ - How they are used to cell cycle
+
+
+*** Molecular machinery that governs cell cycle
+**** Proteins that Start and Stop Cycle
+ - 
+
+*** How it Applies to Cancer
+
+
+** Cancer
+*** 4 Types
+
+
+*** Progression of Metastasis
+
+
+*** CDKs
+
+
+*** Tumour Suppressors
+
+
+*** Promoters/Inhibitors
+
+
+** Post Lecture Problems
+ - Not shown on stream

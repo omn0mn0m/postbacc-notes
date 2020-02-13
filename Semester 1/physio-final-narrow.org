@@ -1,0 +1,578 @@
+* General Notes
+- Know terminology/ key words
+- No calculations
+- Questions will be analytical
+- Passage-based multiple choice
+- Bonus questions from worksheet
+- Sensory physiology will be less emphasised
+- No digestive system questions
+
+* Things I Need to Find Out
+** TODO How does salt intake affect various processes
+** TODO How exactly does the alveolar pressure graph work with breath volume
+
+* General Knowledge
+** Exergonic Reaction
+- Spontaneous
+- Energetically favourable
+- Net release of energy
+- Free Energy ($\deta$G < 0)
+
+** Endergonic Reaction
+- Energetically unfavourable
+- Energy is consumed
+- Free Energy ($\delta$G > 0)
+
+** Membrane Transport
+- Facillitated Diffusion :: solutes move in the direction predicted by gradient with the help of another substance
+- Active Transport :: solutes move opposite to the direction predicted by the concentration gradient
+
+* Electrophysiology (Nervous System, Endocrine System, Muscular System, Special Senses, Cardiovascular System)
+- Osmolarity :: concentration of solutes per unit of solution
+- Tonicity :: measure of effective osmotic pressure gradient (relative concentration of solultes dissolved in solution which determine direction and extent of diffusion)
+
+** Ion Channels
+*** Gated
+- Can be closed or open based on how it is gated (voltage-gated, ligand-gated, mechanically-gated)
+- Ligand-gated channels open or close in response to ligand binding
+- Voltage-gated channels open or close in response to change in membrane potential
+
+*** Ungated
+- Leak channels are always open, found throughout neuron, and contribute to resting membrane potential
+
+** Pumps
+*** Sodium Potassium Pump :: Moves 3 Na+ out and moves 2 K+ in
+- Activates when ATP hydrolyses to ADP
+- Creates a gradient across the membrane
+
+** Receptors
+- Hormones are ligands for receptors
+
+*** Types of Chemical Messengers
+- Amino acids - lipophobic - receptor found in plasma membrane of target - neurotransmitters
+- Amines - lipophobic - receptor found in plasma membrane of target - paracrines, neurotransmitters, hormones
+- Peptides/proteins - lipophobic - receptor found in plasma membrane of target - paracrines, neurotransmitters, hormones
+- Steroids - lipophobic - receptor found in cytosol - hormones
+- Eicosanoids - lipophobic - receptor found in cytosol - paracines
+
+** GPCR
+*** Generic
+1. Messenger ligand binds to GPCR (G protein coupled receptor)
+2. GDP released from G protein
+3. GTP binds to G protein
+4. G protein separates into alpha subunit and beta-gamma subunit
+5. One of subunits causes pathway to go through
+
+*** cAMP
+1. Messenger ligand binds to GPCR (G protein coupled receptor)
+2. GDP released from G protein
+3. GTP binds to G protein
+4. G protein separates into alpha subunit and beta-gamma subunit
+5. alpha-subunit binds to adenylate cyclase, activating it
+6. Adenylate cyclase turns ATP into cAMP
+7. cAMP activates protein kinase A
+8. Protein kinase A hydrolyses ATP into ADP
+9. Cellular response activates
+
+*** IP3/DAG Pathway
+1. Messenger ligand binds to GPCR (G protein coupled receptor)
+2. GDP released from G protein
+3. GTP binds to G protein
+4. G protein separates into alpha subunit and beta-gamma subunit
+5. apha-subunit activates phospholipase C
+6. Phospholipase C converts PIP3 to IP3 and DAG
+
+**** IP3 Path
+1. IP3 binds to IP3-gated calcium channel
+2. Calcium is released from the cell
+3. Calcium binds to calmodulin
+4. Calmodulin binds to protein kinase, as well as causing its own cell response
+5. Protien kinase adds a phosphate to protein
+6. Activated protein causes a cell response
+
+**** DAG Path
+1. DAG activates Protein kinase C
+2. Protein kinase C adds a phosphate to protein
+3. Activated protein causes a cell response
+
+** Know different receptors and cell signalling pathways
+*** Epinephrine and the Heart
+1. Norepinephrine or epinephrine binds to b1 receptor
+2. b1 receptor causes G protein to release subunits
+3. Subunit binds to adenyl cyclase which then converts ATP to cAMP
+4. cAMP activates protein kinase
+5. Protein kinase is going to cuase L-type calcium channel to open for Ca+2 influx
+   Open Ca+2 channel in the sarcoplasmic reticulum which then activates Ca+2 ATPase
+   Cause myosin-actin sliding
+
+** Hormone Regulation and Control System
+*** Hormone Producing Glands/Organs
+- Hypothalamus - TRH, CRH, GnRH, GHRH, Somatostatin, Dopamine
+- Anterior Pituitary - TSH, FSH, LH, ACTH, MSH, Growth hormone, Prolactin
+- Posterior Pituitary - Oxytocin, ADH
+- Thyroid - T3T4, Calcitonin
+- Parathyroid - PTH
+- Pancreas - Insulin, glucagon
+- Adrenal Medulla - Norepinephrine, epinephrine
+- Kidney - Renin, 1,25-Dihydroxycholecalciferol
+- Adrenal cortex - Cortisol, aldosterone, adrenal androgens
+- Testes - Testosterone
+- Ovaries - Estradiol, Progesterone
+- Corpus Luteum - Estradiol, Progesterone
+- Placenta - HCG, Estriol, Progesterone, HPL
+
+** Efferent/Afferent Pathway with Responses (Negative/Positive Feedback)
+*** Neurosecretory Cell Pathways
+- PRH (+ feedback)/PIH or dopamine (- feedback) -> Prolactin (+/-) -> Breasts
+- TRH (+ feedback) -> TSH -> Thyroid gland -> TH
+- CRH (+ feedback) -> ACTH -> Adrenal cortex -> Cortisol
+- GHRH (+ feedback)/GHIH or somatostatin (- feedback) -> Endocrine cells -> GH -> Liver -> Insulin-like growth factors (also goes to cells throughout body)
+- GnRH (+ feedback) -> LH and FSH -> Gonads -> Androgens (males) or Estrogens/progesterone (females)
+
+*** Thyroid Hormone Release
+1. Thyroglobuin is synthesised and discharged into the follicle lumen
+2. Iodide from the capillaries enter the cell and are trapped (active transport)
+3. Iodide is oxidised to iodine
+4. Iodine is attached to tyrosine iin colloid, forming DIT and MIT
+5. Iodinated tyrosines are linked together to form T3 and T4
+6. Thyroglobulin colloid is endocytosed and combined with a lysosome
+7. Lysosomal enzymes cleave T4 and T3 from thyroglobulin colloid and hormones diffuse into bloodstream
+
+**** Hyperthyroidism
+- Grave's Disease
+- Skinny
+- Hot
+- High BP
+- Too much thyroid hormone
+
+**** Hypothyroidism
+- Fat
+- Cold
+- Tired
+- Slow metabolism
+- Too little T, too much TSH
+
+**** Stress Hormones
+- Growth hormones
+- Glucagon
+- Cortisol
+- Thyroid hormones
+
+*** Calcium Homeostasis
+1. High levels of Ca+2 in blood stimulates thyroid gland parafollicular cells to release more CT (calcitonin)
+2. Released calcitonin inhibits osteoclasts, thus decreasing blood Ca+2 levels
+3. Low levels of Ca+2 in blood stimulates parathyroid bland chief cells to release more PTH (parathyroid hormone)
+4. PTH promotes reabsorption of Ca+2 from bone extracellular matrix (ECM) into blood and retards loss of Ca+2 in urine, thus increasing blood Ca+2 level
+5. PTH also stimulates kidneys to release calcitriol
+6. Calcitriol stimulates increased absorption of Ca+2 from foods, which increases blood Ca+2 level
+
+** Different Potentials and How They Vary
+- If V_m = E_x: Force = 0
+- If V_m > E_x: Force going into cell = current going out of cell = hyperpolarisation
+- If V_m < E_x: Force going out of cell = current going into cell = depolarisation
+
+*** Potential Difference (E)
+- Difference in voltage between 2 points
+
+*** Membrane Potential (V_m)
+- Difference in voltage across the plasma membrane; always given in terms of voltage inside the cell relative to voltage outside the cell
+
+*** Resting Potential
+- Difference in voltage across the plasma membrane when a cell is at rest (not receiving or sending signals)
+
+*** Graded Potential
+- A relatively small change in membrane potential produced by some type of stimulus that triggers the opening or closing of ion channels
+- Strength of the graded potential is given relative to the strength of the stimulus
+
+**** Synaptic Potential
+- Graded potential produced in the post-synaptic cell in response to neurotransmitters binding to receptors
+
+**** Receptor Potential
+- Graded potential produced in response to stimulus acting on a sensory receptor
+
+*** Action Potential
+- A large, rapid change in membrane potential produced by depolarisation of an excitable cell's plasma membrane to threshold
+
+**** Channels
+- Voltage gated Na+ opens during the depolarisation for making an action potential
+- Voltage gated K+ opens during the repolarisation to reset the neuron to resting potential
+
+** Synapse
+- Acetyl CoA + Choline = Acetylcholine (ACh) which gets stored in vesicles
+- Action potential causes acetylcholine to get released into the synapse
+- ACh either activates cholinergic receptor or is disassembled by acetylcholinesterase (AChE)
+
+*** Receptor Types
+**** Nicotinic Cholinergic Receptor
+- ACh opens an ion channel directly for Na+ and K+ flow
+
+**** Muscarinic Cholinergic Receptor
+- ACh causes a G protein activation
+- alpha-subunit will activate either an ion channel or cause a secondary messenger to release
+
+*** Summation
+- Temporal :: One synapse through time
+	      - One synapse fires enough times quickly enough before reset for threshold to get reached
+- Spatial :: Several synapses at the same time
+	     - Multiple synapses have to fire for threshold to get reached
+
+* Nervous System
+** Types of Neurons
+*** Afferent Neurons
+- Inputs (Senses)
+
+*** Efferent Neurons
+- Outputs (Muscles)
+
+- Somatic neurons :: voluntary muscle control
+- Autonomic neurons :: involunary muscle control
+
+** Graded Potentials
+- Stronger stimulus causes stronger receptor potential which will cause action potential to fire more
+- More action potentials means more neurotransmitter release
+
+** Sympathetic (Fight or Flight)
+- Eye lens is flattened to see in the distance - ciliary muscle relaxation, tightens the ciliary zonule, causing the lense to flatten
+- Heart: b1 receptors cause Na+ and Ca+2 influx -> Increased rate of depolarisation -> Increased heart rate
+
+** Parasympathetic
+- Eye lens is bulged to see close - ciliary muscle contracts, loosens the ciliary zonule, causing the lense to bulge
+- Heart: Muscarinic receptors cause K+ efflux and decreased Ca+2 influx -> Hyperpolarises cell and decreases rate of depolarisation -> Decreased heart rate
+
+* Cardiovascular System
+** Blood Flow/ Cardiac Output
+- Increased end diastolic ventricular volume -> increased stroke volume
+- Increased sympathetic nervous response to heart -> increased stroke volume and increased heart rate
+- Plasma epinephrine -> increased stroke volume and increased heart rate
+- Decreased parasympathetic nerve response -> increased heart rate
+
+** How Blood Pressure is Regulated
+- Arterial baroreceptor reflex compesation
+
+*** Steps for Regulation in Extreme Cases
+1. BP drop
+2. Decreased baroreceptor firing
+3. Decrease parasympathetic response to heart -> increase heart rate via SA node -> increase cardiac output -> Increase BP
+   Increase sympathetic response to heart -> increase stroke volume + increase heart rate -> increase cardiac output -> Increase BP
+   Sympathetic discharge to vessels (veins or arteries) -> vasoconstriction -> increase BP
+
+** Understanding Oxygen, CO2, and Proton Transport in the Blood through Systemic Circulation
+
+
+** How Cardio System Works with Kidneys to Regulate BP and BV
+*** Steps for Regulation via Hormones (Normal)
+1. Liver produce angiotensinogen
+   Juxtaglomerular apparatus (JGA) produces renin
+2. Angiotensinogen combined with renin will make angiotensin I
+3. Angiotensin I turns to angiotensin II using ACE
+4. Angiotensin II activates the adrenal gland which releases aldosterone which increases Na+ and H2O reabsorption in distal tubules
+   Angiotensin II cause arteriole constriction
+5. Homeostasis: Blood pressure and volume
+6. Homeostasis is not achieved -> low BP or low BV as stimulus for JGA to secrete renin
+
+** Understand the EKG and What It Means at Each Stage
+*** Process of Heart Contraction
+1. SA Node fires
+2. Action potential spreads to the atrial muscle
+3. Action potential reaches the AV node, where conduction slows
+4. AV node fires, causing an action potential to propagate down to the heart apex
+5. Action potential propagates along the His bundles up through the ventricular muscle
+6. Heart is rest until next SA node firing
+
+*** Process of Action Potential
+1. Slow Ca+2 channel opening, fast Na+ channel opening
+2. K+ channel opening
+3. Ca+2 channel open even more
+4. K+ channel open even more
+5. Resting membrane potential
+
+*** EKG Wave
+- P Wave :: Atrial depolarisation / contraction
+- QRS Complex :: Ventricular depolarisation / contraction
+- T Wave :: Ventricular repolarisation 
+
+* Kidney
+** Hormones with Kidney Regulation (PTH, Aldosterone, ADH)
+- Aldosterone :: Increase Na+ reabsorption which increases H2O reabsorption
+- PTH :: Increase Ca+2 reabsorption
+- ADH :: Increases permeability for H2O
+
+** Nephron Function
+- Substances transferred from blood into nephron at the bowman's capsule
+- Travels through the tubule into the loop of Henle and back up the tubule for reabsorption or it gets excreted as urine
+
+** Glucose, Ca, Water, and Sodium Balance
+*** Glucose
+- Liver releases glucose into blood and stores excess as glycogen
+  - Acts as a buffer
+  - Receptors for glucagon and insulin
+- Muscles take up glucose, stores glycogen, releases lactate into blood
+  - Receptor for insulin
+- Adipose Tissue uses glucose and fatty acids, stores exces as fat, releases fatty acids into the blood
+  - Receptor for insulin
+  - Has receptor for glucagon but does not respond to it physiologically
+
+**** Plasma Concentration vs Rate of Glucose Movement
+- Renal threshold :: where excretion picks up and reabsorption deviates from filtration rate
+- Reabsoption reaches a transport maximum eventually
+- Glucose normally reabsorped and none gets excreted in urin
+
+*** Ca+2
+- Coordinated interaction of the kidneys, bones, and intestine
+- Bone :: Secretes Ca+2 triggered by PTH, solidifies Ca+2 triggered by calcitonin
+- Kidney :: Filters out Ca+2 regularly, Reabsorbs Ca+2 triggered by PTH
+- Digestive tract :: absorbs Ca+2
+
+*** Water
+**** How Body Decreases Urine in Response to Water Loss
+1. Baroreceptors detect a drop in MAP
+2. SNS target the renal system
+3. Vasoconstriction of kidney arterioles
+4. Reduced GFR
+
+*** Sodium
+- Most of solutes reabsorbed by proximal tube (NaCl and NaHCO3)
+  - 67%
+- Relies on ENaC for reabsorption in the late distal tubule and collecting duct
+
+**** Regulation
+- Aldosterone regulates Na+ reaborption in collecting duct
+- Decrease in BP -> Renin release -> Angiotensin release -> Aldosterone release -> Reaborption
+- ANP secretion causes decreased Na+ reaborption which increases Na+ excretion
+
+**** How Blood Pressure and Blood Volume are Affected
+- Rise in BV causes rise in BP
+- Decrease in BV causes decrease in BP
+
+* Respiratory System
+** Hemoglobin Function (Oxygen content, oxygen dissociation curve)
+*** Oxygen Dissociation Curve
+**** Shift to the Right - Higher P_O2 required for same level of hemoglobin saturation
+- Increase in P_CO2
+- Decrease in pH
+- Increase in Temperature
+- Increase in 2,3-DPG
+
+**** Shift to the Left - Lower P_O2 required for same level of hemoglobin saturation
+- Decrease P_CO2
+- Increase in pH
+- Decrease in temperature
+- Decrease in 2,3-DPG and Hemoglobin F
+
+* Muscular-Skeletal System
+- Latent period :: period from when a your muscle neuron fires an action potential and when your muscle actually contracts
+
+** Regulation Steps
+1. ACh combines with nicotinic receptor or is metabolised by AChE
+2. This causes a muscle contraction triggered by motor neuron 1 or 2
+3. Ca+2 released from SR allows for myosin binding by voltage channel
+4. Ca+2 reuptaked into SR which causes myosin to be unabel to bind
+
+** Actuation
+1. Calcium influx allows cross bridge to bind to actin, myosin with ADP + Pi
+2. Cross bridge moves, ADP + Pi released
+3. ATP binds to myosin, causing cross bridge to detach
+4. Hydrolysis of ATP energises the cross-bridge
+
+* Immune System
+** Primary vs Seconday Exposure
+- First exposure builds an immunity by producing memory B and T cells
+- Second exposure has faster reaction (more antibodies in less time and in higher number) due to memory cells existing
+
+** Inflammation Event
+1. Phagocytosis by nearby macrophages when foreign matter or microbes detected
+2. Dilation and increased permeability of capillaries
+   - Histamine into blood
+   - Defensive proteins enter the tissue
+3. Containment of bacteria and foreign matter 
+   - Heparin into blood
+4. Leukocyte proliferation and migration from the blood
+5. Leukocyte activity increase
+
+** Antibody response and T-cell response
+*** Antibody Classes
+ - Differs in distribution and functions within the body
+
+**** IgM
+***** Features
+ - Most the common class of antibody produced in the primary response to antigen
+
+***** Roles
+ - Neutralises antigen
+ - Agglutinates antigen
+ - Activates the complement proteins
+
+**** IgD
+***** Features
+ - Important as an antigen receptor on B cells
+
+***** Roles
+ - Neutralises antigen
+ - Agglutinates antigen
+
+**** IgG
+***** Features
+ - Most common class of antibody in blood and major class of antibody produced in secondary responses
+ - Crosses placenta, so is important in fetal and newborn immunity
+
+***** Roles
+ - Neutralises antigen
+ - Agglutinates antigen
+ - Activates the complement proteins
+ - Opsonises antigen
+ - Enhances the Natural Killer cell activity
+
+**** IgE
+***** Features
+ - Involved in allergies, such as hay fever
+
+***** Roles
+ - Neutralises antigen
+ - Agglutinates antigen
+ - Binds to mast cells and basophils, causing them to release histamine
+
+**** IgA
+***** Features
+ - Cross the epithelial cells, so it is present on mucosal surfaces and in breast millk
+ - Important in newborn immunity
+
+***** Roles
+ - Neutralises antigens
+ - Agglutinates antigens
+
+*** Immune Response
+**** Primary Immune Response
+ - Occurs on an animal's first exposure to an antigen
+ - When native lymphocytes encounter antigen for the first time, some are stimulated to proliferate and differentiate into effectors, elimiinating the specific antigen
+
+**** Secondary Immune Response
+ - Individual is exposed to a previously exposed to antigen
+ - Memory cells facilitate a faster, more efficient response
+
+**** Graph of Time vs Serum Antibody Concentration
+ - After the first exposure, there is a longer delay period, and a slower rise
+ - Peak of the first exposure is lower than the second exposure
+ - After the second exposure, there is a shorter delay period, followed by a sharp rise
+ - Peak of the second exposure is higher than the first exposure
+ - In both exposures, the # of antibodies decrease naturally
+ - This graph of exposure trends is similar for all antigens
+*** Acquired Immunity
+- Recognition of traits specific to particular pathogens, using a vast array of receptors
+- Slower response
+
+**** Initial Steps
+1. First exposure to the antigen
+2. Antigens are engulfed and displayed by dendritic cells
+3. Helper T cells activate a humoral response and cell-mediate response (both happen) by releasing interleukin-2
+
+**** Humoral (Antibody) Response
+- Antibodies defend against infection in body fluids
+- Use of B cells and antibodies with live virus-infected host cells
+
+***** Steps
+1. Helper T cell and intact antigens give rise to B cells
+2. B cells give rise to plasma cells and memory B cells
+3. Plasma cells secrete antibodies that defend against pathogens and toxins in the ECF
+
+**** Cell-mediated Response
+- Cytotoxic lymphocytes defend against infection in body 
+- Use of T cells with dead virus-infect cells
+
+***** Steps
+1. Heper T cells secrete cytokines which activate cytotoxic T cells
+1.5. Antigens displayed by infected cells activate cytotoxic T cells
+2. Cytotoxic T cells give rise to memory cytotoxic T cells and active cytotoxic T cells
+3. Active cytotoxic T cells defend against infected cells, cancer cells, and transplanted tissue
+** Gene rearrangement for BCR and TCR diversity
+*** B Cells
+- Differentiate to form antibody-producing cells and memory cells
+
+**** Receptor
+- Forked/Y shaped antigen receptor
+- Constant region is the membrane antibody
+- Binds to specific, intact antigen
+- Often called membrane antibodies or membrane immunoglobulins
+
+**** Clonal Selection
+- B cells that are bound to an antigen diffentiate in two ways:
+1. Memory B cells
+2. Plasma cells (effector cells) - secrete antibodies
+
+**** Development
+- Half of DNA is encoding the variable region
+- Half of DNA is encoding the constant region
+- Gene splicing causes a unique supergene to be the end result
+
+***** Steps
+1. VDJ joining - V segment, D segment, and J segment are placed next to each other
+2. Transcription - B cell DNA to Primary RNA transcript
+3. Splicing - Introns are getting removed to form the final mRNA
+4. Translation - mRNA becomes heavy chain peptide
+
+** CD4, CD8, MHC I, MHC II
+*** T Cells
+- Kill virus-infected cells; regulate activities of other white blood cells
+
+**** Receptor
+- Straight antigen receptor
+- Constant region is the T cell receptor (TCR)
+- Consists of two different polypeptide chains
+- Cannot bind to intact antigens directly
+- Bind to small fragments of antigens that are bound to normal cell-surface proteins (MHC molecules)
+
+**** MHC
+- Each individual has 3 genetic loci for MHCI and MHCII- each with as many as 100 alleles
+- A lot of variation in the actual MH protein between person to person
+- No cell to cell variation, so each individual's MHC proteins will be the same
+
+**** Cytotoxic T Cell
+- Class I MHC molecules, found on almost all nucleated cells of the body, display peptide antigens to cytotoxic T cells
+- Surface protein is CD8
+
+***** Steps
+1. Fragment of foreign protein (antigen) inside the cell associates with an MHC molecule and is transported to the cell surface
+2. Combination of MHC molecule and antigen is recognised by T cell, alerting it to infection
+
+**** Helper T Cell
+- Class II MHC molecules, found mostly on dentritic cells, macrophages, and B cells (antigen presenting cells), display antigens to helper T cells
+- Surface protein is CD4
+
+***** Steps
+1. Fragment of foreign protein (antigen) inside the cell associates with an MCH molecule and is transported to the cell surface
+2. Combination of MHC molecule and antigen is recognised by a T cell, alerting it to the infection
+
+* Sensory Physiology
+** Vision
+- Crossed system
+- Things on the left side of your field of view get flipped and received by the right side of your eye which gets processed by the right side of the brain
+- Reverse is true for the right side
+
+- Light -> Ganglion cells -> bipolar cells -> cones and rods -> optical nerve
+
+- Rod :: detect black and white, useful for low light conditions
+- Cones :: detect colour, useful for bright light conditions
+
+*** Regulations
+- Pupil constriction occurs due to parasympathetic stimulation of circular muscle
+- Pupillary dilation occurs due to sympathetic stimulation of radial muscle
+
+** Taste
+- Receptors for different molecules
+- Each receptor fires to the nerve cells which get processed by the brain
+
+- Ion receptors use the ion generated voltages to fire
+- G protein receptors use a signalling pathway to fire
+
+*** Types of Taste Buds
+- Salty
+- Sweet
+- Sour
+- Bitter
+- Umami
+
+** Sound
+- Stereocilia - senses sounds based on movement of hairs
+  - Mechanically gated K+ channels are responsible for transducing sound
+  - When stereocilia are straight, they have some chanels open, which open some Ca+2 channels, which causes slight depolarisation
+  - When stereocilia bend away, they open the channels, which open Ca+2 channels, which release neurotransmitter (depolarisation)
+  - When stereocilia bend towards, they close channels, which close Ca+2 channels, which stops neurotransmitter release (hyperpolarisation)
