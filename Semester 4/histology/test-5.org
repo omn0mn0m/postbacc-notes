@@ -1,0 +1,8 @@
+97_40 = ovary (has oocytes)
+99_40 = oviduct
+aacr_vs270a = oviduct
+147_40 = endometrium
+aacr_vs268 = corpus luteum
+b98_40 = corpus albicans
+103_40 = uterus (red arrow is endometrium)
+

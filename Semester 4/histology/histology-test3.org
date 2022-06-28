@@ -1,0 +1,3 @@
+- 40.svs = esophagus
+- 44.svs = duodenum b/c brunner's gland
+- illiem = pyre's patches

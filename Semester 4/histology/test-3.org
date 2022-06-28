@@ -1,0 +1,17 @@
+* Web slides
+
+7312 = paratid (serous)
+51_40xr = submandibular (mostly serous, some mucous)
+52_40xr = sublingual (mostly mucous, some serous)
+
+60_40xr = small intestine
+
+64_40xr = liver (has portal triad)
+66_40xr = liver (exposed to carbons)
+
+* Micro slides
+
+40 = esophagus (has skeletal muscle, esophageal glands, stratified squamous epithelium)
+42 = stomach
+44 = duodenum
+46 = large intestine (goblet cells, meisner's plexus)

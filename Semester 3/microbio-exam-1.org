@@ -1,0 +1,598 @@
+* Introduction and Cell Structure and Function
+** Intro to Microbiology
+- Microbiology :: Study of organisms that are individually too small (microscopic) to be seen with the unaided eye
+- Microorganisms are diverse
+  - Includes all bacteria and archaea
+  - Various eukaryotes, virus, viroids, prions
+- Microbiologists study both living microorganisms and non-living organisms (viruses and prions)
+
+*** History
+- 1665 - Robert Hooke (1635 - 1703) reported living things are composed of cells
+- 1676 - Antony van Leeuwenhoek described live microorganisms that he observed in teeth scrapings, rain water, pepper-water
+- Linnaeus designed classification system w/ 2 kingdoms (later succeeded by 5 kingdom system):
+  1. Plantae
+  2. Animalia
+
+*** 3 Domain System
+- Bacteria
+- Archaea
+- Eukarya
+
+*** 5 Kingdom System
+- Plantae
+- Animalia
+- Fungi
+- Protista
+- Monera
+
+** Organisms of Microbiology
+*** Bacteria
+- Prokaryotes due to lack of nuclei
+- Unicellular, contains peptidoglycan cell walls (in most cases), divides by binary fission (most cases)
+- Metabolically diverse:
+  - Autotrophs or heterotrophs
+  - Phototrophs or chemotrophs
+- Some are pathogenic, while most are beneficial or harmless
+
+*** Archaea (and prokaryotes)
+- Cell walls lacking peptidoglycan
+- Divide by binary fission (most cases)
+- Associated with living in extreme environments; oversimplification
+- Include methanogens
+- Not yet known to cause infectious diseases
+
+*** Eukaryotes
+- Although there are 4 kingdoms, protists have been found to have several clades equally distance from each other than they are from fungi, animalia, and plantae
+
+**** Protozoa (protist)
+- Unicellular "animal-like" protists
+- No cell wall
+- Are absorptive or ingestive heterotrophs
+- Maybe motile via pseudopods, cilia, or flagella
+- Some are pathogenic, but most are harmless
+
+**** Algae (protist)
+- Unicellular or multicellular "plant-like" protists that contain cell walls made of cellulose, photoautotrophs
+- Generally not infectious, but some dinoflagellates produce neurotoxins
+- Many unicellular algae are components of plankton - mostly microscopic organisms that drift or swim in communities
+
+**** Fungi
+- Have chitin-containing cell walls (most cases)
+- Develop from spores or hyphal fragments
+- Nonmotile
+- Absorptive heterotrophic eukaryotes using organic chemicals as energy sources
+- Include multicellular molds and mushrooms - masses of mycelia that are composed of filaments (hyphae)
+  - Also unicellular yeasts
+- Important decomposers and can spoil food
+- Usually harmless or even beneficial, but some pathogens exist
+
+**** Helminths (animal)
+- Multicellular animal parasites
+- Macroscopic, but go through microscopic stages in the life cycle
+- Have reduced digestive, nervous, and locomotive systems
+- Complex reproductive systems
+
+***** Examples
+- Phylum Platyhelminthes - tapeworms (cestodes) and flukes (trematodes)
+- Phylum Nematoda - roundworms
+
+**** Viruses
+- Obligate intracellular parasites that replicate only when they are in living host cells
+- Contain DNA or RNA (as their genomes)
+- Have protein coats (except viroids, which only have single stranded RNA)
+- Some are enclosed by an envelope and have spikes
+- Most infect only specific types of host cells
+  - Host range determined by specific host cell factors and attachment sites
+- Submicroscopic
+
+**** Prions
+- Infectious submicroscopic protein particles
+- No nucleic acid component
+- Reproduces uniquely: infectious protein physically interacts with normal protein, converting it to infectious form
+- Everyone has non-infectious form in their cells
+  - Infectious structure acquired by genetics, randomness, or outside source
+
+** Human Interactions with Microorganisms
+*** Extent of Microbial Life
+- Number of all microbes on Earth estimated between 9.2E29 and 31.7E29 cells
+- Over 10,000 bacterial species
+- Over 43,000 fungal species
+- Over 8,000 protozoan species
+- Over 28,000 platyhelminth and nematode species
+
+*** Microorganisms and Human Life
+- Only small percentage of microorganism are pathogenic for humans, but many are beneficial
+- Various aspects of human life depends on microbial activities:
+  - Food production and digestion
+  - Decomposition of orgnaic wastes
+  - Bio-industrial production of chemicals and drugs
+  - Biological research (as a domesticated lab tool)
+
+*** Pathogens
+- Pathogen :: causative agents of infectious disease
+  - About 1400 human pathogen species currently known, mostly bacteria, and new microbial infectious agents continue to be identified or merge
+
+| Group              | # of Species | % of Makeup of All Pathogens |
+|--------------------+--------------+------------------------------|
+| Viruses and prions |          208 |                         14.8 |
+| Bacteria           |          538 |                         38.2 |
+| Fungi              |          317 |                         22.5 |
+| Protozoa           |           57 |                          4.1 |
+| Helminths          |          287 |                         20.4 |
+
+- Microbial infectious disease was leading cause of death in 1900
+- Value of hygiene and sanitation, use of antimicrobials, and knowledge of disease progression has changed this trend
+
+** Prokaryotic Morphology and Size
+*** Morphology
+- Bacterial morphology is heritable (genetic)
+  - Product of natural selection
+  - Morphology represents high fitness for a species given their ecosystem
+- Morphology is useful for known species identification, but not useful to reconstruct phylogeny
+
+*** Bacterial Arrangement
+- Different species grow in predictable arrangements
+- Useful in known species identification but not phylogenetic reconstruction
+
+*** Size
+- Typically range from 0.5 - 4 um wide and under 15 um long
+
+**** Advantages
+- Higher efficiency for a single genome
+- Greater surface area : volume ratio improves nutrient exchange utilization
+- A greater number of smaller cells improves rate of evolution and hence viability of species dynamic environments
+- Cells have size floor: cells cannot be smaller than 0.15um in diameter
+
+** Cell Membrane and Transport
+- Cytoplasmic membrane is the absolute boundary of life
+- Must distinguish and regulate movement of molecules across the boundary
+
+*** Cell Membrane Structure
+- Cytoplasmic membrane largely comprised of phospholipids
+- Typical phospholipid structure: each hydroxyl of glycerol participates in a condensation reaction
+- End result is gylcerol linked to 2 fatty acids and 1 charged phosphate - containing moiety
+- Cytoplasmic membrane fluidity may be modified by the presence of hopanoids (some bacteria) or cholesterol
+
+**** Membrane Proteins
+- High amount of protein in the cytoplasmic membrane
+- Integral membrane protein :: Spans the full thickness of the membrane
+- Peripheral membrane protein :: Attached to the one side of the membrane
+- Transport protein :: Allows movement of substances across the membrane through facilitated diffusion
+  Others drive the movement of substances across the membrane across the concentration gradient with ATP as an energy source
+
+*** Cell Membrane Functions
+- Permeability barrier :: Prevents leakage and functions as a gateway for transprot of nutrient into and wastes out of the cell
+- Protein anchor :: Site of many proteins that participates in transport, bioenergetics, and chemotaxis
+- Energy conservation :: Site of generation and dissipation of the proton motive force
+
+*** Cell Membrane Properties
+- Amphipathic nature results in self assembly into energetically stable bilayer when in aqueous solution
+- Fatty acids (~14-20 carbons long) are hydrophobic
+- Glycerol and phosphate moiety are hydrophilic
+- Any phospholipid bilayer has hydrophobic interior (fatty acids) with hydrophilic outer and inner surface
+- Structure and arrangement in a bilayer/monolayer is responsible for the selective permeability of the membrane in all cells
+- Membrane is not rigid, but rather fluid with frequent lateral movement of components
+
+*** Cell Membrane Unique Features
+**** Unique Features of Archaeal Cytoplasmic membrane lipids
+- Glycerol linked to repeats of isoprene as opposed to fatty acids
+- Glycerol linked to hydrophobic chains via ether (not ester) linkage
+- Some archaeal cytoplasmic membranes are bilayers (glycerol diethers)
+  - Others are monolayers (diglycerol tetraethers)
+  - Others are mixers
+- Archaeal membrane lipid chains may also contain sugars or carbon rings
+
+** Prokaryotic Cell Walls
+*** Cell Wall Functions
+- Cell wall prevents cell lysis due to osmotic pressure
+- Contributes to overall organismal morphology
+- Gives the organism mechanical strength
+
+*** Bacteria
+- Key component of cell wall is peptidoglycan - crosslinked strands of glycan tetrapeptide repeats
+- Long chains of peptidoglycan is formed via glycosidic linakges between adjacent glycan tetrapeptides
+- Individual peptidoglycan chains are cross-linked via peptide bonds
+- Glycan tetrapeptide is made of NAG bound to NAM, with 4 amino acid chains connected to the NAM
+- Cell wall differs between gram-positive and gram-negative bacteria
+  - Can be distinguished using gram stain
+  - Gram-positive have a thicker layer of peptidoglycan and teichoic acid in the cell wall
+  - Gram-negative have a much thinner layer of peptidoglycan and an outer membrane (second lipid bilayer outside peptidoglycan layer) that is high in lipopolysaccharide
+    - Periplasm :: Space between cytoplasmic and outer membranes is functionally important area
+- LPS plays important structural role for bacteria
+  - LPS molecule (Lipid A) acts as an endotoxin
+
+*** Archaeal Cell Wall
+- Always lack an outer membrane and are comprised of pseudomurein or a protein cage (S-layer)
+
+** Additional Cell Surface Structures and Cell Inclusions
+*** Capsule
+- Polysaccharide or proteinaceous layer secreted outside the cell wall
+- Used for surface/host cell attachment
+- Aid in biofilm formation
+- Help the cell avoid immune detection
+- Prevent dessication
+
+*** Fimbriae and Pili
+- Filamentous proteins extending from cell surface that have diverse functions
+
+**** Functions
+- Adherence
+- Facilitating exchange of genetic material between bateria (conjunction)
+- Twitching motility
+
+***** Twitching Motility
+- Bacteria add/subtract protein subunits to lengthen/shorten pili
+- Terminal end has attachment protein
+- Bacteria lengthen pili until it attaches to its substrate
+- On attachment, shortens pilus, pulling bacteria to attachment point
+- Repeats  to move along surface
+
+*** Inclusions
+- Intracellular aggregates in prokaryotes
+
+**** Functions
+- Store organics for carbon/energy reservoirs (poly-beta-hydroxybutyric acid or glycogen)
+- Store mineral reserves (phosphorus or sulfur)
+- Store magnetic minerals in magnetosomes
+  - Allows bacteria to detect and move in response to Earth's magnetic field
+
+*** Endospore
+- Certain bacterial species differentiate into endospores when they face poor harsh conditions
+- Have essential cellular material packaged inside a core wall
+- Outside the core wall are specialised protein-based layers (spore coat and exosporium)
+- Core has high amounts of dipicolinic acid complexes which bind free water and protect DNA from heat
+  - Also has small acid-soluble spore proteins (SASP)
+  - SASP binds and alters DNA structure, conferring UV and dry-heat protection
+
+**** Formation Stages
+- Stage 1 :: Asymmetric cell division; commitment to sporulation
+- Stage 2 :: Septum forms, separating prespore and mother cell
+- Stage 3 :: Prespore engulfed by mother cell
+- Stage 4 :: Cortext forms from prespore, surrounded by cell wall and cytoplasmic membrane
+- Stage 5 :: Coat forms from Ca2+ uptake, SASPs, and dipicolinic acid
+- Stage 6, 7 :: Maturation and cell lysis
+- Germination :: Free endospore becomes cell and process cycles
+
+** Prokaryotic Locomotion
+*** Flagella
+- Long helical protein structures anchored to the cell membrane and cell wall
+- May be anchored at one or both cell poles (polar flagellation)
+- May be anchored at several different locations along the cell surface (peritrichous flagellation)
+- Flagellar motor :: Composed of rotor (basal body) and stator (Mot protein)
+  - Proton motive force provides energy needed by the Mot protein to spin rotor proteins (in archaea, powered by ATP)
+
+*** Gliding Motility
+- Slow, smooth movement along a surface
+- Mechanisms of gliding motility among prokaryotes is diverse and include twitching motion and ratcheting
+
+*** Taxis
+- Movement of bacteria towards attractant
+- Chemoreceptors or photoreceptors are membrane proteins that sample the environment for stimuli strength
+- Strenght info is transduced to motility proteins
+
+** Basic Eukaryotic Cell Structure and Function
+*** Nucleus
+- Membrane-bound region that contains genetic material
+- Nuclear envelope has pores for transport in and out of the nucleus
+- DNA is packed through association with histones
+- Nucleolus is region within nucleus that serves as the primary site for rRNA synthesis
+
+*** Endosymbiosis
+- Theory that energy producing organelles started as separate organisms and were symbiotically connected to a cell
+
+**** Mitochondria
+- Plays essential role in cellular respiration (transferring the energy from sugars and lipids into ATP)
+- Citric acid cycle occurs in the matrix
+- Oxidative phosphorylation occurs at the inner membrane
+
+**** Chloroplasts
+- Carry out photosynthesis (transfer from electromagnetic radiation to simple organic compounds)
+- Chlorophyll in the thylakoid membrane absorbs light and drives the light reactions
+- Rubisco in the stoma catalyses Calvin cycle
+
+**** Hydrogenosome
+- Found strictly in fermentative anaerobic eukaryotic microbes
+- After fermentation, pyruvate is converted into acetate in the hydrogenosome and in the process additional ATP is generated
+
+*** Endomembrane Systems
+- Includes endoplasmic reticulum, golgi apparatus, transport vesicles, lysosome
+
+**** Secretion
+- Ribosome synthesising proteins do so at the rough ER
+- Localise the protein inside the rough ER
+- Protein then folded and modified, then moved to Golgi by a vesicle
+- In the Golgi, the protein is further modified and sorted into a vesicle to be taken to the final destiation
+
+**** Cytoskeleton
+- Also aids in locomotion
+- Eukaryotic motility structures (flagella and cilia) are internal rods of microtubules associated with the motor protein dynein
+- Size of eukaryotic cells demands greater internal structure support - cytoskeletons
+  - Microtubules
+  - Microfilaments
+  - Intermediate filaments
+
+* Microbial Growth
+** Laboratory Cultivation of Microorganisms
+*** Lab Growth Media Requirements
+- Growth conditions vary greatly among species
+
+**** Raw materials
+- Usuable sources of C, H, O, N, S, P, and Se to build new required materials
+- Builds DNA and cytoplasmic membrane
+
+**** Energy source
+- Glucose
+- Drives necessary reactions
+
+**** Essential dietary requirements
+- Cannot be synthesised by the the cell
+- H2O, Na+, Ca++, trace elements, growth factors
+
+*** Growing Media
+- Microorganisms can be grown in liquid media or solid media
+- Autoclaving :: Heating with high pressure steam at 121 C for > 15 minutes to sterilise media
+
+**** Defined Media
+- Defined composition
+
+**** Complex Media
+- Include highly nutritious substances with an undefined composition
+
+**** Liquid Media
+- Broth
+
+**** Solid Media
+- Agar (polysaccharide) added to the growth media
+- Media heated to produce molten agar media
+- As it cools, it solidifies
+
+**** Specialised Classes of Media
+- Enriched Media :: Infused with highly nutritious substances (e.g. blood) to support growth of nutitionally demanding organisms
+- Selective Media :: Contains compound that allows growth of certain organisms/genotypes, but not others (e.g. LB plates with ampicillin)
+- Differential Media :: Contains indicator that changes colour when the microorganisms have completed a particular metabolic reaction
+
+*** Inoculation
+- Requires proper aseptic technique
+- Inoculum :: sample of microorganism introduced to medium for cultivation
+- Culture :: Microorganisms that grow from an inoculum
+  - Also refers to the act of cultivating microorganisms or the microorganisms that are cultivated
+
+**** Steps
+1. Flaming the loop sterilises it
+2. Tube cap is removed
+3. Flaming the tube tip sterilises the surface
+4. Only sterilised portions of loop enters tube
+5. Tube is inflamed
+6. Tube is recapped; loop is resterilised
+
+*** Obtaining Pure Cultures
+- All cells must be same species and genetically "identical"
+
+**** Methods
+- Streak out the source of microorganisms on an agar plate so they can select an isolated single colony
+  1. Loop is sterilised and a loopful of inoculum is removed from tube
+  2. Initial streak is worked in well in one corner of the agar plate
+     - Subsequent streaks are at angles to the first streak
+  3. Appearance of well-streaked plate after incubation
+
+** Environmental Factors Influencing Microbial Growth
+*** Carbon and Energy Source
+- Autotrophs use CO2 as a raw material for building organics, while heterotrophs must obtain a pre-existing organic molecule as their source of usable carbon
+- Microbes may also be classified based on their source of energy
+  - Chemical (Chemotrophy)
+    - Organic chemicals (Chemoorganotrophs)
+    - Inorganic chemicals (Chemolithotrophs)
+  - Light (Phototrophy)
+
+*** Temperature
+- Below optimal growth temp, growth is hampered and molecular motion and general rates of reactions are slowed
+- Above laboratory growth temp vary greatly among microorganisms and reflect species' natural habitat
+- Optimal laboratory growth temperatures vary greatly among microorganisms and reflect species' natural habitat
+
+**** Psychrophilic Organisms
+- Optimum growth < 15C
+- Have unique protein structure
+  - Greater number of unsaturated phospholipids in their cytoplasmic membrane
+  - Make cold-shock chaperones
+  - Store cryoprotectants
+
+**** Hypethermophiles
+- Evolved heat-stable proteins through greater utilisation of charged amino acids on protein surface
+- Greater hydrophobicity in the protein's core
+
+**** Mesophiles
+- Most medically or agriculturally relevant bacteria
+- Foods prone to bacterial colonisation/growth are heated prior to consumption and stored at 4C or -20C
+- Psychotolerant :: Refrigeration slows but does not completely prevent growth (expiration date)
+
+*** pH
+- Various microorganisms grow at different environmental pH optimums
+- Cytoplasmic pH is almost always close to neutral (e.g. DNA is acid-labile)
+- Lab growth media usually is buffered to maintain a constant extracellular pH
+
+*** Water Availability
+- Water availability depends on amount of free water molecules present (inversely related to amount of solute present)
+- Movement of free water follows the laws of diffusion
+  - Free water moves from higher concentration area (hypotonic) to lower concentration area (hypertonic)
+- Halophiles :: Organisms that grow optimally in salt concentrations greater than or equal to sea water
+  - Cope with low free water outside the cell by accumulating and regulating the amounts of compatible solutes in their cytoplasm
+  - Compatible solutes vary among species but include sugars, alcohols, and KCl
+- Osmophiles :: Organisms that survive in sugar, which otherwise dehydrates many microbes
+- Xerophiles :: Organisms that grow in extremely dry (lack of water) environments
+
+*** Oxygen and Microbial Growth
+- Microorganisms grouped according to whether they use oxygen for metabolism (aerobe) or not (anaerobe)
+- For anaerobes, highly reactive oxygen radicals are unable to be broken down by enzymes
+
+**** Further Classification
+***** Aerobes
+- Obligate :: O2 required, aerobic respiration
+- Facultative :: O2 not required but growth better with O2, aerobic respiration, anaerobic respiration, fermentation
+- Microaerophilic :: O2 required but at levels lower than atmospheric, aerobic respiration
+
+***** Anaerobes
+- Aerotolerant :: O2 not required and growth no better when O2 present, fermentation
+- Obligate :: O2 harmful or lethal, fermentation or anaerobic respiration
+
+**** Requirements
+- O2 requirements must be met for optimal laboratory growth
+- If O2 demand is high, liquid culture tubes are shaken during growth to aerate the media
+- To exclude O2, reducing agents may be added to reduce O2 or special O2-free growth chambers may be employed
+
+** Prokaryotic Reproduction
+- Binary Fission :: mechanism of growth for prokaryotic populations
+- If cells continuously double at a consistent rate, the result would be exponential growth
+
+- Fresh media :: First cells often must significantly alter gene expression to suit new conditions
+- Spent media :: Depleted space, depleted nutrients, waste build up
+
+- True exponential growth is theoretical and often not observed, particularly when growing microorganisms in closed systems (batch culture)
+- Growth in lab can approach exponential if grown in an open system (continuous culture)
+  - Fresh media is added while spent media is removed during growth
+  - Commonly performed in a chemostat
+
+*** Binary Fission
+- Highly regulated process of a single-cell microbial cell doubling in size then portionning into 2 distinct organisms both "identical" to the original cell
+
+**** Steps
+1. If growth conditions allow it, cell will increase in # of enzymes, ribosomes, cytoplasmic membrane, and copy DNA
+2. Each copied chromosomes(s) must attach to the cytoplasmic membrane to one side of the cell or the other
+3. New cytoplasmic membrane and cell wall grows inward at the plane of division , forming a septum
+4. Septum formation continues until two separate cells exist
+
+**** Plane of Division
+- Protein FtsZ is crucial for division of the parent cell
+- In bacteria, thousands of FtsZ proteins assemble into a ring at the plane of division
+- FtsZ ring is connected to the interior cytoplasmic membrane
+- FtsZ does not play an enzymatic role in fission, but rather act as a physical scaffold for enzymes and motor proteins that divide the membrane and synthesise new cell wall
+
+**** MinCDE System
+- FtsZ localises to the center due to MinCDE activity
+- MinC and MinD assemble into spiral structures (red) along the inside of plasma membrane
+- MinCD complexes prevent FtsZ from binding
+- MinE (green) moves back and forth along the inner cytoplasmic membrane, disassembling any MinCD complexes
+- End result is at any one instant, an assembled MinCD is much more like to be found at the poles than the midline
+- FtsZ rings are most likely to form where MinCD is least likely to be found (middle of cell)
+
+** Controlling Microboial Growth Outside the Body
+*** Terminology
+- Sterilisation :: Destruction or removal of all forms of microbial life, including endospores
+  - Usually done by steam under pressure or a sterilising gas such as ethylene oxide
+- Commercial Sterilisation :: Sufficient heat treatment to kill endospores of Clostridium botulinum in canned food
+  - More-resistant endospores of thermophilic bacteria may survive, but they will not germinate and grow under normal storage conditions
+- Disinfection :: Destruction of vegetative pathogens
+  - May make use of physical or chemical methods
+- Antisepsis :: Destruction of vegative pathogens on living tissue
+  - Treatment is almost always by chemical antimicrobials
+- Degerming :: Removal of microbes from a limited area, such as the skin around an injection site
+  - Mostly a mechanical removal by an alcohol-soaked swab
+- Sanitisation :: Treatment intended to lower microbial counts on eating and drinking utensils to safe public health levels
+  - May be done with high-temperature washing or by dipping into a chemical disinfectant
+
+*** Physical Methods of Reducing Microorganisms
+- Used outside of body
+- Autoclave :: Denatures proteins (moist heat) or create reactive oxygen species (dry heat) methods
+- Pasteurisation :: Method of heating foods to kill pathogens and control spoilage organisms without altering quality of food
+  - Thermoduric (heat-tolerant) and thermophillic (heat-loving) organisms survive treatments
+  - Flash Method (High-temperature short-time or HTST) :: 72C for 15 sec
+  - Ultra-High Temperature Method :: 135C for 1-4 sec
+- Refrigeration and Freezing :: Decreases metabolic, growth, and reproductive rates of most pathogenic microorganisms
+- Desiccation (drying) :: Inhibits microbial growth due to removal of water
+  - Viruses and endospores can resist desiccation
+- Filtration :: Passage of air or a liquid through a material that traps and removes microorganisms
+  - HEPA (High-Efficiency Particulate Air) filters remove microbes and particles from air
+- High Osmotic Pressure :: Exerted by hypertonic solutions of salt or sugar to preserve food by removing the water microbes need to carry out metabolic functions
+  - Fungi are more capable than bacteria of growing in materials with low moisture or high osmotic pressure
+- Irradiation :: Sample is exposed to radiation, which includes high-speed subatomic particles and even more energetic electromagnetic waves released from atoms
+  - Ionising radiation (wavelengths shorter than 1 nm, e.g. X-rays) :: Produces ions that denature important biomolecules and kill cells
+  - Non-ionising radiation (wavelengths longer than 1 nm, e.g. UV light) :: Less effective, but can cause lethal mutations by introducing pyridmidine dimers in DNA
+
+*** Chemical Methods for Reducing Microorganisms
+- Used outside of body
+- Used on living tissues (as antiseptics) and on inanimate objects (as disinfectants or sterilants)
+- Antiseptics :: Used for handwashing and surface wounds
+- Some chemicals act as antiseptics at one concentration/ exposure time, but disinfectants at another
+
+** Controlling Microbial Growth Inside the Body
+*** Chemical Therapy
+- Broad vs Narrow spectrum
+- Synthetic antimicrobial drugs :: substances that interfere with the growth of microbes within a host
+- Growth factor analogs :: act as competitive inhibitors of key metabolic reactions
+- Antibiotic :: Substance (secondary metabolite) produced by a microbe
+  - Bactericidal :: Kills other microbes directly
+  - Bacteriostatic :: Inhibits growth
+- Beta-lactam antibiotics (penicillins) :: Fungal in origin, possess a beta-lactam ring that inhibits peptidoglycan synthesis by interfering with tetrapeptide cross-linking (transpeptidation)
+
+*** Protein Synthesis Inhibitors
+- Bacterial in origin
+- Aminoglycosides, tetracyclines, macrolides target taht 30S or 50S ribosomal subunit
+- Macrolides commonly prescribed to those allergic to penicillin, useful in treating legionnaires disease
+
+*** Transcription Inhibitors
+- Blocks RNA polymerase from synthesising RNA
+
+*** Fatty Acid Biosynthesis Inhibitor (Platensimycin)
+- Useful for previously untreatable infections, including MRSA/VRSA
+
+*** Teixobactin
+- Isolated in 2015 from a previously uncultured soil-growing microbe
+- Prevents syntehsis of cell wall precursors
+- First new class of antibiotic in decades
+
+*** Natural Antibiotic Modification
+- Leads to broadening of their spectrum of activity
+- Natural penicillin can't cross the outer membrane of gram-negative bacteria, but ampicillin can
+- Some organisms can degrade penicillin with an enzyme, but methicillin is resistant to degradation
+
+*** Synergy
+- Combinations of antibiotics may prove more effective than either alone
+- Penicillins increase cell wall permeability, which increase the uptake and effectiveness of aminoglycosides
+
+*** Antibiotic Antagonism
+- Simultaneous administration of bactericidal and bacteriostatic drugs leads to antibiotic antagonism
+
+**** Effectiveness of Antibiotics
+- Broth dilution tests determine the minimal inhibitory concentration (MIC) and minimal bactericidal concentration (MBC)
+- Disk diffusion antibiotic sensitivity method reveals which drug is most effective against a particular pathogen the larger the zone of inhibition around a drug-soaked disk on a Petri plate, the more effective the tested drug
+
+**** Antifungal
+- Antifungal arsenal is greatly reduced and with greater side effects
+- Largely restricted to drugs taht prevent key cell wall and cytoplasmic membrane component synthesis
+
+**** Anti-parasitic Drugs
+- Often toxic to both parasite and host
+- Differential toxicity, as opposed to selective toxicity
+
+***** Factors
+- Uptake or exposure
+- Metabolic processing of the drug
+- Susceptibility of drug action, even though the re are functionally equivalent targets in the host vs parasite
+
+**** Anti-virals
+- Many unique aspects of the viral life cycle present numerous drug targets
+
+***** Aspects
+- Host adsorption
+- Host entry and uncoating
+- Nucleic acid
+- Protein synthesis
+- Assembly of new viruses
+- Viral release from host cell
+
+** Antimicrobial Drug Resistance
+
+
+* Metabolism
+** Energy and Enzymes
+
+
+** Redox Reactions and ATP
+
+
+** Fermentation
+
+
+** Cellular Respiration
+
+
+** Anabolism

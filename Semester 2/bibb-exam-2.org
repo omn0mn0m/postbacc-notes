@@ -1,0 +1,460 @@
+Powerpoint 3, Slide 18
+
+* Nervous System Organisation
+** Anatomical References
+- Anterior/ Rostral :: Towards front/ head
+- Posterior/ Caudal :: Towards back/ tail
+
+- Dorsal :: Towards top/ back
+- Ventral :: Towards underside
+
+- Lateral :: Away from center
+- Medial :: Towards center
+
+*** Neuroanatomical Planes of Section
+- Sagittal :: Brain sliced into left and right sides
+- Axial :: Brain sliced horizontally into top and bottom sides
+- Coronal :: Brain sliced vertically into front and back sides
+
+** Subdivision of Nervous System
+- All vertebrae have both a central and peripheral nervous system
+
+*** Central Nervous System (CNS)
+- Central division consisting of the brain and the spinal cord
+
+**** Brain
+- Responsible for analysis and integration of sensory and motor info
+
+***** Meninges
+- 3 membranes that surround the brain and spinal cord:
+  - Dura mater - has a periosteal layer and a meningeal layer
+  - Arachnoid
+  - Pia mater
+
+- Subarachnoid Space:
+  - Cerebrospinal fluid (CSF)
+  - Blood vessels
+
+***** Ventricular System
+- CSF-filled caverns and canals inside the brain
+- CSF is produced by choroid plexus in ventricles
+- Protects brain by cushioning it
+- Conduit for hypothalamic peptide hormones
+
+- Brain floats in cerebrospinal fluid
+- Superior sagittal sinus is filled with venous blood
+
+- Choroid Plexus :: Specialised ependymal cells surrounding capillaries in ventricles that produce CSF
+- CSF circulates through ventricles and out into subarachnoid space
+- CSF is reabsorbed in archnoid villi and arachnoid granulations into venous sinuses
+
+***** Cerebrum
+
+
+***** Cerebellum
+
+
+***** Brainstem
+- 12 cranial nerves from the brainstem
+- Mostly innervate the head
+- Composition: Axons from CNS, somatic PNS, visceral PNS
+
+**** Spinal Cord
+- Conduit of information between brain and body
+
+- Dorsal Root :: Somatic and visceral sensory (afferents)
+- DRG :: Contains somas of sensory afferents
+- Ventral Root :: Somatic and visceral motor (efferents)
+- Spinal Nerves :: Mixed
+
+***** Imaging
+****** MRI
+- Most commonly done via magnetic resonance imaging (MRI) over computed tomography (CT)
+- MRI provides more details and does not require X-rays
+- Uses information on how hydrogen atoms respond in the brain to pertubations of a strong magnetic field
+
+- Diffusion tensor imaging :: application of MRI that measures diffusion of water in the brain to enable visualisation of large axon bundles
+
+****** fMRI
+- Function MRI
+- Active neurons have increased O2 demands and require more blood
+- fMRI detects changes in regional blood flow and blood O2 within the brain
+
+***** Development
+- Forms from walls of a fluid-filled neural tube
+- Inside of tube becomes ventricular system
+- Differentiation :: Process by which structures become complex and specialised
+
+****** Prosencephalon or forebrain
+- Axons from thalamus to cortex pass through the internal capsule
+- Carry info from contralateral side of body (opposites)
+
+******* Telencephalon (Forebrain)
+- Cerebral cortex :: Analyses sensory input and commands motor output
+- Basal ganglia
+- Hippocampus
+- Olfactory bulb
+- Basal forebrain
+
+- Lateral ventricle
+- Optic vesicles
+
+******** Cerebral Cortex in Detail
+- Neocortex - frontal, parietal, occipital, temporal lobes - Brodmann's areas (52 areas differ in cytoarchitecture)
+- Archicortex - hippocampus
+- Paleocortex - Olfactory cortex or piriform, separated from neocortex by rhinal fissure
+
+- Vision -> LGN -> V1 (Area 17)
+- Hearing -> MGN -> A1 (Areas 41, 42)
+- Somatosensory -> VPL/ VPM -> S1 (Areas 1, 2, 3)
+- Motor -> VL/ VA -> M1 (Area 4) - Initiation of complex voluntary movement
+
+- Supplementary motor area/ Premotor area (Area 6) - Motor planning
+- Prefrontal association cortex - executive function, abstract thought, decision making, anticipating consequences of action
+- P-T-O association - analysis of sensory inputs, constructs representation of our sensory world
+
+******* Diencephalon
+- Dorsal thalamus :: Gateway to cortex
+- Hypothalamus :: Controls autonomic nervous system (ANS), endocrine system (hormones), and homeostatic behaviours (feeding, drinking)
+
+- Third ventricle
+
+****** Mesencephalon or midbrain
+- Descending axons :: Contains axons descending from cortex to brain stem and spinal cord, motor systems
+     - e.g. Corticospinal tract - motor cortex to spinal motor neurons
+
+- Ascending axons :: Info conduit from spinal cord and brainstem to forebrain, sensory systems
+
+- Tectum :: superior colliculus - receives sensory info from eye
+	    inferior colliculus - receives sensory info from ear
+
+- Tegmentum :: substantia nigra (black substance) - part of basal ganglia
+	       red nucleus - control voluntary movement origin of rubrospinal tract
+
+******* Mesencephalon
+- Midbrain (Superior and inferior colliculi)
+
+- Cerebral aqueduct
+
+****** Rhombencephalon or hindbrain
+******* Metencephalon
+- Pons :: pontine nuclei receive inputs from corticospinal tract axons
+	  relays info to contralateral cerebellum
+- Cerebellum :: coordination of movements
+- Corticospinal fibers :: continues toward the spinal cord in the medullary pyramids
+
+- Fourth ventricle
+
+******* Myelencephalon
+- Medulla
+
+- Fourth ventricle
+
+****** Spinal Cord
+- Spinal cord :: ascending spinal tract - sensory
+		 descending spinal tract - motor
+
+- Lateral pathway:
+  - Corticospinal tract
+  - Rubrospinal tract
+
+- Ventromedial pathway:
+  - Medullary reticulospinal tract
+  - Tectospinal tract
+  - Pontine reticulospinal tract
+  - Vestibulospinal tract
+
+- Central canal
+
+*** Peripheral Nervous System (PNS)
+- Peripheral division consistiing of the network of nerves that course through the body
+
+**** Sensory Components
+- Sensory receptors (at surface and within the body)
+
+***** Sensory Ganglia
+
+
+***** Nerves
+
+**** Motor Components
+***** Visceral Motor System
+- Autonomic ganglia and nerves
+
+****** Sympathetic Division
+
+
+****** Parasympathetic Division
+
+
+****** Enteric Division
+
+***** Somatic Motor System
+- Motor Nerves
+
+**** Effectors
+***** Autonomic
+- Smooth muscles
+- Cardiac muscles
+- Glands
+
+***** Somatic
+- Skeletal (striated) muscles
+
+* Chemical Senses
+- Goal of understanding how sensory information is processed by the brain is to understand the sequence of events by which a stimulus leads to a subjective experience
+- Physical stimulus -> sensorying processing -> Subjective experience of that stimulus
+
+- Animals depend on chemical senses to identify nourishment, poison, potential mate
+- Chemical sensation :: oldest and most common sensory system
+- Chemical senses :: gustation, olfaction
+- Chemoreceptor :: specialised sensory receptor cell which transduces a chemical substance and generates a biological signal
+
+** Basic Steps
+1. Physical stimulus (light, sound, etc)
+2. Set of events by which the stimulus is transduced into a set of nerve impulses
+3. A response to the message, often in the perception or conscious experience of sensations
+
+** Basic Paths
+- Taste -> chemical energy -> VPMpc
+- Olfaction -> chemical energy -> MD
+- Vision -> electromagnetic -> LGN
+- Hearing -> mechanical -> MGN
+- Somatosensory -> mechanical -> VPM/VPL
+
+** Taste
+- Taste receptors are found on the tongue, pharynx, palate, and epiglottis
+- Taste buds are on papillae
+- Taste buds: circumvallate (back of tongue), foliate (side of tongue), fungiform (front of tongue)
+- Filiform papillae have no taste buds
+
+- Gustatory nucleus :: Part of solitary nucleus in the medulla
+
+*** Appetitive Tastes
+- Sweet :: Sugars/ carbohydrates provide metabolic energy
+- Umami :: Meaty/ savory flavour
+- Salty :: Senses ions critical for cellular function
+
+*** Aversive Tastes
+- Bitter :: Sense a broad spectrum of potentially poisonous compounds
+- Sour :: Common sense to rotten food
+- Too Salty :: Execessive salt causes dehydration
+
+*** Flavour
+- Taste + Olfaction + Somatosensory = Flavour (in the brain)
+
+**** Steps to distinguish countless unique flavours of food
+- Each food activates a different combination of taste receptor
+- Distinctive smell
+- Trigeminal nerve (CN V) carries information about texture, temperature, and pain that contributes to taste
+
+*** Taste Buds
+- Taste cells in taste buds transduce sensory stimuli into signals that are sent to the brain via the gustatory nerves
+- Microvilli at the apical end poke into taste pore - receptors at microvilli
+- Taste cells are not neurons but some cells have voltage-gated Na+ channels and can generate APs
+
+**** Three Distinct Anatomical Types
+***** Type I
+- Glial-like support cells
+
+***** Type II
+- Receptor cells
+- Express metabotropic receptors for sweet, bitter, and umami
+- Cells tend to be narrowly tuned to a single taste quality
+- Transduce chemical tastants using G-protein coupled receptors
+
+- Fires action potentials
+- Uses ATP as a transmitter - ATP receptors found on gustatory afferents innervating taste buds
+- Hemichannel is similar to half of a gap junction - for non-vesicular release of the neurotransmitter ATP
+- For cell-cell communication and/ or communication with gustatory nerve
+- Non-vesicular release of transmitter
+
+- Uses calcium-dependent cation channel and voltage-gated Na+ channels
+
+- Sweet :: T1R2 + T1R3
+- Bitter :: T2Rs (25 different ones)
+- Umami :: T1R1 + T1R3
+
+***** Type III
+- Presynaptic cells
+- Express receptors for sour and salty taste
+- An average type III cell responds to 3 taste qualities
+
+****** Transduction Mechanism for Salty Tastants
+- Epithelial Na+ channel, ENaC
+- Inhibited by amiloride
+- Low activation threshold (~20 mM NaCl)
+
+- Amiloride-insensitive Na+ channel (Al)
+- Higher threshold of activation (~100 mM NaCl)
+- Receptor unknown
+
+- Forms conventional synapses with gustatory nerves
+- "Presynaptic cells"
+- Transmitter may be seratonin
+
+- Voltage-gated Na+ channels gives rise to action potentials
+
+****** Transduction Mechanism for Sour Tastants
+- Depolarisation of apical membranes by a proton current
+- Intracellular acidification results in membrane depolarisation by inhibiting a K+ channel
+
+- Forms conventional synapses with gustatory nerves
+- "Presynaptic cells"
+- Transmitter may be seratonin
+
+- Voltage-gated Na+ channels gives rise to action potential
+
+*** Neural Coding of Taste
+- Zuker lab has shown that receptor cells for sweet, bitter, and umami express only one type of receptor
+- They suggest a labeled-line mode of taste coding in periphery
+- This model still gets a lot of press, but the majority of taste researchers do not support it
+
+- Calcium imaging in a tongue slice preparation represents taste cell responses (Ca++ transients) to taste stimuli
+- Type II cells generally only respond to one taste stimulus
+- Type III cells respond broadly
+
+**** Population Coding
+- Labeled line coding would require us to have an enormous number of receptor types. 
+- Population coding :: Different tastes have different spatial and temporal patterns of activation in cortex, and this is presumed to be the neural “fingerprint” of the taste.
+- The brain sorts through the population activity and allows us to perceive many different tastes – even new ones
+
+*** Other Transmitters and Neuromodulators in the Bud
+- ATP released by type II cells and serotonin released by a subset of type III cells 
+- Other transmitters and modulators found in taste cells include NE, GABA, ACh, glutamate, CCK, VIP, neuropeptide-Y, and other peptides
+- The taste bud is not a structure of parallel independent processing units (labeled line), but a collective unit involving extensive cell-to-cell interactions
+
+*** Cranial Nerves
+- VII :: Anterior 2/3 tongue
+- IX :: Posterior 1/3 tongue
+- X :: Epiglottis
+
+** Smell
+- Through the sense of smell, humans and other mammals can perceive a vast number and variety of chemicals in the external world. 
+- It is estimated that humans can sense as many as 10,000 to 100,000 chemicals as having a distinct odor. 
+- All of these “odorants” are small, volatile molecules. However, they have diverse structures and somehow those different structures are perceived as having different odors
+
+*** Olfactory Epithelium
+- Olfactory receptor neurons (ORNs) have receptors on cilia that are specialised dendrites, extending into mucus layer
+
+**** Olfactory Receptor
+- GPCRs
+- G-protein is called G_olf
+- G_olf uses alpha_olf subunit to stimulate adenylyl cyclase
+- Olfactory receptors are located on the cilia
+- When the odorant binds to its receptor, the cell is depolarised (receptor potential), triggering an AP in the soma and sending APs out the olfactory nerve
+  - Goes from a more analog signal to discrete action potentials along the axon
+- Receptor nueorns make synapsese with 2nd order neurons in the glomeruli in the olfactory bulb
+- Cells expressing a given gene go to only 2 glomeruli in each bulb
+
+***** Order
+1. GPCR binds odorant
+2. alpha_OLF  stimulates adenylyl cyclase
+3. Increased cAMP opens a cAMP-gated cation channel leading to influx of Na+ and Ca2+ 
+4. Increased Ca2+ gates a Ca2+ -activated Cl- channel leading to Cl- efflux which depolarizes the cell (outward Cl- current ? Why?)
+
+***** Olfactory GPCR Families
+- Each receptor cells has only one GPCR
+- Can be grouped according to sequence homologies into 3 gene family groups that are expressed in 3 corresponding zones in the olfactory epithelium
+- About 350 odorant receptors in humans and about 1000 in mice
+
+- Each odorant activates multiple receptors
+- Each receptor responds to multiple odorants
+- Population coding for representation of olfactory info
+- Each receptor responds to each odorant differently, even if they respond to the same odorants
+
+*** Olfactory Maps
+- Cells expressing a given gene go to only 2 glomeruli in each bulb
+- Maximises sensitivity to low concentration of odorant
+  - Signals from ~5000 receptor neurons with the same olfactory receptor converge on 2 glomeruli
+- Important for stimulation of odor memories
+  - Receptor neurons are continuously replaced by stem cells
+  - Bulb map remains constant over time
+  - Neural code in bulb remains intact
+- Olfactory map in the bulb is identical in different individuals
+
+- Olfactory cortex has a stereotyped map of olfactory receptor inputs
+- Inputs from one olfactory receptor diverges to multiple areas of the olfactory cortex
+
+*** Olfactory Pathways
+- Second-order neurons project to piriform cortex (1o olfactory cortex) in the olfactory tract
+- Information is sent to other temporal lobe structures which mediate emotion, motivation, memory effects of odors
+- Second order neurons project to olfactory tubercle to MD thalamus -> orbitofrontal neocortex
+- Conscious perceptions of smell, odor discrimination
+
+*** Olfactory Cortex
+- Inputs from different ORs are segregated in different neurons and glomeruli in the OE and OB respectively
+- In contrast, different receptor inputs overlap extensively in the OC (A)
+- Single cortical neurons integrate signals from a combination of receptors that recognize the same odorant (convergence) (B)
+
+*** Coincidence Detectors
+- Cortical neurons function as coincidence detectors
+- Olfactory cortical neurons require simultaneous inputs from different odorant receptors to identify a single odorant
+- Odorant mixtures can activate cortical neurons that don’t respond to either odorant alone
+- Mixing different odorants together can create  novel odor perceptions
+  - For example a binary mix of eugenol (clove) and phenylethyl alcohol (rose) is perceived as "carnation," a distinctly different scent
+- Cortical cell must be synchronously activated to respond to that single odorant
+- Cortical cell responds to odorant mixtures but not either odorant alone
+
+*** Temporal Coding
+- Some olfactory GPCRs respond to both odorants and mechanical stimulation during nasal breathing
+- Responses from 2 olfactory bulb neurons
+- Nasal breathing entrains the neurons to fire synchronously
+- Odor information is encoded by spike timing, number, rhythmicity and synchrony
+
+* Vision
+- Visual perception involves active interpretation by the observer
+
+- Ophthalmoscope :: Permits you to see retina and vitreous
+
+** Light
+- Major source of electromagnetic energy reaching the surface of the earth is the sun
+- Other sources of light include starlight, emitted manmade light
+
+- Wavelength is between trough to trough
+- Amplitude is from lowest to highest point of wave
+
+- Visible light occupies a small waveband in the electromagnetic spectrum
+- Visible light - human eye responds to electromagnetic energy between ~400-700 nm
+
+- Photons of light arrive from the sun (or other source) and bounces off objects
+- Some of them bounce from object into our eyes
+
+** Eye Anatomy
+- Blood vessels surround the center of fovea
+
+*** Retina
+- Multilayered neural structure
+- At the fovea, only receptors (cones)
+- Axons of ganglion cells leave retina through optic disc and enter optic nerve
+- No receptors -> “blind spot”
+
+- Optical system of the eye (cornea, lens) projects a physical image of the world onto the retina.
+- Retina converts “optical image” in to a ”neural image” for transmission down the optic nerve to the brain for further analysis.
+- Task is complex – which is reflected in the synaptic organization of the retina.
+- 3 interconnected layers and 5 classes of neurons
+
+**** Stages of Vertical Information Flow
+1. Transduction of the image by photoreceptors (physical energy (photons) --> electrochemical energy)
+2. Photoreceptors synapse on bipolar cells
+3. Bipolar cells synapses on ganglion cells
+4. Ganglion cell axons exit in optic nerve and project to the brain
+
+**** Stages of Lateral Information Flow
+- At each synaptic stage there are specialized laterally connecting neurons called horizontal cells and amacrine cells.
+- These cells modify forward transmission across the synaptic layers (largely by inhibition)
+  
+
+* Auditory
+
+
+* Vestibular
+
+
+* Somatosensory
+
+
+* Spinal Cord
+
+
+* Movement

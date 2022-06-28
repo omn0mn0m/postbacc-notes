@@ -1,0 +1,174 @@
+* Module 4 - Muscle and Nerve
+
+
+* Module 5 - Circulatory System and Immune System
+
+** Functions
+- Transports O2 to tissues
+- Transports CO2 away from tissues
+
+** Components
+- Blood and circulatory system
+
+** Pathway
+- Right Atrium -> Right Ventricle -> Pulmonary Artery -> Pulmonary Arterioles -> Lungs
+- Lungs -> Pulmonary Venules -> Pulmonary Vein -> Left Atrium
+- Left Atrium -> Left Ventricle -> Aorta -> Systemic Artery -> Systemic Arterioles -> Systemic Capillaries
+- Systemic Capillaries -> Systemic Venules -> Systemic Veins -> Vena Cava -> Right Artrium
+
+** Heart
+- Pumps blood continuously throughout life
+  - Intrinsic pacemakers
+- Entire muscle must contract with each beat
+  - Specialised conduction system
+  - Intercalated disc
+    - Gap junctions: cell-cell conduction
+    - Adherens junctions, desmosomes
+- Blood flow must be unidirectional
+  - Specialised valves
+- Must receive O2 and nutrients
+  - Heart is supplied by coronary arteries
+
+** Arteries and Veins
+- Arteries are thicker than veins
+- Arteries tend to stay round
+- Veins can collapse more easily
+
+*** Superficial to Deep Layers
+- Endothelium
+- Intima
+- Media
+- Adventitia
+- Vasa vasorum
+
+*** Artery Functions
+- Conductance: Elastic
+- Distribution: Muscular
+- Regulation: Arterioles
+
+** Immune System
+*** Lymphoid Tissue
+- Usually found in mucosa
+- Usually non-encapsulated
+
+**** Types
+- GALT
+- BALT
+- MALT
+- Tonsils
+
+*** Thymus
+**** Function
+- Production of immumocompetent T lymphocytes
+
+**** Embryology
+- Endodermal cells give rise to epithelial reticular cells
+
+**** Organisation
+- Cortex and medulla
+- Connective tissue capsule
+- Lobular
+
+***** Thymus Cortex
+- Site of T cell maturation
+- Densely staining due to large number of lymphocytes
+- Contain epithelial reticular cells but they are more difficult to ID
+
+***** Blood-Thymic Barrier (Cortex)
+- Maintains a supply of naiive stem cells
+- Prevents blood-bourne antigens from reaching developing T-cells
+
+****** Components
+- Capillary endothelium
+- Endothelial basal lamina
+- Macrophages
+- Reticular cell basal lamina
+- Reticular cells
+
+***** Thymus Medulla
+****** Site of Hassall's Corpuscle
+- Presence of epithelial reticular cells
+  - Less lymphocytes so lighter staining
+
+******* Hassall's Corpuscles
+- Consists of concentric layers of flattened epithelial reticular cells
+- Produces a cytokine
+- Plays a role in dendritic cell induction of certain T cells
+
+*** Lymph Node Medulla
+**** Medullary Cords
+- Contains plasma cells, B lymphocytes, reticular cells, and macrophages
+
+**** Medullary Sinuses
+- Irregular spaces containing lymph, macrophages, plasma cells
+
+
+* Module 5 ID
+** c32_40xr
+- Cardiac muscles: striated, intercalated discs
+- Pukinjie fibres: large cells, lines cardiac muscle
+
+** artery_vein_01_74_40xr
+- Arteries: internal, wavy, elastic lamina (scalloped interior)
+  - Tunica Intima: Internal region of artery
+  - Tunica Media: Largest section of artery
+  - Tunica Adventitia: Outside region of artery, half the size of tunica media
+- Veins: no wavy lamina
+
+** c18_40xr
+- Artery: scalloped interior
+  - External elastic lamina: between tunica adventitia and tunica media
+- Vein: Not as squished, main distinguisher is lack of scalloped interior
+- Peripheral nerve bundle
+  - Axons: White circles (myelinated sheath) with dots (axon)
+
+** l35_40xr
+- Lymph node
+- Lymph node medulla: interior region
+  - Medullary cords: darker regions
+  - Medullary sinuses: lighter regions
+- Lymph node cortex: exterior region
+  - Germinal center: lighter region
+  - Paracortex: Inner region
+  - Outer cortex: Outer region
+- Capsule of connective tissue: pink area around the lymph node
+
+** Web Slides
+*** 77029
+ - Cardiac muscle
+
+*** 41
+ - Cardiac muscle
+ - Stained with colloroid
+   - Blue = collagen
+
+*** 45
+ - Artery at bottom: thicker wall
+   - Predominant cell in media: Elastic fibre
+ - Vein at top: collapsed
+   - adventitia is thickest layer in vein
+ - Area next to vein:
+   - Artery on the left (thicker)
+   - Vein on the right (thinner and collapsed)
+ - Capillaries: about the size of a blood cell
+
+*** 18
+ - Thymus
+ - Has lobes
+ - Single coloured red areas are vessels
+ - Reticular cells -> desmosomes: Most easily found in medulla
+   - Large nucleus
+
+*** 19
+- Spleen
+  - Red pulp: darker area
+  - White pulp: lighter area
+
+
+* Module 6 ID
+** Skin
+- s79_40xr: thick skin
+- s76_40xr: thin skin
+
+** Respiratory
+- Lung for exam will be web slides

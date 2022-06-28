@@ -1,0 +1,98 @@
+* Molecular Microbiology
+** Gene Expression Intro
+- Gene expression :: process by which DNA directs synthesis of a functional molecule; could be functional RNA or protein
+
+** Transcription
+- Transcription :: copies information from a DNA sequence (gene) to a complementary RNA or protein
+
+*** Terminology
+| Component        | Comment                                                                                                                                                                                                                         |
+|------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| (-) strand       | Strand of DNA that serves as the template for RNA synthesis; resulting RNA is complementary to this strand                                                                                                                      |
+| (+) strand       | Strand of DNA complementary to the one that serves as the template for RNA synthesis; the nucleotide sequence of the RNA molecule is the same as this strand, except it has uracil rather than thymine                          |
+| Promoter         | Nucleotide sequence to which RNA polymerase binds to initiate transcription                                                                                                                                                     |
+| RNA polymerase   | Enzyme that synthesises RNA using single-stranded DNA as a template; synthesis always occurs in the 5' to 3' direction                                                                                                          |
+| Sigma ($\sigma$) | Components of RNA polymerase that recognises the promoter regions. A cell can have different types of $\sigma$ factors that recognise different promoters, alllowing the cell to transcribe specialised sets of genes as needed |
+| Terminator       | Nucleotide sequence at which RNA synthesis stops; the RNA polymerase falls off the DNA template and releases the newly synthesised RNA                                                                                          |
+
+*** Stages of Transcription
+**** 1. Initiation
+- RNA polymerase binds to a promoter sequence and forms a transcription bubble
+- For RNA synthesis: only one strand of DNA (template strand) is used, other DNA strand is the nontemplate or coding strand
+  - mRNA is complementary to the template strand
+- Bacterial RNA polymerase is a holoenzyme made up of a core enzyme and a sigma subunit (or factor)
+  - Sigma subunits act as regulatory factors, guiding the core RNA polymerase to specific promoter sequences on the DNA template strand
+  - Most bacteria have various sigma subunits
+  - Different sigmas give bacteria the ability to turn on large sets of genes w/ similar function based upon environmental conditions
+    - S70 = housekeeping
+    - S38 = starvation conditions
+    - S32 = heat shock conditions
+
+**** 2. Elongation
+- RNA polymerase synthesises new RNA strand in 5' to 3' direction
+- New nucleotides added through phophodiester bond formation
+  - Hydrogen bonds form between complementary base pairs
+  - Phosphodiester bond is formed by RNA polymerase after base pairing occurs
+- $(RNA)_{n residues} + NTP <-> (RNA)_{n+1 residues} + PP_i$
+
+**** 3. Termination
+- RNA polymerase and hence transcription stops
+
+***** Methods
+- $\rho$-independent termination :: RNA polymerase encounters a transcription termination signal in the DNA template, coding for RNA that forms a hairpin structure and hence causes the RNA polymerase to separate from the RNA transcript
+- $\rho$-dependent termination :: $\rho$ helicase binds on a specific RNA site (rut site), starts to migrate and eventually separates the RNA from the DNA template
+- Eukaryotic cells process RNA molecules after transcription
+  - Addition of a 5' cap
+  - Addition of a poly-A tail at the 3' end
+  - Introns are removed and exons are spliced together
+
+** Translation
+- Translation :: uses info from messenger RNA (mRNA) to synthesise a specific sequence of amino acids (polypeptide) at the ribosome
+- Genetic code is used for this decoding process
+
+*** Terminology
+| Component               | Comment                                                                                                                                                                                          |
+|-------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Anticodon               | Sequence of three nucleotides in a tRNA molecule that is complementary to a particular codon in mRNA. The anticodon allows the tRNA to recognise and bind to the appropriate codon               |
+| mRNA                    | Type of RNA molecule that contains the genetic info deciphered during translation                                                                                                                |
+| Polyribosome (polysome) | Multiple ribosomes attached to a single mRNA molecule                                                                                                                                            |
+| Reading frame           | Grouping of a stretch of nucleotides into sequential triplets; an mRNA molecule has 3 potential reading frames, but only one is typically used in translation                                    |
+| Ribosome                | Structure that facilitates the joining of amino acids during the process of translation; composed of protein and ribosomal RNA. The prokaryotic ribosome (70S) consists of a 30S and 50S subunit |
+| Ribosome-binding site   | Sequence of nucleotides in mRNA to which a ribosome binds; the first time the codon for methionine (AUG) appears after that site, translation generally begins                                   |
+| rRNA                    | Type of RNA molecule present in ribosomes                                                                                                                                                        |
+| Start codon             | Codon at which translation is initiated; it is typically the first AUG aftera ribosome-binding site                                                                                              |
+| Stop codon              | Codon that terminates translation, signaling the end of the protein; there are 3 stop codons                                                                                                     |
+| tRNA                    | Type of RNA molecule that acts as a key that interprets the genetic code; each tRNA molecule carries a specific amino acid                                                                       |
+
+*** Ribosomes
+- Made of 2 subunits (large and small) that both contain protein and rRNA
+- Large subunit - 3 tRNA binding sites
+
+**** Sites
+- A site :: holds an aminoacyl tRNA
+- P site :: holds the tRNA with growing polypeptide attached
+- E site :: holds a tRNA that will exit
+
+*** Stages of Translation
+**** 1. Intiation
+- Small ribosome subunit binds to a region on the mRNA "upstream" of the start codon on the mRNA
+- In bacteria, this is the Shine-Dalgarno sequence; start codon is about 8 bp upstream
+- In eukaryotes, this is the mRNA 5' cap; the ribosomes then move downstream and scans the mRNA for the first start codon (AUG)
+- Met tRNA binds to mRNA AUG codon and the large subunit of the ribosome is recruited
+
+**** 2. Elongation
+1. Codon recognition - anticodon of an incoming tRNA pairs with the mRNA codon at the A site
+2. Peptide bond formation - ribosome catalyses peptide bond formation between amino acids at the A and P site
+3. Translocation - ribosome shifts relative to mRNA/ tRNA; naked tRNA now in E site and ejected, while polypeptide:tRNA shifted to P site
+4. Repeats 1-3
+
+**** 3. Termination
+- When an mRNA stop codon enter the ribosome A site
+- Protein called release factor enters the A site and facilitates the hydrolysis of the bond between tRNA and the polypeptide chain
+- The processes of transcription and translation are physically segregated by the nuclear envelope in eukaryotes; good for RNA modification steps
+- In prokaryotes, they lose ability to modify RNA but they gain speed in that transcription and translation can actually be coupled
+
+* Prokaryotic Phlogeny and Identification
+
+
+* Virology

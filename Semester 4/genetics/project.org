@@ -1,0 +1,40 @@
+* Figure 1
+
+  - male male aggression
+  - Gal4-UAS -> important system for group figure
+  - activates TF like in yeast
+  - UAS is target for transcription factor
+  - Genes are neuropeptides
+  - TK 1 & 2 increase aggression, 3 & 4 does not
+  - TrpA1 = leaky sodium channel protein
+  - 22 C is restrictive temperature
+
+* Figure 2
+  - Shows are specific to male brain
+  - J shows aggression suppression due to use of K+ channel
+
+* Figure 3
+  - Negative data
+
+* Figure 4
+  - Dashed line == missing DNA
+  - Yellow + grey == exon
+  - Line connecting boxes == intro
+
+* Figure 5
+  - Same deletion but with tachykinen
+
+* Figure 6
+  - Explain that figure uses data from Figures 1 and 5
+  - Explain results
+  - At 22 C, no aggression
+  - Fig A shows 1 Tk gene
+    - 3rd column shows that deletion does not fully remove aggression
+  - Fig B shows hyper aggression
+    - If all 3 are present, then same result as Figure 1
+  - Focus for discussion:
+    - Fig C shows Takr86C is the receptor
+    - Grey is uncoded, orange is coded, thin line is intron
+    - Green dotted line is what was deleted (mutant of Takr86C for deletion)
+    - Tk necessary for hyperaggression, not necessarily aggression
+  - Division of figures: {A, B}, {C, [D,E]}
